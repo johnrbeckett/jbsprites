@@ -10,13 +10,13 @@ How to get the sprites showing in your own Claude chats, and how to hook them in
 
 ## 1. Install the skill
 
-Build the package from this repo:
+Download **`jbsprites.skill`** from the latest release:
 
-    scripts/package.sh
+    https://github.com/johnrbeckett/jbsprites/releases/latest/download/jbsprites.skill
 
-That writes `jbsprites_<date>.skill` (a zip of `SKILL.md`) to `~/Developer/Outputs/`; set `OUT=<folder>` to put it elsewhere. Then in Claude: Settings > Capabilities > Skills > upload the `.skill` file.
+Then in Claude: Settings > Capabilities > Skills > upload the `.skill` file. To update, remove the old jbsprites skill first, then upload the new one; an old copy left installed keeps pointing at old sprite tables.
 
-You can also zip the repo's `SKILL.md` yourself inside a folder named `jbsprites` and upload that.
+To build it yourself instead, run `scripts/package.sh` (writes `jbsprites_<date>.skill` to `~/Developer/Outputs/`; set `OUT=<folder>` to change that), or zip the repo's `SKILL.md` inside a folder named `jbsprites`.
 
 ## 2. Tell Claude when to use it
 
@@ -24,11 +24,14 @@ A skill only loads when something asks for it. Pick one or more of these.
 
 ### Everywhere: your Claude preferences
 
-In claude.ai or the desktop app, add one line to your personal preferences (Settings > Profile, "What personal preferences should Claude consider"), or ask Claude to save it to memory:
+Installing the skill is not enough on its own: a skill loads only when something asks for it. To have sprites in every chat, give Claude a standing instruction in one of two places:
+
+- **Personal preferences (most reliable).** Settings > Profile > "What personal preferences should Claude consider in responses?" Paste the line below. Preferences are read at the start of every chat.
+- **Memory.** If memory is on for your account, say to Claude: "Remember this as a preference:" followed by the line below. Check it was saved by asking "what do you remember about how I like you to work?"
 
 > For any task that involves real work in the Claude desktop app or claude.ai, use the jbsprites skill (default family tumnus) for start and end sprites.
 
-This is the line that makes every chat use them, whatever the task.
+Start a new chat afterwards; a chat that is already open does not pick up new preferences.
 
 ### Inside another skill
 
