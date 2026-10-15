@@ -14,7 +14,7 @@ A caller (another skill, or the user's preferences) says which family to use. No
 Every task the user asks for in chat gets two beats, one at each end of the turn, never stacked together:
 
 1. **Start.** A start sprite picked by the kind of work, from the family's Start table, as the work begins.
-2. **End.** After the reply, as the very last thing in the turn, one of:
+2. **End.** At the close of the turn (where it goes depends on the app; see How), one of:
    - **Done** when the work finished: the small row for a quick or minor task, the cheering row for real work. **Big win** when several things finished at once or a big milestone landed. **Signing off** for the last task of the day or a Friday afternoon. **Sent** when the work was an email or message going out.
    - **Oops** when the work failed, a connector errored, or it could not be finished. Use the Oops row matching the kind of failure (general when none fits), then say plainly what failed. Never show Done for work that did not get done.
    - **Your turn** when the reply ends with a question or a decision for the user.
@@ -34,7 +34,10 @@ Pick at random within a row, avoiding the sprite used just before when there is 
 - Send the start sprite in the same parallel batch as the next real work call. Never spend a round trip on a start sprite alone; if there is no real work call to ride with, skip it.
 - The end sprite goes AFTER the reply, never on top of it:
   - Where the chat shows text written before a tool call in full (claude.ai): write the reply, then call the widget as the last step, and write nothing after it.
-  - Where text between tool calls is collapsed (the Cowork desktop app): send the reply with the SendUserMessage tool, then call the widget as the last step, and end the turn with no further text.
+  - Where text between tool calls is collapsed (the Cowork desktop app), the app always shows the final text below every widget, insists on some final text, and does not render images written into text. So:
+    - **Keep the two sprites apart.** Right after the start sprite, send a one-line progress note with SendUserMessage ("Pushing the repo now"). That line sits between the two sprites, so they never stack. No note to send means no start sprite.
+    - **Real work:** send the reply with SendUserMessage, then the end sprite, then a short closing phrase as the final text, matching the sprite's moment. Done: "Done." "All sorted." "That's in." Big win: "That's the lot!" "A good day's work." Sent: "Sent." "Off it goes." Oops: "Not this time." "That one fought back." Your turn: "Over to you." "Your call." Signing off: "That's a wrap for today." The phrase adds nothing new, never repeats the one used just before, and never offers more help.
+    - **Quick tasks** (a reply of a few lines): the end sprite, then the reply as the final text.
 - Widget code, nothing else in it, with the family and sprite name swapped in:
 
 `<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v6/<family>/<name>.webp">`

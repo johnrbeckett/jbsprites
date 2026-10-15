@@ -22,4 +22,5 @@
 - fb757ff Sheet 19, de-dup pass, tag v4; all 238 mapped sprites verified 200. Pushed 2026-10-15.
 - b88409f docs/SETUP.md (install, preference line, hooking other skills, Claude Code limits, adding a family). Pushed.
 - 60f2e6d Sheets 20 to 23, tag v5; all 92 new mapped sprites verified 200. Pushed 2026-10-15.
-- Next commit: Narnia sheets 24 to 31, tag v6. See git log for push state.
+- 3d68aeb Narnia sheets 24 to 31, tag v6.
+- Cowork placement fix (2026-10-15): a one-line progress note after the start sprite so the two never stack; for real work the reply goes out as a message, then the end sprite, then a short closing phrase as the final text (the app demands final text and does not render images in text, tested). No new tag; sprites unchanged. Pushed, and packaged as jbsprites_2026-10-15b.skill.
