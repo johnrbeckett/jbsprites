@@ -1,0 +1,109 @@
+{
+  "sheet": "18-desktop-visitors-and-playful-tech.png",
+  "width": 1536,
+  "height": 1024,
+  "columns": 5,
+  "rows": 4,
+  "poses": [
+    {
+      "row": 1,
+      "column": 1,
+      "name": "robin-on-horn"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "name": "cat-in-chair"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "name": "moth-and-lamp"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "name": "robin-on-hand"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "name": "butterfly-notebook"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "name": "cat-at-feet"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "name": "sleeping-cat"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "name": "owl-and-books"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "name": "squirrel-satchel"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "name": "shoo-pigeon"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "name": "untangle-network"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "name": "sweep-pixels"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "name": "repair-cloud"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "name": "water-server"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "name": "carry-cursor"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "name": "catch-pixels"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "name": "connect-cloud"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "name": "sort-data-cubes"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "name": "server-checkup"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "name": "polish-gear"
+    }
+  ]
+}

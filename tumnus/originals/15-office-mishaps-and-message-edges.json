@@ -1,0 +1,109 @@
+{
+  "sheet": "15-office-mishaps-and-message-edges.png",
+  "width": 1536,
+  "height": 1024,
+  "columns": 5,
+  "rows": 4,
+  "poses": [
+    {
+      "row": 1,
+      "column": 1,
+      "name": "coffee-stain"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "name": "airplane-on-horn"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "name": "tangled-cable"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "name": "sticky-note-forehead"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "name": "catching-notebook"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "name": "balancing-folders"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "name": "broken-pencil"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "name": "brushing-crumbs"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "name": "caught-cuff"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "name": "upside-down-chart"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "name": "peek-left"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "name": "peek-right"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "name": "lean-on-divider"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "name": "point-down"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "name": "point-right"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "name": "point-left"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "name": "blank-sign"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "name": "peek-over-divider"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "name": "offer-pen"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "name": "attention"
+    }
+  ]
+}

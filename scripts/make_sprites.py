@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Cut a family's sprite sheets (<family>/originals/*.png) into single sprites.
+"""Cut the Tumnus sprite sheets in art/originals/ into single sprites.
 
-Writes <family>/<sheet>_<NN>.webp: transparent, longest side 160 px,
+Writes art/sprites/<sheet>_<NN>.webp: transparent, longest side 160 px,
 lossy WebP (quality 80, alpha quality 80), about 7 KB each.
 
 How the cut works: pixels with alpha >= 240 (eroded by one pixel) form the
@@ -11,9 +11,10 @@ pixel goes to its nearest core, and is kept only if it is fairly opaque
 (question marks, umbrellas) and drops stray haze. Sprites are numbered in
 reading order, row by row.
 
-Usage: python3 scripts/make_sprites.py <family>   (needs numpy, scipy, Pillow)
+Usage: python3 art/make_sprites.py   (needs numpy, scipy, Pillow)
 """
 import glob
+import json
 import os
 
 import numpy as np
@@ -21,7 +22,6 @@ from PIL import Image
 from scipy import ndimage
 
 import sys
-
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FAMILY = sys.argv[1] if len(sys.argv) > 1 else "tumnus"
 OUT = os.path.join(ROOT, FAMILY)
@@ -40,10 +40,24 @@ def cut(path):
     dist, (iy, ix) = ndimage.distance_transform_edt(seeds == 0, return_indices=True)
     owner = seeds[iy, ix]
     centres = ndimage.center_of_mass(core, lab, keep)
-    order = [k for _, k in sorted(zip(centres, keep),
-                                  key=lambda z: (round(z[0][0] / 200), z[0][1]))]
-    for b in order:
-        m = (owner == b) & (((a >= 128) & (dist <= 70)) | ((a > 0) & (dist <= 6)))
+    grid = None
+    idx = os.path.splitext(path)[0] + ".json"
+    if os.path.exists(idx):
+        meta = json.load(open(idx))
+        grid = (meta["columns"], meta["rows"])
+    if grid:
+        cols, rows = grid
+        h, w = a.shape
+        cells = {}
+        for (cy, cx), k in zip(centres, keep):
+            cell = (min(int(cy * rows / h), rows - 1), min(int(cx * cols / w), cols - 1))
+            cells.setdefault(cell, []).append(k)
+        groups = [cells[c] for c in sorted(cells)]
+    else:
+        groups = [[k] for _, k in sorted(zip(centres, keep),
+                                         key=lambda z: (round(z[0][0] / 200), z[0][1]))]
+    for g in groups:
+        m = np.isin(owner, g) & (((a >= 128) & (dist <= 70)) | ((a > 0) & (dist <= 6)))
         c = im.copy()
         c[:, :, 3] = np.where(m, a, 0)
         c[c[:, :, 3] == 0, :3] = 0
