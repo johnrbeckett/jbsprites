@@ -1,0 +1,126 @@
+{
+ "columns": 5,
+ "rows": 4,
+ "poses": [
+  {
+   "row": 1,
+   "column": 1,
+   "state": "image-and-design",
+   "pose": "sketching"
+  },
+  {
+   "row": 1,
+   "column": 2,
+   "state": "image-and-design",
+   "pose": "painting-at-easel"
+  },
+  {
+   "row": 1,
+   "column": 3,
+   "state": "image-and-design",
+   "pose": "palette-and-brush"
+  },
+  {
+   "row": 1,
+   "column": 4,
+   "state": "image-and-design",
+   "pose": "graphics-tablet"
+  },
+  {
+   "row": 1,
+   "column": 5,
+   "state": "image-and-design",
+   "pose": "ruler-and-drawing-pad"
+  },
+  {
+   "row": 2,
+   "column": 1,
+   "state": "image-and-design",
+   "pose": "taking-photo"
+  },
+  {
+   "row": 2,
+   "column": 2,
+   "state": "image-and-design",
+   "pose": "reviewing-camera"
+  },
+  {
+   "row": 2,
+   "column": 3,
+   "state": "image-and-design",
+   "pose": "adjusting-tripod"
+  },
+  {
+   "row": 2,
+   "column": 4,
+   "state": "image-and-design",
+   "pose": "comparing-photos"
+  },
+  {
+   "row": 2,
+   "column": 5,
+   "state": "image-and-design",
+   "pose": "inspecting-slide"
+  },
+  {
+   "row": 3,
+   "column": 1,
+   "state": "image-and-design",
+   "pose": "color-swatches"
+  },
+  {
+   "row": 3,
+   "column": 2,
+   "state": "image-and-design",
+   "pose": "comparing-colors"
+  },
+  {
+   "row": 3,
+   "column": 3,
+   "state": "image-and-design",
+   "pose": "layout-board"
+  },
+  {
+   "row": 3,
+   "column": 4,
+   "state": "image-and-design",
+   "pose": "marking-layout"
+  },
+  {
+   "row": 3,
+   "column": 5,
+   "state": "image-and-design",
+   "pose": "crop-guides"
+  },
+  {
+   "row": 4,
+   "column": 1,
+   "state": "image-and-design",
+   "pose": "trimming-print"
+  },
+  {
+   "row": 4,
+   "column": 2,
+   "state": "image-and-design",
+   "pose": "framing-photo"
+  },
+  {
+   "row": 4,
+   "column": 3,
+   "state": "image-and-design",
+   "pose": "presenting-frame"
+  },
+  {
+   "row": 4,
+   "column": 4,
+   "state": "image-and-design",
+   "pose": "proof-review"
+  },
+  {
+   "row": 4,
+   "column": 5,
+   "state": "image-and-design",
+   "pose": "portfolio-presentation"
+  }
+ ]
+}

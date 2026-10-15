@@ -37,7 +37,7 @@ Pick at random within a row, avoiding the sprite used just before when there is 
   - Where text between tool calls is collapsed (the Cowork desktop app): send the reply with the SendUserMessage tool, then call the widget as the last step, and end the turn with no further text.
 - Widget code, nothing else in it, with the family and sprite name swapped in:
 
-`<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v3/<family>/<name>.webp">`
+`<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v4/<family>/<name>.webp">`
 
 ## Family: tumnus (default)
 
@@ -48,13 +48,13 @@ A faun in business casual. Rows marked for trackers apply when the caller is a t
 | Kind of work | Sprites |
 |---|---|
 | Writing or drafting | 10-workflow-full-body_14, 10-workflow-full-body_15, 10-workflow-full-body_16, 10-workflow-full-body_17, 06-business-casual_07, 07-outfit-variations_03, 07-outfit-variations_10, 07-outfit-variations_35, 13-icons-hands-busts_01, 13-icons-hands-busts_13, 13-icons-hands-busts_18, 16-working-and-discoveries_09 |
-| Research or reading | 10-workflow-full-body_11, 10-workflow-full-body_12, 10-workflow-full-body_13, 06-business-casual_18, 07-outfit-variations_08, 07-outfit-variations_16, 07-outfit-variations_24, 07-outfit-variations_28, 13-icons-hands-busts_10, 13-icons-hands-busts_21, 16-working-and-discoveries_02, 16-working-and-discoveries_03, 16-working-and-discoveries_11, 16-working-and-discoveries_12, 16-working-and-discoveries_14, 16-working-and-discoveries_15, 16-working-and-discoveries_17, 16-working-and-discoveries_18, 16-working-and-discoveries_19, 18-desktop-visitors-and-playful-tech_08 |
+| Research or reading | 10-workflow-full-body_11, 10-workflow-full-body_12, 10-workflow-full-body_13, 06-business-casual_18, 07-outfit-variations_08, 07-outfit-variations_16, 07-outfit-variations_24, 07-outfit-variations_28, 13-icons-hands-busts_10, 13-icons-hands-busts_21, 16-working-and-discoveries_02, 16-working-and-discoveries_03, 16-working-and-discoveries_11, 16-working-and-discoveries_12, 16-working-and-discoveries_14, 16-working-and-discoveries_15, 16-working-and-discoveries_17, 16-working-and-discoveries_18, 18-desktop-visitors-and-playful-tech_08 |
 | Email, reconcile, sweep | 10-workflow-full-body_06, 10-workflow-full-body_07, 10-workflow-full-body_08, 10-workflow-full-body_09, 10-workflow-full-body_10, 07-outfit-variations_32, 13-icons-hands-busts_03, 13-icons-hands-busts_15 |
 | Add (new tracker item) | 06-business-casual_07, 07-outfit-variations_03, 07-outfit-variations_36 |
 | Waiting on someone | 06-business-casual_12, 07-outfit-variations_01, 07-outfit-variations_11, 07-outfit-variations_12 |
 | Morning brief (on demand) | 07-outfit-variations_04, 07-outfit-variations_08, 07-outfit-variations_23, 06-business-casual_09, 16-working-and-discoveries_01 |
-| The list | 07-outfit-variations_14, 07-outfit-variations_33, 16-working-and-discoveries_06 |
-| Next | 06-business-casual_16, 07-outfit-variations_15, 07-outfit-variations_27, 15-office-mishaps-and-message-edges_15, 15-office-mishaps-and-message-edges_16 |
+| The list | 07-outfit-variations_14, 07-outfit-variations_33 |
+| Next | 06-business-casual_16, 07-outfit-variations_15, 15-office-mishaps-and-message-edges_15, 15-office-mishaps-and-message-edges_16 |
 | Now | 07-outfit-variations_13, 06-business-casual_08 |
 | Gaps, stale items | 06-business-casual_10, 06-business-casual_22, 07-outfit-variations_16, 07-outfit-variations_07 |
 | Week, quarter, year | 06-business-casual_18, 07-outfit-variations_24, 07-outfit-variations_28 |
@@ -65,7 +65,7 @@ A faun in business casual. Rows marked for trackers apply when the caller is a t
 | Calendar, scheduling, focus blocks | 14-calendar-money-tech_06, 14-calendar-money-tech_07, 14-calendar-money-tech_08, 14-calendar-money-tech_09, 14-calendar-money-tech_10, 13-icons-hands-busts_04 |
 | Invoices, payments, money | 14-calendar-money-tech_11, 14-calendar-money-tech_12, 14-calendar-money-tech_13, 14-calendar-money-tech_14, 14-calendar-money-tech_15, 13-icons-hands-busts_05 |
 | Technical (DNS, servers, networks, code) | 14-calendar-money-tech_16, 14-calendar-money-tech_17, 14-calendar-money-tech_18, 14-calendar-money-tech_19, 14-calendar-money-tech_20, 13-icons-hands-busts_06, 13-icons-hands-busts_16, 16-working-and-discoveries_08, 18-desktop-visitors-and-playful-tech_11, 18-desktop-visitors-and-playful-tech_12, 18-desktop-visitors-and-playful-tech_13, 18-desktop-visitors-and-playful-tech_14, 18-desktop-visitors-and-playful-tech_15, 18-desktop-visitors-and-playful-tech_16, 18-desktop-visitors-and-playful-tech_17, 18-desktop-visitors-and-playful-tech_18, 18-desktop-visitors-and-playful-tech_19, 18-desktop-visitors-and-playful-tech_20 |
-| Image or design work | 13-icons-hands-busts_11 |
+| Image or design work | 13-icons-hands-busts_11, 19-image-and-design-work_01, 19-image-and-design-work_02, 19-image-and-design-work_03, 19-image-and-design-work_04, 19-image-and-design-work_05, 19-image-and-design-work_06, 19-image-and-design-work_07, 19-image-and-design-work_08, 19-image-and-design-work_09, 19-image-and-design-work_10, 19-image-and-design-work_11, 19-image-and-design-work_12, 19-image-and-design-work_13, 19-image-and-design-work_14, 19-image-and-design-work_15, 19-image-and-design-work_16, 19-image-and-design-work_17, 19-image-and-design-work_18, 19-image-and-design-work_19, 19-image-and-design-work_20 |
 | Waiting on a long job (upload, deploy, background run) | 13-icons-hands-busts_07, 06-business-casual_12, 07-outfit-variations_12, 16-working-and-discoveries_05, 16-working-and-discoveries_07, 15-office-mishaps-and-message-edges_13 |
 | Retrying (trying again after a failure; send with the retry call) | 12-failure-and-recovery_16, 12-failure-and-recovery_17, 12-failure-and-recovery_20 |
 
@@ -73,11 +73,11 @@ A faun in business casual. Rows marked for trackers apply when the caller is a t
 
 | Moment | Sprites |
 |---|---|
-| Done, small (a quick or minor task) | 14-calendar-money-tech_01, 14-calendar-money-tech_02, 14-calendar-money-tech_03, 14-calendar-money-tech_04, 14-calendar-money-tech_05, 13-icons-hands-busts_02, 13-icons-hands-busts_20, 13-icons-hands-busts_24, 16-working-and-discoveries_13, 16-working-and-discoveries_16, 16-working-and-discoveries_20, 18-desktop-visitors-and-playful-tech_01, 18-desktop-visitors-and-playful-tech_02, 18-desktop-visitors-and-playful-tech_04, 18-desktop-visitors-and-playful-tech_05, 18-desktop-visitors-and-playful-tech_06, 18-desktop-visitors-and-playful-tech_09 |
+| Done, small (a quick or minor task) | 14-calendar-money-tech_01, 14-calendar-money-tech_02, 14-calendar-money-tech_03, 14-calendar-money-tech_04, 14-calendar-money-tech_05, 13-icons-hands-busts_02, 13-icons-hands-busts_20, 13-icons-hands-busts_24, 16-working-and-discoveries_13, 16-working-and-discoveries_16, 16-working-and-discoveries_20, 18-desktop-visitors-and-playful-tech_01, 18-desktop-visitors-and-playful-tech_02, 18-desktop-visitors-and-playful-tech_04, 18-desktop-visitors-and-playful-tech_05, 18-desktop-visitors-and-playful-tech_06, 18-desktop-visitors-and-playful-tech_09, 19-image-and-design-work_18, 19-image-and-design-work_20 |
 | Done (real work finished, an item closed) | 08-celebrations_01, 08-celebrations_02, 08-celebrations_03, 08-celebrations_04, 08-celebrations_05, 08-celebrations_06, 08-celebrations_07, 08-celebrations_08, 08-celebrations_12, 08-celebrations_13, 08-celebrations_16, 08-celebrations_17, 08-celebrations_18, 08-celebrations_19, 08-celebrations_20, 08-celebrations_22, 08-celebrations_23, 08-celebrations_24 |
 | Big win (several items closed at once, or no open High items left) | 08-celebrations_09, 08-celebrations_10, 08-celebrations_11, 08-celebrations_14, 08-celebrations_15 |
 | Signing off (last task of the day, or Friday afternoon) | 14-calendar-money-tech_03, 13-icons-hands-busts_24, 08-celebrations_20, 08-celebrations_23, 17-after-hours-and-seasonal_01, 17-after-hours-and-seasonal_02, 17-after-hours-and-seasonal_03, 17-after-hours-and-seasonal_04, 17-after-hours-and-seasonal_05, 17-after-hours-and-seasonal_06, 17-after-hours-and-seasonal_07, 17-after-hours-and-seasonal_08, 17-after-hours-and-seasonal_09, 17-after-hours-and-seasonal_10, 18-desktop-visitors-and-playful-tech_07 |
-| Oops: general (something went wrong) | 12-failure-and-recovery_01, 12-failure-and-recovery_02, 12-failure-and-recovery_03, 12-failure-and-recovery_05, 10-workflow-full-body_20, 06-business-casual_22, 07-outfit-variations_07, 15-office-mishaps-and-message-edges_01, 15-office-mishaps-and-message-edges_02, 15-office-mishaps-and-message-edges_04, 15-office-mishaps-and-message-edges_05, 15-office-mishaps-and-message-edges_07, 15-office-mishaps-and-message-edges_08, 15-office-mishaps-and-message-edges_09, 18-desktop-visitors-and-playful-tech_10 |
+| Oops: general (something went wrong) | 12-failure-and-recovery_01, 12-failure-and-recovery_02, 12-failure-and-recovery_03, 12-failure-and-recovery_05, 10-workflow-full-body_20, 06-business-casual_22, 07-outfit-variations_07, 15-office-mishaps-and-message-edges_01, 15-office-mishaps-and-message-edges_02, 15-office-mishaps-and-message-edges_04, 15-office-mishaps-and-message-edges_05, 15-office-mishaps-and-message-edges_08, 15-office-mishaps-and-message-edges_09, 18-desktop-visitors-and-playful-tech_10 |
 | Oops: blocked (access refused, permission declined, cannot proceed) | 12-failure-and-recovery_08, 12-failure-and-recovery_10, 13-icons-hands-busts_09 |
 | Oops: connection error (a connector or service is down) | 12-failure-and-recovery_09 |
 | Oops: timed out | 12-failure-and-recovery_12 |
