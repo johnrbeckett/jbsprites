@@ -36,11 +36,29 @@ Pick at random within a row, avoiding the sprite used just before when there is 
   - Where the chat shows text written before a tool call in full (claude.ai): write the reply, then call the widget as the last step, and write nothing after it.
   - Where text between tool calls is collapsed (the Cowork desktop app), the app always shows the final text below every widget, insists on some final text, and does not render images written into text. So:
     - **Keep the two sprites apart.** Right after the start sprite, send a one-line progress note with SendUserMessage ("Pushing the repo now"). That line sits between the two sprites, so they never stack. No note to send means no start sprite.
-    - **Real work:** send the reply with SendUserMessage, then the end sprite, then a short closing phrase as the final text, matching the sprite's moment. Done: "Done." "All sorted." "That's in." Big win: "That's the lot!" "A good day's work." Sent: "Sent." "Off it goes." Oops: "Not this time." "That one fought back." Your turn: "Over to you." "Your call." Signing off: "That's a wrap for today." The phrase adds nothing new, never repeats the one used just before, and never offers more help.
+    - **Real work:** send the reply with SendUserMessage, then the end sprite, then a short closing phrase as the final text, matching the sprite's moment, picked at random from the Closing phrases table below. Never the phrase used just before. A fresh phrase in the same spirit is fine. The phrase adds nothing new and never offers more help.
     - **Quick tasks** (a reply of a few lines): the end sprite, then the reply as the final text.
 - Widget code, nothing else in it, with the family and sprite name swapped in:
 
 `<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v6/<family>/<name>.webp">`
+
+## Closing phrases (Cowork)
+
+Short final lines under the end sprite. Plain, light, never cheesy. Pick at random within the row.
+
+| Moment | Phrases |
+|---|---|
+| Done, small | Done. / Sorted. / That's in. / Tidied up. / All set. / Easy one. / Ticked off. / Job done. / That's that. / Handled. |
+| Done | All sorted. / That's done and dusted. / Finished. / Signed, sealed, delivered. / Right, that's in place. / Done and checked. / That's the job. / Wrapped up. / Good to go. / In place. |
+| Big win | That's the lot! / A good day's work. / All of it, done. / Quite the haul. / Everything's in. / Clean sweep. / That went rather well. / Every box ticked. |
+| Sent | Sent. / Off it goes. / On its way. / Delivered. / Out the door. / Posted. / It's with them now. |
+| Signing off | That's a wrap for today. / Calling it there. / Good place to stop. / Enough for one day. / Lights off. / See you tomorrow. / Have a good evening. / Enjoy the weekend. (Fridays only) |
+| Oops: general | Not this time. / That one fought back. / Hit a snag. / Not quite. / Bit of a wobble. / Didn't go to plan. / Stuck, for now. |
+| Oops: blocked | Door's shut on that one. / Couldn't get in. / Access needed. / Blocked, for now. |
+| Oops: connection or timed out | Couldn't reach it. / The line went quiet. / Timed out. / No answer from that end. |
+| Oops: nothing found | Came up empty. / Nothing there. / No sign of it. / Not where I looked. |
+| Oops: tangled | Bit of a knot. / Sources disagree. / Needs untangling. / Not as simple as it looked. |
+| Your turn | Over to you. / Your call. / Your move. / Ball's in your court. / Waiting on you. / Your decision. / Up to you. / Which way? |
 
 ## Family: tumnus (default)
 
