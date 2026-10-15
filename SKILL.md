@@ -49,7 +49,7 @@ The moment picks the row; context narrows it to a shortlist; a real random draw 
     - **Quick tasks** (a reply of a few lines): the end sprite, then the reply as the final text.
 - Widget code, nothing else in it, with the family and sprite name swapped in:
 
-`<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v7/<family>/<name>.webp">`
+`<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v8/<family>/<name>.webp">`
 
 ## Closing phrases (Cowork)
 
