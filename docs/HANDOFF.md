@@ -29,3 +29,4 @@
 - 8a9f220 Narnia interleaved into the main rows (the separate guest table was never picked), tag v7; all 523 verified 200. Pushed 2026-10-15.
 - fef50df README and SETUP point at the GitHub release; preference or memory line. Pushed.
 - GitHub release v7 published 2026-10-15, asset jbsprites.skill (stable name, so releases/latest/download/jbsprites.skill always works). For each new tag: package, create a release on the tag, upload the asset as jbsprites.skill.
+- README Quick start and SETUP put the preference line in a copyable code block with where to paste it; release v7 notes updated to match. Pushed 2026-10-15.

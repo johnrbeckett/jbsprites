@@ -24,14 +24,18 @@ A skill only loads when something asks for it. Pick one or more of these.
 
 ### Everywhere: your Claude preferences
 
-Installing the skill is not enough on its own: a skill loads only when something asks for it. To have sprites in every chat, give Claude a standing instruction in one of two places:
+**The line:**
 
-- **Personal preferences (most reliable).** Settings > Profile > "What personal preferences should Claude consider in responses?" Paste the line below. Preferences are read at the start of every chat.
-- **Memory.** If memory is on for your account, say to Claude: "Remember this as a preference:" followed by the line below. Check it was saved by asking "what do you remember about how I like you to work?"
+```
+For any task that involves real work in the Claude desktop app or claude.ai, use the jbsprites skill (default family tumnus) for start and end sprites.
+```
 
-> For any task that involves real work in the Claude desktop app or claude.ai, use the jbsprites skill (default family tumnus) for start and end sprites.
+Put it in one of two places:
 
-Start a new chat afterwards; a chat that is already open does not pick up new preferences.
+- **Personal preferences (most reliable):** Settings > Profile > "What personal preferences should Claude consider in responses?" Preferences are read at the start of every chat.
+- **Memory:** if memory is on for your account, tell Claude "Remember this as a preference:" followed by the line. Check it was saved by asking "what do you remember about how I like you to work?"
+
+Installing the skill alone is not enough: a skill loads only when something asks for it. Start a new chat afterwards; a chat that is already open does not pick up new preferences.
 
 ### Inside another skill
 
