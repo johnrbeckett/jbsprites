@@ -21,16 +21,25 @@ Every task the user asks for in chat gets two beats, one at each end of the turn
 
 A reply that needs no work (a quick answer from what is already known) gets one sprite, after the reply: Done if something was completed, otherwise its Start sprite. If the start sprite would land right next to the reply (no real work in between), skip it; the end sprite is enough. A long task that finishes several separate pieces may show Done after each piece. A retry after a failure may carry a Retrying sprite.
 
-**Seasons.** For a Hello or a morning brief, use the current season's row about one time in three instead (northern hemisphere, by month). Inside a holiday window, use the holiday's row instead of the season's.
+**Seasons.** For a Hello or a morning brief, use the current season's row about one time in three instead (northern hemisphere, by month; decide with the draw below, `random.random()<1/3`). Inside a holiday window, use the holiday's row instead of the season's.
 
 Never in scheduled or unattended runs. If the widget tool is not available, skip sprites silently.
 
-Pick at random within a row, avoiding the sprite used just before when there is a choice.
+## Picking (contextual shortlist, real random draw)
+
+The moment picks the row; context narrows it to a shortlist; a real random draw picks the sprite. Never pick by feel alone: left to judgement, picks drift to the first entries in a row and the guests never appear.
+
+1. **Row.** Choose the row from the tables below, as set out in When.
+2. **Shortlist.** From that row, name the sprites that suit this particular moment, judged from the sheet names: after-hours sprites for a late sign-off, the White Witch for something blocked or frozen, the Beavers and office colleagues for team work, Aslan for a big win or a hard-won fix, travel sprites for a trip, wardrobe and lamppost scenes for comings and goings. The shortlist has at least four sprites (the whole row if it is shorter), from at least two different sheets, and includes at least one Narnia guest (sheets 24 to 31) whenever the row has one.
+3. **Draw.** Pick one from the shortlist with a shell, leaving out the sprite shown just before:
+   `python3 -c "import random;print(random.choice(['24-pevensies-at-work_20','08-celebrations_03','26-beavers-and-office-colleagues_18','31-narnia-workday-scenes_05']))"`
+4. **No shell.** Where no shell is available, take the next sprite in the shortlist after the one used last in this chat (the first, if none has been used yet).
 
 ## How (keep sprites off the critical path)
 
 - Load the widget tools (`mcp__visualize__read_me`, `mcp__visualize__show_widget`) in the same ToolSearch call as the other tools the task needs.
 - Call read_me once per chat, silently, in the same parallel batch as the first real work call.
+- Run each draw in the same parallel batch as a real work call, never as a step of its own: the start draw alongside the first work call, the end draw alongside the last one. The widget then goes out with the next call as below.
 - Send the start sprite in the same parallel batch as the next real work call. Never spend a round trip on a start sprite alone; if there is no real work call to ride with, skip it.
 - The end sprite goes AFTER the reply, never on top of it:
   - Where the chat shows text written before a tool call in full (claude.ai): write the reply, then call the widget as the last step, and write nothing after it.
