@@ -1,32 +1,58 @@
 #!/usr/bin/env python3
-"""Cut the Tumnus sprite sheets in art/originals/ into single sprites.
+"""Cut sprite sheets in <family>/originals/ into single sprites.
 
-Writes art/sprites/<sheet>_<NN>.webp: transparent, longest side 160 px,
+Writes <family>/<sheet>_<NN>.webp: transparent, longest side 160 px,
 lossy WebP (quality 80, alpha quality 80), about 7 KB each.
 
 How the cut works: pixels with alpha >= 240 (eroded by one pixel) form the
 solid core of each figure; cores of 2,500 px or more are sprites. Every other
 pixel goes to its nearest core, and is kept only if it is fairly opaque
-(alpha >= 128) within 70 px of it, or faint within 6 px. That keeps props
-(question marks, umbrellas) and drops stray haze. Sprites are numbered in
-reading order, row by row.
+(alpha >= 128) within 70 px of it, or faint within 6 px. An opaque piece that
+touches only one core goes whole to it, and a loose piece with no core of its
+own (a paper airplane, a sparkle) goes whole to its nearest core, so no piece
+is split between two sprites. That keeps props and drops stray haze.
 
-Usage: python3 art/make_sprites.py   (needs numpy, scipy, Pillow)
+With a <sheet>.json index ("columns", "rows") beside the sheet, pieces are
+grouped by grid cell, so a prop that floats apart stays with its figure. Row
+bands come from the vertical spans of the big figures when they form that
+many rows (rows are often uneven), else the sheet is split evenly. Without an
+index, each core is its own sprite, numbered in reading order.
+
+Usage: python3 scripts/make_sprites.py <family> [sheet-prefix ...]
+       e.g. python3 scripts/make_sprites.py tumnus 20 21   (only sheets 20-*, 21-*)
+Needs numpy, scipy, Pillow. Existing sprites are overwritten only for the
+sheets processed, so pass prefixes when adding sheets to a published family.
 """
 import glob
 import json
 import os
+import sys
 
 import numpy as np
 from PIL import Image
 from scipy import ndimage
 
-import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FAMILY = sys.argv[1] if len(sys.argv) > 1 else "tumnus"
+ONLY = sys.argv[2:]
 OUT = os.path.join(ROOT, FAMILY)
 SRC = os.path.join(OUT, "originals")
 SIZE = 160
+
+
+def bands(lab, areas, n):
+    """Row cuts from the vertical spans of the big cores, if they form n rows."""
+    sl = ndimage.find_objects(lab)
+    spans = sorted((sl[i][0].start, sl[i][0].stop) for i in range(len(areas)) if areas[i] >= 10000)
+    rows = []
+    for s, e in spans:
+        if rows and s < rows[-1][1]:
+            rows[-1] = (rows[-1][0], max(rows[-1][1], e))
+        else:
+            rows.append((s, e))
+    if len(rows) != n:
+        return None
+    return [(rows[i][1] + rows[i + 1][0]) / 2 for i in range(n - 1)]
 
 
 def cut(path):
@@ -39,19 +65,36 @@ def cut(path):
     seeds = np.where(np.isin(lab, keep), lab, 0)
     dist, (iy, ix) = ndimage.distance_transform_edt(seeds == 0, return_indices=True)
     owner = seeds[iy, ix]
+    # each opaque piece (alpha >= 128) that touches one core goes whole to it;
+    # a loose piece with no core (a paper airplane) goes whole to its nearest core
+    comp, nc = ndimage.label(a >= 128)
+    for c, box in enumerate(ndimage.find_objects(comp), 1):
+        sel = comp[box] == c
+        ids = np.unique(seeds[box][sel])
+        ids = ids[ids > 0]
+        if len(ids) > 1:
+            continue
+        if len(ids) == 1:
+            k = ids[0]
+        else:
+            d = np.where(sel, dist[box], np.inf)
+            k = owner[box][np.unravel_index(np.argmin(d), d.shape)]
+        owner[box][sel] = k
+        dist[box][sel] = 0
     centres = ndimage.center_of_mass(core, lab, keep)
-    grid = None
     idx = os.path.splitext(path)[0] + ".json"
     if os.path.exists(idx):
         meta = json.load(open(idx))
-        grid = (meta["columns"], meta["rows"])
-    if grid:
-        cols, rows = grid
+        cols, rows = meta["columns"], meta["rows"]
         h, w = a.shape
+        cuts = bands(lab, areas, rows) or [h * (i + 1) / rows for i in range(rows - 1)]
         cells = {}
         for (cy, cx), k in zip(centres, keep):
-            cell = (min(int(cy * rows / h), rows - 1), min(int(cx * cols / w), cols - 1))
+            cell = (sum(cy > c for c in cuts), min(int(cx * cols / w), cols - 1))
             cells.setdefault(cell, []).append(k)
+        empty = [(r, c) for r in range(rows) for c in range(cols) if (r, c) not in cells]
+        if empty:
+            print(f"  warning: empty cells {empty}")
         groups = [cells[c] for c in sorted(cells)]
     else:
         groups = [[k] for _, k in sorted(zip(centres, keep),
@@ -69,6 +112,8 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     for path in sorted(glob.glob(os.path.join(SRC, "*.png"))):
         base = os.path.basename(path)[:-4]
+        if ONLY and not any(base.startswith(p) for p in ONLY):
+            continue
         count = 0
         for k, sprite in enumerate(cut(path), 1):
             sprite.thumbnail((SIZE, SIZE), Image.LANCZOS)

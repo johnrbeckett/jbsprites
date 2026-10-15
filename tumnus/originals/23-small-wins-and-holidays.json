@@ -1,0 +1,153 @@
+{
+  "sheet": "23-small-wins-and-holidays.png",
+  "width": 1536,
+  "height": 1024,
+  "columns": 6,
+  "rows": 4,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "type": "full-body",
+      "name": "small-fist-pump"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "type": "full-body",
+      "name": "thumbs-up"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "type": "full-body",
+      "name": "clipboard-check"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "type": "full-body",
+      "name": "satisfied-nod"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "type": "full-body",
+      "name": "completed-notebook"
+    },
+    {
+      "row": 1,
+      "column": 6,
+      "type": "full-body",
+      "name": "hat-tip"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "type": "full-body",
+      "name": "christmas-gift"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "type": "full-body",
+      "name": "decorate-tree"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "type": "full-body",
+      "name": "winter-mug"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "type": "full-body",
+      "name": "thanksgiving-pumpkin"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "type": "full-body",
+      "name": "pumpkin-pie"
+    },
+    {
+      "row": 2,
+      "column": 6,
+      "type": "full-body",
+      "name": "new-year-toast"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "type": "object",
+      "name": "checklist"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "type": "object",
+      "name": "notebook-and-pen"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "type": "object",
+      "name": "wrapped-gift"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "type": "object",
+      "name": "evergreen-ornament"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "type": "object",
+      "name": "pumpkin-leaves"
+    },
+    {
+      "row": 3,
+      "column": 6,
+      "type": "object",
+      "name": "party-horn-and-glass"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "type": "close-up",
+      "name": "thumbs-up-portrait"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "type": "close-up",
+      "name": "checkmark-hands"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "type": "close-up",
+      "name": "quiet-done-portrait"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "type": "close-up",
+      "name": "winter-portrait"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "type": "close-up",
+      "name": "autumn-mug-portrait"
+    },
+    {
+      "row": 4,
+      "column": 6,
+      "type": "close-up",
+      "name": "toast-portrait"
+    }
+  ]
+}
