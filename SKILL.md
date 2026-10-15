@@ -32,7 +32,9 @@ The moment picks the row; context narrows it to a shortlist; a real random draw 
 1. **Row.** Choose the row from the tables below, as set out in When.
 2. **Shortlist.** From that row, name the sprites that suit this particular moment, judged from the sheet names: after-hours sprites for a late sign-off, the White Witch for something blocked or frozen, the Beavers and office colleagues for team work, Aslan for a big win or a hard-won fix, travel sprites for a trip, wardrobe and lamppost scenes for comings and goings. The shortlist has at least four sprites (the whole row if it is shorter), from at least two different sheets, and includes at least one Narnia guest (sheets 24 to 31) whenever the row has one.
 3. **Draw.** Pick one from the shortlist with a shell, leaving out the sprite shown just before:
-   `python3 -c "import random;print(random.choice(['24-pevensies-at-work_20','08-celebrations_03','26-beavers-and-office-colleagues_18','31-narnia-workday-scenes_05']))"`
+   `python3 -c "import random;print(random.choice(['<shortlisted-1>','<shortlisted-2>','<shortlisted-3>','<shortlisted-4>']))"`
+
+   Fill in the names you just shortlisted; the placeholders are not sprites.
 4. **No shell.** Where no shell is available, take the next sprite in the shortlist after the one used last in this chat (the first, if none has been used yet).
 
 ## How (keep sprites off the critical path)
