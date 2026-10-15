@@ -25,3 +25,4 @@
 - 3d68aeb Narnia sheets 24 to 31, tag v6.
 - Cowork placement fix (2026-10-15): a one-line progress note after the start sprite so the two never stack; for real work the reply goes out as a message, then the end sprite, then a short closing phrase as the final text (the app demands final text and does not render images in text, tested). No new tag; sprites unchanged. Pushed, and packaged as jbsprites_2026-10-15b.skill.
 - Closing phrases table (2026-10-15): about 80 short lines across eleven endings, picked at random, never the one just before. Pushed, packaged as jbsprites_2026-10-15c.skill.
+- Offers allowed in closing phrases (John, 2026-10-15: "you can make offers to me"). Packaged as jbsprites_2026-10-15d.skill.
