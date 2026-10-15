@@ -19,4 +19,5 @@
 - ab2658a HANDOFF. Pushed.
 - 5122d3d Sheets 15 to 18, tag v3, grid-index cutting, Seasons table; all 78 new mapped sprites verified 200 on jsDelivr. Pushed 2026-10-15.
 - 353491e HANDOFF. Pushed.
-- Next commit: sheet 19, de-dup pass, tag v4. See git log for push state.
+- fb757ff Sheet 19, de-dup pass, tag v4; all 238 mapped sprites verified 200. Pushed 2026-10-15.
+- Next commit: docs/SETUP.md (install, preference line, hooking other skills, Claude Code limits, adding a family). See git log for push state.

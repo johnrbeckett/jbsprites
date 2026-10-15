@@ -9,3 +9,5 @@ Sprites are served by jsDelivr, pinned to a tag:
 `SKILL.md` is the Claude skill that decides which sprite to show and when. `scripts/make_sprites.py <family>` cuts a family's sheets; `scripts/package.sh` builds the installable skill package.
 
 Families: `tumnus`.
+
+**Setting it up** (installing the skill, the one-line preference, hooking it into other skills, adding a family): see [`docs/SETUP.md`](docs/SETUP.md).
