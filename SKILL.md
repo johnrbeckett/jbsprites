@@ -11,15 +11,15 @@ A caller (another skill, or the user's preferences) says which family to use. No
 
 ## When
 
-Every task the user asks for in chat gets two beats:
+Every task the user asks for in chat gets two beats, one at each end of the turn, never stacked together:
 
-1. **Start.** A start sprite picked by the kind of work, from the family's Start table.
-2. **End.** When the outcome is known, one of:
+1. **Start.** A start sprite picked by the kind of work, from the family's Start table, as the work begins.
+2. **End.** After the reply, as the very last thing in the turn, one of:
    - **Done** when the work finished. **Big win** when several things finished at once or a big milestone landed.
    - **Oops** when the work failed, a connector errored, or it could not be finished. Use the Oops row matching the kind of failure (general when none fits), then say plainly what failed. Never show Done for work that did not get done.
    - **Your turn** when the reply ends with a question or a decision for the user.
 
-A reply that needs no work (a quick answer from what is already known) gets one sprite: Done if something was completed, otherwise its Start sprite. A long task that finishes several separate pieces may show Done after each piece. A retry after a failure may carry a Retrying sprite.
+A reply that needs no work (a quick answer from what is already known) gets one sprite, after the reply: Done if something was completed, otherwise its Start sprite. If the start sprite would land right next to the reply (no real work in between), skip it; the end sprite is enough. A long task that finishes several separate pieces may show Done after each piece. A retry after a failure may carry a Retrying sprite.
 
 Never in scheduled or unattended runs. If the widget tool is not available, skip sprites silently.
 
@@ -30,7 +30,9 @@ Pick at random within a row, avoiding the sprite used just before when there is 
 - Load the widget tools (`mcp__visualize__read_me`, `mcp__visualize__show_widget`) in the same ToolSearch call as the other tools the task needs.
 - Call read_me once per chat, silently, in the same parallel batch as the first real work call.
 - Send the start sprite in the same parallel batch as the next real work call. Never spend a round trip on a start sprite alone; if there is no real work call to ride with, skip it.
-- The end sprite waits for the outcome; it is the one sprite allowed its own step, right before the reply.
+- The end sprite goes AFTER the reply, never on top of it:
+  - Where the chat shows text written before a tool call in full (claude.ai): write the reply, then call the widget as the last step, and write nothing after it.
+  - Where text between tool calls is collapsed (the Cowork desktop app): send the reply with the SendUserMessage tool, then call the widget as the last step, and end the turn with no further text.
 - Widget code, nothing else in it, with the family and sprite name swapped in:
 
 `<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v1/<family>/<name>.webp">`

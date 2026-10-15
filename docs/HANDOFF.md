@@ -10,3 +10,5 @@
 | Skill | Package via scripts/package.sh; needs installing on John's account. |
 
 ## Commits
+- c723246 jbsprites: skill, scripts and the tumnus family. Pushed 2026-10-15 with tag v1; all mapped sprites verified 200 on jsDelivr.
+- Next commit: end sprite goes after the reply (John: start and end sprites were stacking). See git log for push state.
