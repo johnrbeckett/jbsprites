@@ -10,7 +10,8 @@ pixel goes to its nearest core, and is kept only if it is fairly opaque
 (alpha >= 128) within 70 px of it, or faint within 6 px. An opaque piece that
 touches only one core goes whole to it, and a loose piece with no core of its
 own (a paper airplane, a sparkle) goes whole to its nearest core, so no piece
-is split between two sprites. That keeps props and drops stray haze.
+is split between two sprites. When two touching objects share one core and
+leave a grid cell empty, the part of that core inside the empty cell is split off. That keeps props and drops stray haze.
 
 With a <sheet>.json index ("columns", "rows") beside the sheet, pieces are
 grouped by grid cell, so a prop that floats apart stays with its figure. Row
@@ -38,6 +39,7 @@ ONLY = sys.argv[2:]
 OUT = os.path.join(ROOT, FAMILY)
 SRC = os.path.join(OUT, "originals")
 SIZE = 160
+MIN_CORE = int(os.environ.get("MIN_CORE", "2500"))
 
 
 def bands(lab, areas, n):
@@ -58,11 +60,44 @@ def bands(lab, areas, n):
 def cut(path):
     im = np.array(Image.open(path).convert("RGBA"))
     a = im[:, :, 3]
+    h, w = a.shape
     core = ndimage.binary_erosion(a >= 240, iterations=1)
     lab, n = ndimage.label(core)
     areas = ndimage.sum(core, lab, range(1, n + 1))
-    keep = [i + 1 for i in range(n) if areas[i] >= 2500]
+    keep = [i + 1 for i in range(n) if areas[i] >= MIN_CORE]
     seeds = np.where(np.isin(lab, keep), lab, 0)
+    grid = None
+    idx = os.path.splitext(path)[0] + ".json"
+    if os.path.exists(idx):
+        meta = json.load(open(idx))
+        cols, rows = meta["columns"], meta["rows"]
+        cuts = bands(lab, areas, rows) or [h * (i + 1) / rows for i in range(rows - 1)]
+        edges_y = [0] + [int(c) for c in cuts] + [h]
+        edges_x = [int(w * i / cols) for i in range(cols + 1)]
+
+        def cell_of(cy, cx):
+            return (sum(cy > c for c in cuts), min(int(cx * cols / w), cols - 1))
+
+        def group(keep):
+            cells = {}
+            for (cy, cx), k in zip(ndimage.center_of_mass(seeds > 0, seeds, keep), keep):
+                cells.setdefault(cell_of(cy, cx), []).append(k)
+            return cells
+
+        cells = group(keep)
+        # two touching objects can share one core; split off the part in an empty cell
+        for r, c in [(r, c) for r in range(rows) for c in range(cols) if (r, c) not in cells]:
+            box = seeds[edges_y[r]:edges_y[r + 1], edges_x[c]:edges_x[c + 1]]
+            ids, counts = np.unique(box[box > 0], return_counts=True)
+            if len(ids) and counts.max() >= MIN_CORE:
+                new = seeds.max() + 1
+                box[box == ids[counts.argmax()]] = new
+                keep.append(new)
+        cells = group(keep)
+        empty = [(r, c) for r in range(rows) for c in range(cols) if (r, c) not in cells]
+        if empty:
+            print(f"  warning: empty cells {empty}")
+        grid = [cells[c] for c in sorted(cells)]
     dist, (iy, ix) = ndimage.distance_transform_edt(seeds == 0, return_indices=True)
     owner = seeds[iy, ix]
     # each opaque piece (alpha >= 128) that touches one core goes whole to it;
@@ -81,22 +116,10 @@ def cut(path):
             k = owner[box][np.unravel_index(np.argmin(d), d.shape)]
         owner[box][sel] = k
         dist[box][sel] = 0
-    centres = ndimage.center_of_mass(core, lab, keep)
-    idx = os.path.splitext(path)[0] + ".json"
-    if os.path.exists(idx):
-        meta = json.load(open(idx))
-        cols, rows = meta["columns"], meta["rows"]
-        h, w = a.shape
-        cuts = bands(lab, areas, rows) or [h * (i + 1) / rows for i in range(rows - 1)]
-        cells = {}
-        for (cy, cx), k in zip(centres, keep):
-            cell = (sum(cy > c for c in cuts), min(int(cx * cols / w), cols - 1))
-            cells.setdefault(cell, []).append(k)
-        empty = [(r, c) for r in range(rows) for c in range(cols) if (r, c) not in cells]
-        if empty:
-            print(f"  warning: empty cells {empty}")
-        groups = [cells[c] for c in sorted(cells)]
+    if grid:
+        groups = grid
     else:
+        centres = ndimage.center_of_mass(core, lab, keep)
         groups = [[k] for _, k in sorted(zip(centres, keep),
                                          key=lambda z: (round(z[0][0] / 200), z[0][1]))]
     for g in groups:

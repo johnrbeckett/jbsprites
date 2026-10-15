@@ -1,0 +1,134 @@
+{
+  "sheet": "28-wardrobe-and-lamppost-office-objects.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "carved wooden wardrobe office entrance doors closed"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "open wardrobe revealing snowy passage"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "wardrobe with neatly hung blazers"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "wardrobe with coat and satchel"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "small wardrobe-shaped filing cabinet"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "snowy lamppost complete isolated"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "brass lamppost desk lamp"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "lamppost with meeting bell"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "lamppost base with umbrella stand"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "lamppost-shaped coat rack"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Tumnus umbrella and parcels"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "burgundy scarf over office chair"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "faun-sized walnut writing desk"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "green reading armchair"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "bookshelf with small lion bookends"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "wooden inbox with envelopes"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "tea kettle and two cups"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "brass pocket watch on notebook"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "forest map with planner"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "snow globe containing lamppost"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "office door with lion-shaped knocker"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "wooden signpost with blank plaques"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "winter boot tray with cloven hoof prints"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "wardrobe key on burgundy ribbon"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "small framed snowy forest picture"
+    }
+  ]
+}

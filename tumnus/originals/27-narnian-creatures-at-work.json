@@ -1,0 +1,134 @@
+{
+  "sheet": "27-narnian-creatures-at-work.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "centaur navy waistcoat carrying briefcase four horse legs visible"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "centaur rolled sleeve shirt reviewing map"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "centaur formal jacket holding presentation pointer"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "centaur checking pocket watch"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "centaur reading ledger"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "dryad olive blazer holding potted sapling"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "dryad cardigan reviewing green blueprint"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "dryad formal botanical gown holding folder"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "dryad leaf-hair head portrait"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "dryad hands holding seedling closeup"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Maugrim recognizable grey wolf wearing security harness with tie"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "wolf security guard seated beside gate sign with shield icon"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "wolf carrying document tube in mouth"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "wolf with earpiece head portrait"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "wolf investigating papers"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "red fox tweed waistcoat carrying notebook"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "red fox spectacles reading"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "red fox navy jacket pouring tea"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "red fox head portrait"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "robin perched on tiny briefcase"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "robin on desk lamp"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "owl wearing small spectacles on books"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "dwarf brown waistcoat carrying toolbox"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "dwarf formal jacket reviewing contract"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "unicorn natural quadruped with neat navy neck scarf beside mail tray"
+    }
+  ]
+}

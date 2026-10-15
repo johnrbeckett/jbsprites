@@ -1,0 +1,134 @@
+{
+  "sheet": "30-narnia-office-locations.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "isolated miniature Tumnus cave office nook with desk and fireplace no characters"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "isolated miniature Beaver dam office entrance"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "isolated Beaver kitchen tea station"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "isolated White Witch icy executive desk"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "isolated ice throne redesigned office chair"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "isolated Cair Paravel boardroom table"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "isolated miniature Cair Paravel castle office exterior"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "isolated wardrobe portal with office carpet turning to snow"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "isolated forest meeting clearing with small round table"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "isolated lamppost beside bench and briefcase"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "isolated Stone Table monument with folded agenda beside it respectful no violence"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "isolated Aslan pavilion with desk visible"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "isolated winter forest desk with snow on branches"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "isolated spring forest reading bench"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "isolated library alcove with lion bookends"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "isolated train platform bench with suitcases"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "isolated old country house study nook"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "isolated snowy gate with security desk"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "isolated sleigh loaded with office gifts"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "isolated bridge over stream with signpost"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "isolated map table with lantern"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "isolated tea table with four chairs"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "isolated archive shelves built into tree"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "isolated stone balcony with presentation easel"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "isolated office coat corner with four coats"
+    }
+  ]
+}

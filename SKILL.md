@@ -37,7 +37,7 @@ Pick at random within a row, avoiding the sprite used just before when there is 
   - Where text between tool calls is collapsed (the Cowork desktop app): send the reply with the SendUserMessage tool, then call the widget as the last step, and end the turn with no further text.
 - Widget code, nothing else in it, with the family and sprite name swapped in:
 
-`<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v5/<family>/<name>.webp">`
+`<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@v6/<family>/<name>.webp">`
 
 ## Family: tumnus (default)
 
@@ -105,6 +105,63 @@ A faun in business casual. Rows marked for trackers apply when the caller is a t
 | Thanksgiving (US, November 20 to 30) | 23-small-wins-and-holidays_10, 23-small-wins-and-holidays_11, 23-small-wins-and-holidays_17 |
 | Christmas (December 1 to 26) | 23-small-wins-and-holidays_07, 23-small-wins-and-holidays_08, 23-small-wins-and-holidays_15, 23-small-wins-and-holidays_16 |
 | New Year (December 27 to January 2) | 23-small-wins-and-holidays_12, 23-small-wins-and-holidays_18, 23-small-wins-and-holidays_24 |
+
+## Narnia guests (tumnus)
+
+Office-life fan art of the Narnia cast: the Pevensies, Aslan, the White Witch, the Beavers, woodland colleagues, props and places. About one beat in four, when the moment's row appears below, pick from it instead of the main table. Same rules otherwise: random within the row, no repeat of the sprite just shown. For a Hello or morning brief inside a season or holiday window, the guest season rows count the same way.
+
+### Start
+
+| Kind of work | Sprites |
+|---|---|
+| Writing or drafting | 24-pevensies-at-work_01, 24-pevensies-at-work_21, 26-beavers-and-office-colleagues_17, 27-narnian-creatures-at-work_16, 28-wardrobe-and-lamppost-office-objects_13, 29-iconic-tools-and-office-treasures_03 |
+| Research or reading | 24-pevensies-at-work_03, 24-pevensies-at-work_09, 25-aslan-and-white-witch_06, 27-narnian-creatures-at-work_17, 27-narnian-creatures-at-work_22, 28-wardrobe-and-lamppost-office-objects_14, 28-wardrobe-and-lamppost-office-objects_15, 29-iconic-tools-and-office-treasures_19, 29-iconic-tools-and-office-treasures_23, 30-narnia-office-locations_15 |
+| Email, reconcile, sweep | 26-beavers-and-office-colleagues_07, 27-narnian-creatures-at-work_25, 28-wardrobe-and-lamppost-office-objects_05, 28-wardrobe-and-lamppost-office-objects_16, 29-iconic-tools-and-office-treasures_09, 29-iconic-tools-and-office-treasures_20 |
+| Add (new tracker item) | 26-beavers-and-office-colleagues_15, 27-narnian-creatures-at-work_06 |
+| Waiting on someone | 26-beavers-and-office-colleagues_06, 27-narnian-creatures-at-work_18, 28-wardrobe-and-lamppost-office-objects_09, 30-narnia-office-locations_10 |
+| Morning brief (on demand) | 24-pevensies-at-work_24, 26-beavers-and-office-colleagues_03, 28-wardrobe-and-lamppost-office-objects_17, 29-iconic-tools-and-office-treasures_15, 30-narnia-office-locations_03 |
+| The list | 24-pevensies-at-work_16, 26-beavers-and-office-colleagues_10, 26-beavers-and-office-colleagues_14, 29-iconic-tools-and-office-treasures_22, 30-narnia-office-locations_11, 31-narnia-workday-scenes_23 |
+| Next | 27-narnian-creatures-at-work_20, 27-narnian-creatures-at-work_21, 28-wardrobe-and-lamppost-office-objects_22, 30-narnia-office-locations_20 |
+| Now | 24-pevensies-at-work_18, 25-aslan-and-white-witch_02, 27-narnian-creatures-at-work_19, 29-iconic-tools-and-office-treasures_06, 30-narnia-office-locations_12 |
+| Gaps, stale items | 25-aslan-and-white-witch_16, 25-aslan-and-white-witch_22, 27-narnian-creatures-at-work_15, 30-narnia-office-locations_23 |
+| Week, quarter, year | 24-pevensies-at-work_14, 30-narnia-office-locations_07, 30-narnia-office-locations_21 |
+| Trip | 25-aslan-and-white-witch_19, 28-wardrobe-and-lamppost-office-objects_04, 28-wardrobe-and-lamppost-office-objects_19, 29-iconic-tools-and-office-treasures_24, 30-narnia-office-locations_08, 30-narnia-office-locations_16 |
+| Hand-off | 25-aslan-and-white-witch_04, 27-narnian-creatures-at-work_08, 27-narnian-creatures-at-work_13, 31-narnia-workday-scenes_08 |
+| Hello (first reply of a tracker skill in a chat) | 24-pevensies-at-work_02, 25-aslan-and-white-witch_01, 26-beavers-and-office-colleagues_16, 26-beavers-and-office-colleagues_24, 28-wardrobe-and-lamppost-office-objects_02, 28-wardrobe-and-lamppost-office-objects_21, 30-narnia-office-locations_02, 31-narnia-workday-scenes_01, 31-narnia-workday-scenes_07, 31-narnia-workday-scenes_22 |
+| Anything else | 25-aslan-and-white-witch_08, 25-aslan-and-white-witch_13, 28-wardrobe-and-lamppost-office-objects_03, 31-narnia-workday-scenes_15 |
+| Calendar, scheduling, focus blocks | 24-pevensies-at-work_11, 25-aslan-and-white-witch_14, 26-beavers-and-office-colleagues_08 |
+| Invoices, payments, money | 24-pevensies-at-work_06, 25-aslan-and-white-witch_03, 26-beavers-and-office-colleagues_04, 27-narnian-creatures-at-work_24, 29-iconic-tools-and-office-treasures_17 |
+| Technical (DNS, servers, networks, code) | 24-pevensies-at-work_17, 25-aslan-and-white-witch_12, 26-beavers-and-office-colleagues_01, 27-narnian-creatures-at-work_14, 27-narnian-creatures-at-work_23, 29-iconic-tools-and-office-treasures_07 |
+| Image or design work | 26-beavers-and-office-colleagues_02, 27-narnian-creatures-at-work_07, 28-wardrobe-and-lamppost-office-objects_25 |
+| Waiting on a long job (upload, deploy, background run) | 26-beavers-and-office-colleagues_25, 28-wardrobe-and-lamppost-office-objects_18, 31-narnia-workday-scenes_10, 31-narnia-workday-scenes_12 |
+| Retrying (trying again after a failure; send with the retry call) | 24-pevensies-at-work_04, 26-beavers-and-office-colleagues_05, 29-iconic-tools-and-office-treasures_01, 29-iconic-tools-and-office-treasures_02, 31-narnia-workday-scenes_13 |
+| Meetings, calls, presentations, talk prep | 24-pevensies-at-work_05, 24-pevensies-at-work_12, 24-pevensies-at-work_15, 24-pevensies-at-work_19, 24-pevensies-at-work_22, 24-pevensies-at-work_23, 25-aslan-and-white-witch_18, 28-wardrobe-and-lamppost-office-objects_08, 29-iconic-tools-and-office-treasures_05, 29-iconic-tools-and-office-treasures_08, 30-narnia-office-locations_06, 30-narnia-office-locations_09, 30-narnia-office-locations_22, 30-narnia-office-locations_24, 31-narnia-workday-scenes_04, 31-narnia-workday-scenes_17 |
+| Deep focus, long writing, heads-down blocks | 25-aslan-and-white-witch_23, 28-wardrobe-and-lamppost-office-objects_07, 30-narnia-office-locations_01, 30-narnia-office-locations_17 |
+| On the go (the user is on a phone) | 24-pevensies-at-work_08 |
+
+### Done
+
+| Moment | Sprites |
+|---|---|
+| Done, small (a quick or minor task) | 24-pevensies-at-work_20, 26-beavers-and-office-colleagues_09, 26-beavers-and-office-colleagues_22, 29-iconic-tools-and-office-treasures_14, 31-narnia-workday-scenes_18 |
+| Sent (an email or message went out) | 26-beavers-and-office-colleagues_13, 28-wardrobe-and-lamppost-office-objects_11, 29-iconic-tools-and-office-treasures_18, 29-iconic-tools-and-office-treasures_25 |
+| Done (real work finished, an item closed) | 25-aslan-and-white-witch_10, 26-beavers-and-office-colleagues_18, 26-beavers-and-office-colleagues_19, 29-iconic-tools-and-office-treasures_11, 31-narnia-workday-scenes_05, 31-narnia-workday-scenes_16 |
+| Big win (several items closed at once, or no open High items left) | 24-pevensies-at-work_25, 25-aslan-and-white-witch_09, 26-beavers-and-office-colleagues_11, 29-iconic-tools-and-office-treasures_10, 29-iconic-tools-and-office-treasures_21, 31-narnia-workday-scenes_14 |
+| Signing off (last task of the day, or Friday afternoon) | 25-aslan-and-white-witch_05, 26-beavers-and-office-colleagues_20, 28-wardrobe-and-lamppost-office-objects_10, 28-wardrobe-and-lamppost-office-objects_12, 30-narnia-office-locations_25, 31-narnia-workday-scenes_06, 31-narnia-workday-scenes_21, 31-narnia-workday-scenes_25 |
+| Oops: general (something went wrong) | 24-pevensies-at-work_07, 24-pevensies-at-work_10, 29-iconic-tools-and-office-treasures_12, 31-narnia-workday-scenes_09, 31-narnia-workday-scenes_19 |
+| Oops: blocked (access refused, permission declined, cannot proceed) | 25-aslan-and-white-witch_11, 25-aslan-and-white-witch_20, 27-narnian-creatures-at-work_11, 27-narnian-creatures-at-work_12, 28-wardrobe-and-lamppost-office-objects_01, 29-iconic-tools-and-office-treasures_13, 30-narnia-office-locations_04, 30-narnia-office-locations_18 |
+| Oops: timed out | 25-aslan-and-white-witch_17, 25-aslan-and-white-witch_24, 29-iconic-tools-and-office-treasures_16, 30-narnia-office-locations_05 |
+| Oops: nothing found (empty search, missing file or folder) | 28-wardrobe-and-lamppost-office-objects_23 |
+| Oops: conflicting or tangled (sources disagree, knotted dependencies) | 25-aslan-and-white-witch_25, 31-narnia-workday-scenes_02, 31-narnia-workday-scenes_20 |
+| Your turn (a question or decision for the user) | 24-pevensies-at-work_13, 25-aslan-and-white-witch_15, 26-beavers-and-office-colleagues_21, 28-wardrobe-and-lamppost-office-objects_24, 29-iconic-tools-and-office-treasures_04, 31-narnia-workday-scenes_03 |
+
+### Seasons and holidays
+
+| Season or holiday | Sprites |
+|---|---|
+| Winter (December to February) | 25-aslan-and-white-witch_21, 28-wardrobe-and-lamppost-office-objects_06, 28-wardrobe-and-lamppost-office-objects_20, 30-narnia-office-locations_13 |
+| Spring (March to May) | 27-narnian-creatures-at-work_09, 27-narnian-creatures-at-work_10, 30-narnia-office-locations_14 |
+| Christmas (December 1 to 26) | 26-beavers-and-office-colleagues_12, 26-beavers-and-office-colleagues_23, 30-narnia-office-locations_19, 31-narnia-workday-scenes_24 |
 
 ## Adding a family or new sprites
 

@@ -1,0 +1,134 @@
+{
+  "sheet": "29-iconic-tools-and-office-treasures.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Lucy cordial bottle with ornate stopper"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "cordial bottle beside first-aid pouch"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Lucy small sheathed dagger beside notebook"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Susan ornate brass horn"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Susan horn beside meeting agenda"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Susan bow with quiver leaning beside portfolio"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Peter sword sheathed beside shield"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Peter shield as standing presentation board"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Peter sword-shaped letter opener"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "four golden crowns on velvet tray"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "single lion crown on closed ledger"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "White Witch icy wand"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "icy wand beside signed papers"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Turkish delight box open"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Turkish delight beside coffee cup"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "enchanted ice paperweight"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "brass balance scale with coins"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "gold lion seal and wax-stamped envelope"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "silver crown bookmark in book"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "miniature sleigh as mail tray"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "crystal goblet with sparkling cider"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "stone-table miniature as desk organizer"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "ancient book with lion emblem"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "gold keys on snowy map"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "formal invitation envelope with crown seal"
+    }
+  ]
+}

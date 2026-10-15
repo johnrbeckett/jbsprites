@@ -1,0 +1,134 @@
+{
+  "sheet": "26-beavers-and-office-colleagues.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Mr Beaver waistcoat carrying toolbox"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Mr Beaver cardigan reviewing blueprint"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Mr Beaver tie holding coffee"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Mr Beaver spectacles reading ledger"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Mr Beaver rolled sleeves repairing desk"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Mrs Beaver green cardigan serving tea"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Mrs Beaver floral blouse sorting mail"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Mrs Beaver navy jacket holding planner"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Mrs Beaver apron offering biscuits"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Mrs Beaver glasses reviewing checklist"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Mr and Mrs Beaver standing with office picnic basket"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Father Christmas burgundy formal coat holding gift"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Father Christmas suit carrying mail sack"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Father Christmas checking list"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Father Christmas offering office supplies"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Tumnus blue shirt holding umbrella"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Tumnus burgundy sweater opening notebook"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Tumnus blazer presenting report"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Tumnus formal suit with bow tie and hooves"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Tumnus cardigan serving tea"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Mr Beaver head-and-shoulders portrait"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Mrs Beaver head-and-shoulders portrait"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Father Christmas head-and-shoulders portrait"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Tumnus waist-up horned portrait"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Beaver paws holding mug closeup"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "sheet": "24-pevensies-at-work.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Lucy cardigan holding notebook"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Lucy blue blouse opening office wardrobe"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Lucy reading research folder"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Lucy presenting cordial bottle"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Lucy satchel walking to meeting"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Edmund charcoal polo reviewing receipts"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Edmund grey blazer holding Turkish delight box"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Edmund checking phone"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Edmund comparing documents"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Edmund contrite shrug with folder"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Susan forest green blazer holding planner"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Susan adjusting headset"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Susan presenting brass horn"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Susan reviewing chart"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Susan navy suit presenting"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Peter burgundy sweater holding clipboard"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Peter blazer carrying shield-shaped portfolio"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Peter white shirt rolling sleeves"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Peter navy suit beside slide easel"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Peter modest thumbs up"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Lucy hands on open notebook closeup"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Susan head and shoulders with headset"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Peter waist-up presenting"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Edmund waist-up offering coffee"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "four siblings standing side by side as small office team"
+    }
+  ]
+}
