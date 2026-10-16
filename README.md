@@ -9,7 +9,7 @@ Small character sprites shown inline in Claude chats: one as work begins, one af
 3. Paste this line into Settings > Profile > "What personal preferences should Claude consider in responses?"
 
 ```
-For any task that involves real work in the Claude desktop app or claude.ai, use the jbsprites skill (default family tumnus) for start and end sprites.
+For any task that involves real work in the Claude desktop app or claude.ai, use the jbsprites skill (family narnia) for start and end sprites.
 ```
 
 4. Start a new chat. A sprite shows as work begins and another after the reply.
@@ -24,9 +24,11 @@ Sprites are served by jsDelivr, pinned to a tag:
 
     https://cdn.jsdelivr.net/gh/johnrbeckett/jbsprites@<tag>/<family>/<name>.webp
 
-`SKILL.md` is the Claude skill that decides which sprite to show and when. `scripts/make_sprites.py <family>` cuts a family's sheets; `scripts/package.sh` builds the installable skill package.
+`SKILL.md` is the Claude skill that says when to show a sprite. Which sprite is chosen by `scripts/pick.py`, a small picker shipped inside the skill: it reads a compact index built from `catalog/<family>.json` (every sprite's characters, moments, activities, energy and seasons) and draws at random, so Claude never loads the sprite list.
 
-Families: `tumnus` (a faun in business casual, with Narnia guests mixed in).
+Maintainer tools: `scripts/make_sprites.py` cuts sheets, `scripts/add_sheet.py` adds a cut sheet to the catalog, `scripts/review_sheet.py` builds a contact sheet for review, `scripts/coverage.py` reports gaps, `scripts/build_index.py` builds the index, `scripts/test_pick.py` checks the picker, `scripts/package.sh` builds the skill. `docs/SHEET-BRIEF.md` is the brief for making new sheets with an image model.
+
+Families: `narnia` (Mr Tumnus in business casual, with the Pevensies, Aslan, the White Witch, the Beavers and other Narnians at work). Up to v8 the same sprites lived under `tumnus/`; those pinned links still work.
 
 The Narnia guest sprites are non-commercial fan art. The Chronicles of Narnia and its characters belong to their rights holders.
 

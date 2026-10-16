@@ -16,11 +16,14 @@ leave a grid cell empty, the part of that core inside the empty cell is split of
 With a <sheet>.json index ("columns", "rows") beside the sheet, pieces are
 grouped by grid cell, so a prop that floats apart stays with its figure. Row
 bands come from the vertical spans of the big figures when they form that
-many rows (rows are often uneven), else the sheet is split evenly. Without an
-index, each core is its own sprite, numbered in reading order.
+many rows (rows are often uneven), else the sheet is split evenly. With an
+index, NN is the grid position, (row - 1) * columns + column, so a missed cell
+leaves a gap and a warning instead of renumbering every later sprite. Without an
+index, each core is its own sprite, numbered in reading order (fragile: never
+re-cut a published sheet that has no index).
 
 Usage: python3 scripts/make_sprites.py <family> [sheet-prefix ...]
-       e.g. python3 scripts/make_sprites.py tumnus 20 21   (only sheets 20-*, 21-*)
+       e.g. python3 scripts/make_sprites.py narnia 20 21   (only sheets 20-*, 21-*)
 Needs numpy, scipy, Pillow. Existing sprites are overwritten only for the
 sheets processed, so pass prefixes when adding sheets to a published family.
 """
@@ -34,7 +37,7 @@ from PIL import Image
 from scipy import ndimage
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FAMILY = sys.argv[1] if len(sys.argv) > 1 else "tumnus"
+FAMILY = sys.argv[1] if len(sys.argv) > 1 else "narnia"
 ONLY = sys.argv[2:]
 OUT = os.path.join(ROOT, FAMILY)
 SRC = os.path.join(OUT, "originals")
@@ -96,8 +99,8 @@ def cut(path):
         cells = group(keep)
         empty = [(r, c) for r in range(rows) for c in range(cols) if (r, c) not in cells]
         if empty:
-            print(f"  warning: empty cells {empty}")
-        grid = [cells[c] for c in sorted(cells)]
+            print(f"  warning: no sprite in cells {[r * cols + c + 1 for r, c in empty]} (numbers left as gaps)")
+        grid = [(r * cols + c + 1, cells[(r, c)]) for r, c in sorted(cells)]
     dist, (iy, ix) = ndimage.distance_transform_edt(seeds == 0, return_indices=True)
     owner = seeds[iy, ix]
     # each opaque piece (alpha >= 128) that touches one core goes whole to it;
@@ -120,15 +123,15 @@ def cut(path):
         groups = grid
     else:
         centres = ndimage.center_of_mass(core, lab, keep)
-        groups = [[k] for _, k in sorted(zip(centres, keep),
-                                         key=lambda z: (round(z[0][0] / 200), z[0][1]))]
-    for g in groups:
+        groups = list(enumerate(([k] for _, k in sorted(zip(centres, keep),
+                                         key=lambda z: (round(z[0][0] / 200), z[0][1]))), 1))
+    for nn, g in groups:
         m = np.isin(owner, g) & (((a >= 128) & (dist <= 70)) | ((a > 0) & (dist <= 6)))
         c = im.copy()
         c[:, :, 3] = np.where(m, a, 0)
         c[c[:, :, 3] == 0, :3] = 0
         ys, xs = np.where(m)
-        yield Image.fromarray(c[ys.min():ys.max() + 1, xs.min():xs.max() + 1])
+        yield nn, Image.fromarray(c[ys.min():ys.max() + 1, xs.min():xs.max() + 1])
 
 
 def main():
@@ -138,7 +141,7 @@ def main():
         if ONLY and not any(base.startswith(p) for p in ONLY):
             continue
         count = 0
-        for k, sprite in enumerate(cut(path), 1):
+        for k, sprite in cut(path):
             sprite.thumbnail((SIZE, SIZE), Image.LANCZOS)
             sprite.save(os.path.join(OUT, f"{base}_{k:02d}.webp"), "WEBP",
                         quality=80, alpha_quality=80, method=6)

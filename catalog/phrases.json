@@ -1,0 +1,108 @@
+{
+ "done-small": [
+  "Done.",
+  "Sorted.",
+  "That's in.",
+  "Tidied up.",
+  "All set.",
+  "Easy one.",
+  "Anything else?",
+  "Ticked off.",
+  "Job done.",
+  "That's that.",
+  "Handled."
+ ],
+ "done": [
+  "All sorted.",
+  "That's done and dusted.",
+  "Finished.",
+  "Signed, sealed, delivered.",
+  "Right, that's in place.",
+  "Done and checked.",
+  "That's the job.",
+  "Wrapped up.",
+  "Good to go.",
+  "In place.",
+  "Ready when you are.",
+  "Happy to take the next one."
+ ],
+ "big-win": [
+  "That's the lot!",
+  "A good day's work.",
+  "All of it, done.",
+  "Quite the haul.",
+  "Everything's in.",
+  "Clean sweep.",
+  "That went rather well.",
+  "Every box ticked."
+ ],
+ "sent": [
+  "Sent.",
+  "Off it goes.",
+  "On its way.",
+  "Delivered.",
+  "Out the door.",
+  "Posted.",
+  "It's with them now."
+ ],
+ "signing-off": [
+  "That's a wrap for today.",
+  "Calling it there.",
+  "Good place to stop.",
+  "Enough for one day.",
+  "Lights off.",
+  "See you tomorrow.",
+  "Have a good evening.",
+  "Enjoy the weekend.|fri"
+ ],
+ "oops": [
+  "Not this time.",
+  "That one fought back.",
+  "Hit a snag.",
+  "Not quite.",
+  "Bit of a wobble.",
+  "Didn't go to plan.",
+  "Stuck, for now."
+ ],
+ "blocked": [
+  "Door's shut on that one.",
+  "Couldn't get in.",
+  "Access needed.",
+  "Blocked, for now."
+ ],
+ "offline": [
+  "Couldn't reach it.",
+  "The line went quiet.",
+  "Timed out.",
+  "No answer from that end."
+ ],
+ "not-found": [
+  "Came up empty.",
+  "Nothing there.",
+  "No sign of it.",
+  "Not where I looked."
+ ],
+ "tangled": [
+  "Bit of a knot.",
+  "Sources disagree.",
+  "Needs untangling.",
+  "Not as simple as it looked."
+ ],
+ "your-turn": [
+  "Over to you.",
+  "Your call.",
+  "Your move.",
+  "Ball's in your court.",
+  "Waiting on you.",
+  "Your decision.",
+  "Say the word.",
+  "Up to you.",
+  "Which way?"
+ ],
+ "timed-out": [
+  "Couldn't reach it.",
+  "The line went quiet.",
+  "Timed out.",
+  "No answer from that end."
+ ]
+}
