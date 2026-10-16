@@ -1,6 +1,6 @@
 ---
 name: jbsprites
-description: Small character sprites shown inline in chat for personality, in families (default narnia). A start sprite rides along when work begins; a done, oops or your-turn sprite closes it. Use whenever another skill or the user's preferences say to use jbsprites, or when real work starts in a chat the user is present for. Shown with the visual widget tool and, for phones, also as a small file card; images load from cdn.jsdelivr.net.
+description: Small character sprites shown inline in chat for personality, in families (default narnia). A start sprite rides along when work begins; a done, oops or your-turn sprite closes it. Use whenever another skill or the user's preferences say to use jbsprites, or when real work starts in a chat the user is present for. Shown with the visual widget tool, or in phone mode as a small file card; images load from cdn.jsdelivr.net.
 ---
 
 # jbsprites
@@ -52,17 +52,17 @@ It prints `{"url":...,"id":...,"character":...}` (keyed by moment for a list), p
 
 `<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="<url>">`
 
-## Phones: send every sprite twice
+## Phone mode
 
-Phone apps show no widgets, markdown images or SVG; they show only image files sent to the chat, on a solid background. The desktop app shows widgets inline and keeps files in the sidebar. The session cannot tell which device the user is on at any moment, so every sprite goes out both ways, back to back, and each device shows the one it can:
+Phone apps show no widgets, markdown images or SVG; they show only image files sent to the chat, on a solid background. The desktop app shows widgets inline but turns a sent file into a "Download and open" box. The session cannot tell which device the user is on, so:
 
-1. The widget, as above.
-2. Straight after it, the same sprite as a file:
+- **Phone mode** is on when the user says they are on their phone ("on my phone", "phone mode", "on mobile"), or when the session reports a mobile client. It lasts for the rest of the chat; "desktop" or "back on my Mac" turns it off. Never switch on a guess. Outside phone mode, use the widget only.
+- In phone mode every sprite goes out as a file instead of a widget, at the same moments and in the same order:
 
 ```
-python3 <this skill's folder>/scripts/flatten.py '<url from the picker>' <outputs folder>/sprites/<id>.png
+python3 <this skill's folder>/scripts/flatten.py '<url from the picker>' <scratch folder>/sprites/<id>.png
 ```
 
-   then send the printed path with the file-sending tool, display `attach`, no caption. Nothing printed means skip the file, never the widget. Reuse the PNG if that id was already flattened in this chat.
-
-The background is `#FAF9F5`, the chat's light-mode colour. A caller or the user's preferences may name another (`--bg "#262624"` for dark mode). With no widget tool, send only the file; with no file-sending tool, only the widget.
+  then send the printed path with the file-sending tool, display `attach`, no caption. Nothing printed means skip the sprite. Reuse the PNG if that id was already flattened in this chat.
+- **Write the PNG to the session's scratch folder, never the outputs folder.** The desktop app copies every file sent from the outputs folder onto the user's disk; files sent from scratch still show on the phone but are not saved.
+- The background is `#FAF9F5`, the chat's light-mode colour. A caller or the user's preferences may name another (`--bg "#262624"` for dark mode).
