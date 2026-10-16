@@ -1,48 +1,48 @@
-# Coverage: narnia (823 live sprites)
+# Coverage: narnia (1198 live sprites)
 
 | moment / activity | sprites | characters |
 |---|---|---|
-| big-win | 11 | tumnus 5, mrs-beaver 2, (object/place) 2, lucy 1, edmund 1, susan 1, peter 1, aslan 1, mr-beaver 1 |
-| blocked | 11 | (object/place) 4, tumnus 3, white-witch 2, maugrim 2 |
-| done | 56 | tumnus 23, (object/place) 4, reepicheep 4, eustace 4, puddleglum 3, caspian 3, trumpkin 3, doctor-cornelius 3, uncle-andrew 3, aslan 2, lucy 2, jill 2, bree 1 |
-| done-small | 62 | tumnus 28, (object/place) 4, reepicheep 4, eustace 4, puddleglum 3, caspian 3, trumpkin 3, doctor-cornelius 3, uncle-andrew 3, peter 2, mrs-beaver 2, jill 2, bree 1 |
-| hello | 18 | tumnus 12, lucy 3, (object/place) 3, aslan 1 |
-| morning-brief | 11 | tumnus 6, (object/place) 3, edmund 1, mr-beaver 1 |
-| not-found | 9 | tumnus 3, (object/place) 2, puddleglum 2, doctor-cornelius 2 |
-| offline | 3 | tumnus 1, puddleglum 1, trumpkin 1 |
-| oops | 50 | tumnus 17, puddleglum 5, uncle-andrew 5, (object/place) 4, eustace 4, trumpkin 4, edmund 3, doctor-cornelius 2, bree 2, jill 2, white-witch 1, reepicheep 1, caspian 1 |
-| retrying | 16 | tumnus 4, mr-beaver 2, (object/place) 2, lucy 1, reepicheep 1, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, jill 1, uncle-andrew 1 |
-| sent | 8 | (object/place) 4, tumnus 3, father-christmas 1 |
-| signing-off | 35 | tumnus 18, (object/place) 4, aslan 2, reepicheep 2, caspian 2, jill 2, mr-beaver 1, mrs-beaver 1, lucy 1, puddleglum 1, eustace 1, trumpkin 1, doctor-cornelius 1, uncle-andrew 1 |
-| start | 458 | tumnus 173, (object/place) 122, jill 14, caspian 13, doctor-cornelius 13, reepicheep 12, trumpkin 12, hwin 11, eustace 10, bree 10, uncle-andrew 9, peter 8, susan 7, white-witch 7, puddleglum 7, aslan 6, lucy 5, edmund 4, mr-beaver 3, mrs-beaver 3, father-christmas 3, dryad 3, maugrim 3, fox 3, robin 2, dwarf 2, owl 1, unicorn 1, glimfeather 1 |
-| tangled | 11 | tumnus 5, white-witch 3, eustace 2, aslan 1, edmund 1, uncle-andrew 1, trumpkin 1 |
-| timed-out | 5 | white-witch 2, (object/place) 2, tumnus 1 |
-| waiting | 28 | tumnus 8, (object/place) 5, puddleglum 4, mrs-beaver 1, fox 1, reepicheep 1, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, bree 1, hwin 1, jill 1, uncle-andrew 1 |
-| waiting-long | 32 | tumnus 11, (object/place) 6, puddleglum 4, aslan 1, robin 1, dryad 1, reepicheep 1, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, bree 1, hwin 1, jill 1, uncle-andrew 1 |
-| your-turn | 37 | tumnus 13, reepicheep 3, puddleglum 3, susan 2, (object/place) 2, eustace 2, caspian 2, doctor-cornelius 2, jill 2, uncle-andrew 2, white-witch 1, mr-beaver 1, trumpkin 1, bree 1, hwin 1 |
-| start: design | 32 | tumnus 21, (object/place) 4, jill 3, mr-beaver 1, dryad 1, doctor-cornelius 1, bree 1 |
-| start: email | 35 | tumnus 17, (object/place) 10, mrs-beaver 1, unicorn 1, reepicheep 1, caspian 1, trumpkin 1, hwin 1, uncle-andrew 1, glimfeather 1 |
-| start: focus | 31 | tumnus 9, (object/place) 8, puddleglum 4, aslan 1, reepicheep 1, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, bree 1, hwin 1, jill 1, uncle-andrew 1 |
-| start: general | 126 | tumnus 23, (object/place) 23, reepicheep 14, trumpkin 11, puddleglum 9, jill 9, eustace 7, caspian 7, bree 7, uncle-andrew 7, doctor-cornelius 5, hwin 4, aslan 1, white-witch 1, lucy 1, edmund 1, susan 1, peter 1 |
-| start: handoff | 6 | tumnus 2, aslan 1, dryad 1, maugrim 1, peter 1, father-christmas 1 |
-| start: meetings | 51 | (object/place) 15, tumnus 11, susan 4, uncle-andrew 4, peter 3, caspian 3, doctor-cornelius 3, reepicheep 2, lucy 1, white-witch 1, puddleglum 1, eustace 1, trumpkin 1, jill 1 |
-| start: mobile | 10 | tumnus 5, (object/place) 2, jill 2, edmund 1 |
-| start: money | 14 | tumnus 6, (object/place) 2, edmund 1, aslan 1, mr-beaver 1, dwarf 1, hwin 1, uncle-andrew 1 |
-| start: research | 90 | tumnus 32, (object/place) 22, doctor-cornelius 10, puddleglum 5, eustace 4, hwin 3, jill 3, reepicheep 2, lucy 1, edmund 1, aslan 1, fox 1, owl 1, caspian 1, trumpkin 1, uncle-andrew 1, bree 1 |
-| start: scheduling | 21 | tumnus 8, (object/place) 4, caspian 4, susan 1, white-witch 1, mrs-beaver 1, eustace 1, jill 1, doctor-cornelius 1 |
-| start: technical | 60 | tumnus 18, (object/place) 12, trumpkin 9, uncle-andrew 8, eustace 7, peter 1, white-witch 1, mr-beaver 1, maugrim 1, dwarf 1, puddleglum 1, caspian 1 |
-| start: tracker-add | 5 | tumnus 3, father-christmas 1, dryad 1 |
-| start: tracker-gaps | 8 | tumnus 4, white-witch 2, maugrim 1, (object/place) 1 |
-| start: tracker-list | 8 | (object/place) 3, tumnus 2, peter 1, mrs-beaver 1, father-christmas 1 |
-| start: tracker-next | 8 | tumnus 4, robin 2, (object/place) 2 |
+| big-win | 29 | tumnus 5, (object/place) 3, lucy 2, edmund 2, susan 2, peter 2, aslan 2, mrs-beaver 2, golg 2, reepicheep 2, mr-beaver 1, frank 1, fledge 1, tirian 1, jewel 1, king-lune 1, caspian 1, ramandus-daughter 1, rilian 1, sea-serpent 1, pattertwig 1, ginger 1, ahoshta 1, tisroc 1 |
+| blocked | 29 | (object/place) 9, tumnus 3, white-witch 2, maugrim 2, ginger 2, digory 1, polly 1, shift 1, dwarf 1, rabadash 1, gumpas 1, green-lady 1, nikabrik 1, mrs-macready 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| done | 77 | tumnus 23, (object/place) 11, reepicheep 5, caspian 5, lucy 4, eustace 4, puddleglum 3, trumpkin 3, doctor-cornelius 3, uncle-andrew 3, aslan 2, bree 2, jill 2, peter 2, digory 1, king-lune 1, shasta 1, aravis 1, coriakin 1, rumblebuffin 1, susan 1, edmund 1, trufflehunter 1, pattertwig 1, mouse 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| done-small | 81 | tumnus 28, (object/place) 6, reepicheep 6, puddleglum 4, eustace 4, caspian 3, trumpkin 3, doctor-cornelius 3, uncle-andrew 3, trufflehunter 3, peter 2, mrs-beaver 2, jill 2, sea-serpent 2, bree 1, polly 1, puzzle 1, poggin 1, drinian 1, coriakin 1, pattertwig 1, ginger 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| hello | 37 | tumnus 12, lucy 5, (object/place) 3, digory 2, trufflehunter 2, aslan 1, polly 1, tirian 1, jewel 1, poggin 1, shasta 1, bree 1, corin 1, ramandus-daughter 1, rilian 1, dryad 1, peter 1, susan 1, edmund 1, sea-serpent 1, pattertwig 1, reepicheep 1, ginger 1, ahoshta 1, tisroc 1 |
+| morning-brief | 17 | tumnus 6, (object/place) 4, edmund 1, mr-beaver 1, tirian 1, farsight 1, ramandu 1, father-time 1, puddleglum 1 |
+| not-found | 25 | (object/place) 4, tumnus 3, puddleglum 2, doctor-cornelius 2, lucy 2, digory 1, farsight 1, shasta 1, coriakin 1, rilian 1, peter 1, susan 1, edmund 1, sea-serpent 1, pattertwig 1, reepicheep 1, ginger 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| offline | 13 | (object/place) 4, tumnus 1, puddleglum 1, trumpkin 1, bulgy-bear 1, edmund 1, sea-serpent 1, mouse 1, ginger 1, rishda-tarkaan 1 |
+| oops | 63 | tumnus 17, (object/place) 6, puddleglum 5, uncle-andrew 5, edmund 4, eustace 4, trumpkin 4, jill 3, white-witch 2, doctor-cornelius 2, bree 2, reepicheep 1, caspian 1, digory 1, puzzle 1, rabadash 1, sea-serpent 1, ginger 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| retrying | 29 | tumnus 4, mr-beaver 3, (object/place) 3, lucy 2, reepicheep 2, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, jill 1, uncle-andrew 1, puddleglum 1, sea-serpent 1, trufflehunter 1, pattertwig 1, mouse 1, ginger 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| sent | 24 | (object/place) 6, tumnus 3, digory 2, pattertwig 2, sea-serpent 2, father-christmas 1, polly 1, jewel 1, shasta 1, caspian 1, reepicheep 1, ginger 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| signing-off | 54 | tumnus 18, (object/place) 9, reepicheep 4, jill 3, aslan 2, lucy 2, puddleglum 2, caspian 2, mr-beaver 1, mrs-beaver 1, eustace 1, trumpkin 1, doctor-cornelius 1, uncle-andrew 1, tirian 1, aravis 1, hwin 1, peter 1, sea-serpent 1, trufflehunter 1, pattertwig 1, ginger 1, rishda-tarkaan 1, ahoshta 1, tisroc 1 |
+| start | 580 | tumnus 173, (object/place) 145, jill 19, reepicheep 18, caspian 15, eustace 14, doctor-cornelius 14, trumpkin 12, hwin 12, bree 11, peter 10, mouse 10, lucy 9, susan 9, uncle-andrew 9, white-witch 8, sea-serpent 8, rishda-tarkaan 8, edmund 7, puddleglum 7, aslan 6, polly 6, trufflehunter 6, ginger 6, ahoshta 6, tisroc 6, pattertwig 5, drinian 4, mr-beaver 3, mrs-beaver 3, father-christmas 3, dryad 3, maugrim 3, fox 3, owl 3, glimfeather 3, aravis 3, robin 2, dwarf 2, digory 2, frank 2, tirian 2, shasta 2, corin 2, unicorn 1, fledge 1, shift 1, farsight 1, lasaraleen 1, hermit 1, coriakin 1, golg 1, rilian 1, nikabrik 1, professor-kirke 1, rumblebuffin 1 |
+| tangled | 22 | tumnus 5, white-witch 3, eustace 3, uncle-andrew 2, sea-serpent 2, aslan 1, edmund 1, trumpkin 1, jewel 1, lasaraleen 1, gumpas 1, jill 1, puddleglum 1, (object/place) 1, pattertwig 1, ginger 1, rishda-tarkaan 1 |
+| timed-out | 15 | (object/place) 3, white-witch 2, tumnus 1, digory 1, puzzle 1, miraz 1, susan 1, mrs-beaver 1, sea-serpent 1, pattertwig 1, ahoshta 1, tisroc 1 |
+| waiting | 40 | tumnus 8, (object/place) 7, puddleglum 5, mrs-beaver 1, fox 1, reepicheep 1, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, bree 1, hwin 1, jill 1, uncle-andrew 1, tirian 1, coriakin 1, drinian 1, mrs-macready 1, susan 1, sea-serpent 1, mouse 1, ginger 1, tisroc 1 |
+| waiting-long | 44 | tumnus 11, (object/place) 7, puddleglum 4, aslan 2, trufflehunter 2, robin 1, dryad 1, reepicheep 1, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, bree 1, hwin 1, jill 1, uncle-andrew 1, digory 1, fledge 1, jewel 1, hermit 1, shasta 1, father-time 1, sea-serpent 1, rishda-tarkaan 1, ahoshta 1 |
+| your-turn | 59 | tumnus 13, (object/place) 4, reepicheep 4, puddleglum 3, susan 2, eustace 2, caspian 2, trumpkin 2, doctor-cornelius 2, jill 2, uncle-andrew 2, digory 2, sea-serpent 2, trufflehunter 2, ahoshta 2, tisroc 2, white-witch 1, mr-beaver 1, bree 1, hwin 1, puzzle 1, shasta 1, bulgy-bear 1, professor-kirke 1, pattertwig 1, mouse 1, ginger 1, rishda-tarkaan 1 |
+| start: design | 38 | tumnus 21, (object/place) 5, jill 3, bree 2, mr-beaver 1, dryad 1, doctor-cornelius 1, sea-serpent 1, reepicheep 1, mouse 1, ginger 1, tisroc 1 |
+| start: email | 38 | tumnus 17, (object/place) 10, mrs-beaver 1, unicorn 1, reepicheep 1, caspian 1, trumpkin 1, hwin 1, uncle-andrew 1, glimfeather 1, eustace 1, jill 1, owl 1, mouse 1 |
+| start: focus | 38 | (object/place) 10, tumnus 9, puddleglum 4, ginger 2, aslan 1, reepicheep 1, eustace 1, caspian 1, trumpkin 1, doctor-cornelius 1, bree 1, hwin 1, jill 1, uncle-andrew 1, shasta 1, lucy 1, susan 1 |
+| start: general | 131 | (object/place) 24, tumnus 23, reepicheep 14, trumpkin 11, puddleglum 9, jill 9, eustace 7, caspian 7, bree 7, uncle-andrew 7, doctor-cornelius 5, hwin 4, aslan 1, white-witch 1, lucy 1, edmund 1, susan 1, peter 1, corin 1, drinian 1, sea-serpent 1, rishda-tarkaan 1 |
+| start: handoff | 14 | tumnus 2, polly 2, aslan 1, dryad 1, maugrim 1, peter 1, father-christmas 1, digory 1, tirian 1, farsight 1, caspian 1, drinian 1, jill 1, eustace 1, rumblebuffin 1, lucy 1, (object/place) 1, mouse 1 |
+| start: meetings | 66 | (object/place) 17, tumnus 11, susan 4, reepicheep 4, uncle-andrew 4, peter 3, caspian 3, doctor-cornelius 3, white-witch 2, eustace 2, jill 2, mouse 2, tisroc 2, lucy 1, puddleglum 1, trumpkin 1, tirian 1, aravis 1, lasaraleen 1, owl 1, glimfeather 1, pattertwig 1, trufflehunter 1, sea-serpent 1, ginger 1, rishda-tarkaan 1, ahoshta 1 |
+| start: mobile | 12 | tumnus 5, (object/place) 2, jill 2, pattertwig 2, edmund 1 |
+| start: money | 21 | tumnus 6, (object/place) 3, pattertwig 2, edmund 1, aslan 1, mr-beaver 1, dwarf 1, hwin 1, uncle-andrew 1, shift 1, sea-serpent 1, trufflehunter 1, ahoshta 1 |
+| start: research | 106 | tumnus 32, (object/place) 25, doctor-cornelius 11, puddleglum 5, eustace 4, jill 4, reepicheep 3, hwin 3, edmund 2, caspian 2, mouse 2, lucy 1, aslan 1, fox 1, owl 1, trumpkin 1, uncle-andrew 1, bree 1, polly 1, hermit 1, coriakin 1, professor-kirke 1, sea-serpent 1, trufflehunter 1, ginger 1, ahoshta 1 |
+| start: scheduling | 25 | tumnus 8, (object/place) 5, caspian 4, susan 1, white-witch 1, mrs-beaver 1, eustace 1, jill 1, doctor-cornelius 1, edmund 1, lucy 1, sea-serpent 1, rishda-tarkaan 1 |
+| start: technical | 65 | tumnus 18, (object/place) 13, trumpkin 9, uncle-andrew 8, eustace 7, rishda-tarkaan 2, peter 1, white-witch 1, mr-beaver 1, maugrim 1, dwarf 1, puddleglum 1, caspian 1, trufflehunter 1, mouse 1 |
+| start: tracker-add | 10 | tumnus 3, trufflehunter 2, father-christmas 1, dryad 1, polly 1, drinian 1, (object/place) 1 |
+| start: tracker-gaps | 9 | tumnus 4, white-witch 2, maugrim 1, (object/place) 1, ginger 1 |
+| start: tracker-list | 10 | (object/place) 3, tumnus 2, peter 1, mrs-beaver 1, father-christmas 1, golg 1, ahoshta 1 |
+| start: tracker-next | 10 | tumnus 4, (object/place) 3, robin 2, tisroc 1 |
 | start: tracker-now | 7 | tumnus 2, (object/place) 2, peter 1, aslan 1, fox 1 |
-| start: tracker-review | 6 | tumnus 3, (object/place) 2, susan 1 |
-| start: travel | 53 | (object/place) 19, tumnus 12, caspian 6, bree 6, jill 5, hwin 4, white-witch 1, reepicheep 1, puddleglum 1, doctor-cornelius 1 |
-| start: writing | 55 | tumnus 17, (object/place) 15, reepicheep 4, uncle-andrew 4, puddleglum 3, doctor-cornelius 3, jill 3, lucy 2, eustace 2, caspian 2, fox 1 |
-| season: autumn | 3 | tumnus 3 |
+| start: tracker-review | 15 | tumnus 3, (object/place) 3, rishda-tarkaan 2, susan 1, frank 1, shasta 1, corin 1, rilian 1, nikabrik 1, reepicheep 1, mouse 1, ahoshta 1 |
+| start: travel | 67 | (object/place) 23, tumnus 12, caspian 6, bree 6, jill 6, hwin 5, white-witch 1, reepicheep 1, puddleglum 1, doctor-cornelius 1, frank 1, fledge 1, digory 1, polly 1, aravis 1, drinian 1, glimfeather 1, lucy 1, peter 1, susan 1, edmund 1, sea-serpent 1, mouse 1, rishda-tarkaan 1, tisroc 1 |
+| start: writing | 66 | (object/place) 18, tumnus 17, reepicheep 5, uncle-andrew 4, puddleglum 3, eustace 3, doctor-cornelius 3, jill 3, lucy 2, caspian 2, fox 1, polly 1, aravis 1, peter 1, sea-serpent 1, ahoshta 1, tisroc 1 |
+| season: autumn | 9 | tumnus 3, (object/place) 2, corin 1, puddleglum 1, pattertwig 1, susan 1 |
 | season: christmas | 8 | (object/place) 3, tumnus 2, father-christmas 2, white-witch 1 |
-| season: new-year | 3 | tumnus 2, (object/place) 1 |
-| season: spring | 5 | tumnus 2, dryad 2, (object/place) 1 |
-| season: summer | 2 | tumnus 2 |
-| season: thanksgiving | 3 | tumnus 2, (object/place) 1 |
-| season: winter | 10 | tumnus 6, (object/place) 3, white-witch 1 |
+| season: new-year | 6 | tumnus 2, (object/place) 2, caspian 1, ramandus-daughter 1, golg 1 |
+| season: spring | 10 | (object/place) 4, dryad 3, tumnus 2, digory 1 |
+| season: summer | 8 | (object/place) 3, tumnus 2, shasta 1, bree 1, coriakin 1 |
+| season: thanksgiving | 7 | (object/place) 3, tumnus 2, king-lune 1, trufflehunter 1 |
+| season: winter | 14 | tumnus 6, (object/place) 5, white-witch 1, edmund 1, lucy 1 |

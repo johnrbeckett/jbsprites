@@ -10,6 +10,10 @@
 | Skill | v10 (823 sprites, package jbsprites_2026-10-16c.skill, release v10). Was v9: SKILL.md (4.9 KB, no sprite names) + scripts/pick.py + index/narnia.json. Package ~/Developer/Outputs/jbsprites_2026-10-16b.skill points at @v9; release v9 asset. Not yet installed. |
 | Open | John reinstalls v9 and updates his preference line. jsDelivr size limit: fixed from v10 by the art-repo split (v1-v9 trees stay ~61 MB and can still 403 cold). Commit the three caller repos. Fill `view` for sheets 06-19. Sheet 11 and 12_01 unmapped. Update the preference line to "family narnia". |
 
+## In flight (2026-10-16, NOT committed)
+
+Sheets 44 to 58 (375 sprites, from the narnia-complete handoff bundle) are imported locally. The sources are in jbsprites-art/narnia/originals (uncommitted there too). They were cut with make_sprites.py, and all 375 match the bundle's own cuts byte for byte. They were added to the catalog as proposed. vocab.py and SHEET-BRIEF.md gained 40 characters, with Jewel kept separate from unicorn and no Dufflepuds. The index was rebuilt with --tag v11 (1198 assets) and test_pick passes, but v11 is not tagged or pushed, so index URLs 404 until then. The bundle's sheets 32-42 and pevensies_02 override were identical to what is already here. Its 43 PNG is the older pre-restyle version, so it was ignored. Bundle zip in ~/Developer/Trash/jbsprites-import-scratch-2026-10-16/. Next: John reviews review/narnia-review.html, then commit both repos, tag v11, push, check URLs, package, release. Open idea from the bundle's REPETITION-AUDIT: composition_group metadata and recency in pick.py.
+
 ## Commits
 
 - c723246 Skill, scripts and the tumnus family. Pushed 2026-10-15, tag v1; all mapped sprites verified 200 on jsDelivr.

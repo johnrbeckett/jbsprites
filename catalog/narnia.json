@@ -21165,6 +21165,8489 @@
    "energy": "subdued",
    "description": "Reepicheep and Jill modestly toasting tea after work",
    "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_01",
+   "file": "44-magicians-nephew-at-work_01.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Digory, tousled hair, shirt and tie, waving",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_02",
+   "file": "44-magicians-nephew-at-work_02.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "polly"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly, neat bob, cardigan, holding a notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_03",
+   "file": "44-magicians-nephew-at-work_03.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "digory",
+    "polly"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Digory and Polly shaking hands over a garden wall",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_04",
+   "file": "44-magicians-nephew-at-work_04.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "polly"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly crawling through an attic tunnel with a lantern",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_05",
+   "file": "44-magicians-nephew-at-work_05.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Digory examining a gold ring held in one visible hand, other hand outside portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_06",
+   "file": "44-magicians-nephew-at-work_06.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "polly"
+   ],
+   "motifs": [],
+   "view": "hands",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly slipping on a green ring to pass the job along",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_07",
+   "file": "44-magicians-nephew-at-work_07.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "digory",
+    "polly"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start",
+    "sent"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Digory and Polly jumping hand in hand into a pool",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_08",
+   "file": "44-magicians-nephew-at-work_08.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out",
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Digory dozing at the edge of a quiet woodland pool",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_09",
+   "file": "44-magicians-nephew-at-work_09.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Digory, hand hovering over a small golden bell and hammer",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_10",
+   "file": "44-magicians-nephew-at-work_10.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Digory wincing as the bell rings",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_11",
+   "file": "44-magicians-nephew-at-work_11.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "digory",
+    "polly"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly holding Digory back by the sleeve",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_12",
+   "file": "44-magicians-nephew-at-work_12.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jadis, tall queen of Charn, at a grand stone desk",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_13",
+   "file": "44-magicians-nephew-at-work_13.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jadis scowling at a bent lamppost crossbar in her hand",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_14",
+   "file": "44-magicians-nephew-at-work_14.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew stuck upside down in a sapling, flustered",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_15",
+   "file": "44-magicians-nephew-at-work_15.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "frank"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Frank the cabby in a bowler hat beside his horse",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_16",
+   "file": "44-magicians-nephew-at-work_16.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "frank"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Frank, newly crowned, reading petitions at a plain desk",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_17",
+   "file": "44-magicians-nephew-at-work_17.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "frank"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Frank and Helen crowned side by side, waving",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_18",
+   "file": "44-magicians-nephew-at-work_18.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "fledge"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Fledge, the winged horse, spreading new wings",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_19",
+   "file": "44-magicians-nephew-at-work_19.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "fledge",
+    "digory",
+    "polly"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Fledge flying with Digory and Polly on his back",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_20",
+   "file": "44-magicians-nephew-at-work_20.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "fledge"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Fledge grazing beside an empty bench",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_21",
+   "file": "44-magicians-nephew-at-work_21.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Digory carrying a silver apple carefully in both hands",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_22",
+   "file": "44-magicians-nephew-at-work_22.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [
+    "spring"
+   ],
+   "energy": "moderate",
+   "description": "Digory planting a seedling in fresh soil",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_23",
+   "file": "44-magicians-nephew-at-work_23.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "polly"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly adding small potted saplings to a tidy shelf",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_24",
+   "file": "44-magicians-nephew-at-work_24.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "digory"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Digory searching an empty attic cupboard by candlelight",
+   "status": "proposed"
+  },
+  {
+   "id": "44-magicians-nephew-at-work_25",
+   "file": "44-magicians-nephew-at-work_25.webp",
+   "sheet": "44-magicians-nephew-at-work",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "polly"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly, thumbs up beside a tray of rings",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_01",
+   "file": "45-last-battle-colleagues_01.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "tirian",
+    "jewel"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tirian, hand on Jewel the unicorn's neck, greeting",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_02",
+   "file": "45-last-battle-colleagues_02.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "tirian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tirian at an oak table reading morning dispatches",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_03",
+   "file": "45-last-battle-colleagues_03.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "jewel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jewel trotting with a message pouch",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_04",
+   "file": "45-last-battle-colleagues_04.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "jewel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Jewel lying down, head on hooves, patient",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_05",
+   "file": "45-last-battle-colleagues_05.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "puzzle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Puzzle the donkey in a badly fitting lion-skin costume",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_06",
+   "file": "45-last-battle-colleagues_06.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "puzzle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puzzle shrugging off the lion skin, relieved",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_07",
+   "file": "45-last-battle-colleagues_07.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "shift"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Shift the ape in an oversized coat offering a sealed envelope",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_08",
+   "file": "45-last-battle-colleagues_08.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "shift"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Shift counting nuts into an oversized ledger",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_09",
+   "file": "45-last-battle-colleagues_09.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "puzzle"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puzzle holding a dandelion, asking timidly",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_10",
+   "file": "45-last-battle-colleagues_10.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "poggin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Poggin the dwarf arriving with a lantern, cheerful",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_11",
+   "file": "45-last-battle-colleagues_11.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "poggin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Poggin carrying a tray of mugs for the team",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_12",
+   "file": "45-last-battle-colleagues_12.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "farsight"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Farsight the eagle on a lectern beside a telescope",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_13",
+   "file": "45-last-battle-colleagues_13.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "farsight"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Farsight scanning an empty horizon",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_14",
+   "file": "45-last-battle-colleagues_14.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "tirian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tirian on night watch with a lantern",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_15",
+   "file": "45-last-battle-colleagues_15.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "tirian",
+    "eustace",
+    "jill"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tirian, Eustace and Jill around a map table",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_16",
+   "file": "45-last-battle-colleagues_16.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill in a green hood slipping through brush with a notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_17",
+   "file": "45-last-battle-colleagues_17.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Eustace sorting letters with a sword-shaped opener",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_18",
+   "file": "45-last-battle-colleagues_18.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A closed stable door with a lantern hanging beside it",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_19",
+   "file": "45-last-battle-colleagues_19.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The stable door open onto warm sunlight",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_20",
+   "file": "45-last-battle-colleagues_20.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "tirian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tirian closing a book at sunset",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_21",
+   "file": "45-last-battle-colleagues_21.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "tirian",
+    "jewel"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Jewel and Tirian racing up a green hill",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_22",
+   "file": "45-last-battle-colleagues_22.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "puzzle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puzzle asleep resting beside an hourglass",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_23",
+   "file": "45-last-battle-colleagues_23.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "jewel"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jewel's horn with a small cable wound around it",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_24",
+   "file": "45-last-battle-colleagues_24.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "dwarf"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A huddle of dwarfs, arms folded, refusing",
+   "status": "proposed"
+  },
+  {
+   "id": "45-last-battle-colleagues_25",
+   "file": "45-last-battle-colleagues_25.webp",
+   "sheet": "45-last-battle-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "tirian",
+    "farsight"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tirian handing a sealed scroll to Farsight",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_01",
+   "file": "46-horse-and-his-boy-colleagues_01.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "shasta",
+    "bree"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Shasta on Bree, waving",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_02",
+   "file": "46-horse-and-his-boy-colleagues_02.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "aravis",
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aravis riding Hwin, composed and upright",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_03",
+   "file": "46-horse-and-his-boy-colleagues_03.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "shasta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Shasta with a satchel at a fork in the road",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_04",
+   "file": "46-horse-and-his-boy-colleagues_04.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "shasta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "subdued",
+   "description": "Shasta fishing from a small boat",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_05",
+   "file": "46-horse-and-his-boy-colleagues_05.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "aravis"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aravis writing a letter, perfect posture",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_06",
+   "file": "46-horse-and-his-boy-colleagues_06.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "aravis",
+    "lasaraleen"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aravis and Lasaraleen whispering over tea",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_07",
+   "file": "46-horse-and-his-boy-colleagues_07.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "lasaraleen"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Lasaraleen buried in shopping parcels",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_08",
+   "file": "46-horse-and-his-boy-colleagues_08.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "rabadash"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rabadash turned into a donkey, still wearing his crown, aghast",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_09",
+   "file": "46-horse-and-his-boy-colleagues_09.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "rabadash"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rabadash the donkey refusing to budge",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_10",
+   "file": "46-horse-and-his-boy-colleagues_10.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "corin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Corin vaulting a fence, grinning",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_11",
+   "file": "46-horse-and-his-boy-colleagues_11.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "shasta",
+    "corin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Shasta and Corin, identical twins, comparing notebooks",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_12",
+   "file": "46-horse-and-his-boy-colleagues_12.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "king-lune"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "King Lune, stout and beaming, arms wide",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_13",
+   "file": "46-horse-and-his-boy-colleagues_13.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "king-lune"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [
+    "thanksgiving"
+   ],
+   "energy": "moderate",
+   "description": "King Lune carving at a harvest table",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_14",
+   "file": "46-horse-and-his-boy-colleagues_14.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "hermit"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Hermit looking into his still pool",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_15",
+   "file": "46-horse-and-his-boy-colleagues_15.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "hermit"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Hermit tending goats, calm",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_16",
+   "file": "46-horse-and-his-boy-colleagues_16.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "shasta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Shasta lost in fog on a mountain pass",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_17",
+   "file": "46-horse-and-his-boy-colleagues_17.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "shasta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Shasta running with an urgent message",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_18",
+   "file": "46-horse-and-his-boy-colleagues_18.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "moderate",
+   "description": "Bree rolling on his back in the grass, relieved",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_19",
+   "file": "46-horse-and-his-boy-colleagues_19.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "aravis",
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aravis and Hwin sharing a quiet moment at dusk",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_20",
+   "file": "46-horse-and-his-boy-colleagues_20.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miniature of domed Tashbaan on a desk",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_21",
+   "file": "46-horse-and-his-boy-colleagues_21.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "shasta",
+    "aslan"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Shasta asleep against warm golden Aslan",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_22",
+   "file": "46-horse-and-his-boy-colleagues_22.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "shasta",
+    "aravis"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Shasta and Aravis at a shared desk, both working",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_23",
+   "file": "46-horse-and-his-boy-colleagues_23.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Tisroc's cushioned divan",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_24",
+   "file": "46-horse-and-his-boy-colleagues_24.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree admiring his reflection in a mirror",
+   "status": "proposed"
+  },
+  {
+   "id": "46-horse-and-his-boy-colleagues_25",
+   "file": "46-horse-and-his-boy-colleagues_25.webp",
+   "sheet": "46-horse-and-his-boy-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "corin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [
+    "autumn"
+   ],
+   "energy": "moderate",
+   "description": "Corin waving from a palace balcony among falling leaves",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_01",
+   "file": "47-dawn-treader-crew_01.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "drinian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Drinian at the ship's wheel with a compass",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_02",
+   "file": "47-dawn-treader-crew_02.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "drinian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Drinian writing in the ship's log",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_03",
+   "file": "47-dawn-treader-crew_03.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "gumpas"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Gumpas behind towering stacks of paperwork",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_04",
+   "file": "47-dawn-treader-crew_04.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "gumpas"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Gumpas holding up a blank form, insisting",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_05",
+   "file": "47-dawn-treader-crew_05.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Caspian clearing Gumpas's desk in one sweep",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_06",
+   "file": "47-dawn-treader-crew_06.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "drinian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Drinian striding cheerfully with a portfolio",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_07",
+   "file": "47-dawn-treader-crew_07.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "drinian",
+    "coriakin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Drinian and Coriakin nodding in agreement",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_08",
+   "file": "47-dawn-treader-crew_08.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "coriakin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "subdued",
+   "description": "Coriakin relaxing beneath a small sun umbrella",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_09",
+   "file": "47-dawn-treader-crew_09.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "coriakin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Coriakin turning pages at a lectern",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_10",
+   "file": "47-dawn-treader-crew_10.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "coriakin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Coriakin puzzling over a blank page",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_11",
+   "file": "47-dawn-treader-crew_11.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Lucy reading the magician's book by candlelight",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_12",
+   "file": "47-dawn-treader-crew_12.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "ramandu"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ramandu holding a glowing berry at dawn",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_13",
+   "file": "47-dawn-treader-crew_13.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "ramandus-daughter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ramandu\u2019s daughter carrying a lamp, welcoming",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_14",
+   "file": "47-dawn-treader-crew_14.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [
+    "thanksgiving"
+   ],
+   "energy": "moderate",
+   "description": "Aslan's table laid for a feast",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_15",
+   "file": "47-dawn-treader-crew_15.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A small friendly sea serpent tangled in ship's rope",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_16",
+   "file": "47-dawn-treader-crew_16.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Dawn Treader under full sail",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_17",
+   "file": "47-dawn-treader-crew_17.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Reepicheep paddling a coracle among white lilies",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_18",
+   "file": "47-dawn-treader-crew_18.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "edmund",
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Edmund and Lucy studying a star chart",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_19",
+   "file": "47-dawn-treader-crew_19.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Eustace scribbling grumpily in his diary",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_20",
+   "file": "47-dawn-treader-crew_20.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A becalmed ship with slack sails",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_21",
+   "file": "47-dawn-treader-crew_21.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "drinian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Drinian waiting out a storm beside an hourglass",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_22",
+   "file": "47-dawn-treader-crew_22.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A Lone Islands wharf piled with crates",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_23",
+   "file": "47-dawn-treader-crew_23.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "coriakin",
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Coriakin and Lucy laughing over teacups",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_24",
+   "file": "47-dawn-treader-crew_24.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "caspian",
+    "drinian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Caspian handing the helm to Drinian",
+   "status": "proposed"
+  },
+  {
+   "id": "47-dawn-treader-crew_25",
+   "file": "47-dawn-treader-crew_25.webp",
+   "sheet": "47-dawn-treader-crew",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "caspian",
+    "ramandus-daughter"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [
+    "new-year"
+   ],
+   "energy": "celebratory",
+   "description": "Caspian and Ramandu's daughter greeting the sunrise",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_01",
+   "file": "48-silver-chair-colleagues_01.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "rilian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Prince Rilian bowing politely in a dark suit",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_02",
+   "file": "48-silver-chair-colleagues_02.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "rilian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Rilian stepping free of a silver chair, relieved",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_03",
+   "file": "48-silver-chair-colleagues_03.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "rilian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rilian searching the horizon for his father's ship",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_04",
+   "file": "48-silver-chair-colleagues_04.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "green-lady"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Lady of the Green Kirtle offering a tempting green button",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_05",
+   "file": "48-silver-chair-colleagues_05.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Puddleglum tending a small smoky hearth with a poker",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_06",
+   "file": "48-silver-chair-colleagues_06.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "golg"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Golg the gnome leaping for joy with a lantern",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_07",
+   "file": "48-silver-chair-colleagues_07.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "golg"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-list"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Earthmen in single file, each with a lantern",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_08",
+   "file": "48-silver-chair-colleagues_08.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "An Underland lamp gone out",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_09",
+   "file": "48-silver-chair-colleagues_09.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "father-time"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Father Time, a huge giant, asleep",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_10",
+   "file": "48-silver-chair-colleagues_10.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "father-time"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Father Time waking and stretching",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_11",
+   "file": "48-silver-chair-colleagues_11.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "jill",
+    "eustace",
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill, Eustace and Puddleglum untangling a long rope",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_12",
+   "file": "48-silver-chair-colleagues_12.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "jill",
+    "owl"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill whistling for a messenger owl",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_13",
+   "file": "48-silver-chair-colleagues_13.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "glimfeather",
+    "jill"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glimfeather carrying Jill safely in a sling",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_14",
+   "file": "48-silver-chair-colleagues_14.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puddleglum gloomily tapping a barometer",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_15",
+   "file": "48-silver-chair-colleagues_15.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Snowy steps of a ruined giant city",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_16",
+   "file": "48-silver-chair-colleagues_16.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The silver chair standing empty",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_17",
+   "file": "48-silver-chair-colleagues_17.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "jill",
+    "eustace"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill and Eustace slipping through a door in a stone wall",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_18",
+   "file": "48-silver-chair-colleagues_18.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Old Trumpkin cupping his ear, waiting for an answer",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_19",
+   "file": "48-silver-chair-colleagues_19.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "rilian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rilian, crowned, going through a ledger",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_20",
+   "file": "48-silver-chair-colleagues_20.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "jill",
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Jill and Puddleglum sharing a flask of tea at night",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_21",
+   "file": "48-silver-chair-colleagues_21.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "autumn"
+   ],
+   "energy": "subdued",
+   "description": "Puddleglum fishing on a misty autumn marsh",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_22",
+   "file": "48-silver-chair-colleagues_22.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "golg"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [
+    "new-year"
+   ],
+   "energy": "celebratory",
+   "description": "Earthmen dancing with lanterns",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_23",
+   "file": "48-silver-chair-colleagues_23.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "owl",
+    "glimfeather"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A parliament of owls meeting in a tower",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_24",
+   "file": "48-silver-chair-colleagues_24.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill sliding down a long chute, surprised",
+   "status": "proposed"
+  },
+  {
+   "id": "48-silver-chair-colleagues_25",
+   "file": "48-silver-chair-colleagues_25.webp",
+   "sheet": "48-silver-chair-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puddleglum with a bandaged foot, smiling anyway",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_01",
+   "file": "49-prince-caspian-colleagues_01.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter the badger, kind, by a hearth",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_02",
+   "file": "49-prince-caspian-colleagues_02.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter writing names into a ledger",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_03",
+   "file": "49-prince-caspian-colleagues_03.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter dozing in an armchair",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_04",
+   "file": "49-prince-caspian-colleagues_04.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "nikabrik"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Nikabrik the dwarf grumbling, arms folded",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_05",
+   "file": "49-prince-caspian-colleagues_05.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "nikabrik"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Nikabrik squinting suspiciously at a document",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_06",
+   "file": "49-prince-caspian-colleagues_06.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig jogging upright with a sealed envelope held in both front paws",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_07",
+   "file": "49-prince-caspian-colleagues_07.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "mobile"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig chattering into a phone on a branch",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_08",
+   "file": "49-prince-caspian-colleagues_08.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [
+    "autumn"
+   ],
+   "energy": "moderate",
+   "description": "Pattertwig sorting acorns into jars",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_09",
+   "file": "49-prince-caspian-colleagues_09.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "miraz"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "King Miraz drumming his fingers, out of patience",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_10",
+   "file": "49-prince-caspian-colleagues_10.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "bulgy-bear"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Three Bulgy Bears asleep in a heap",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_11",
+   "file": "49-prince-caspian-colleagues_11.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "bulgy-bear"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A Bulgy Bear sucking his paw, thinking",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_12",
+   "file": "49-prince-caspian-colleagues_12.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "dryad"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [
+    "spring"
+   ],
+   "energy": "moderate",
+   "description": "Dryads dancing among blossoming trees",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_13",
+   "file": "49-prince-caspian-colleagues_13.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aslan's How, a grassy mound with a stone door",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_14",
+   "file": "49-prince-caspian-colleagues_14.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Caspian blowing Susan's horn",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_15",
+   "file": "49-prince-caspian-colleagues_15.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "lucy",
+    "peter",
+    "susan",
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Lucy pointing while the others shrug, seeing nothing",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_16",
+   "file": "49-prince-caspian-colleagues_16.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Edmund lighting a pocket lamp in old ruins",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_17",
+   "file": "49-prince-caspian-colleagues_17.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "peter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Peter writing a formal letter",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_18",
+   "file": "49-prince-caspian-colleagues_18.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "peter",
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Peter and Caspian shaking hands",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_19",
+   "file": "49-prince-caspian-colleagues_19.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "subdued",
+   "description": "Ruined Cair Paravel among apple trees",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_20",
+   "file": "49-prince-caspian-colleagues_20.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "lucy",
+    "peter",
+    "susan",
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Pevensies on a station bench as their luggage lifts away",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_21",
+   "file": "49-prince-caspian-colleagues_21.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Reepicheep admiring his restored tail",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_22",
+   "file": "49-prince-caspian-colleagues_22.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig",
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig and Trufflehunter planning over a map",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_23",
+   "file": "49-prince-caspian-colleagues_23.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [
+    "thanksgiving"
+   ],
+   "energy": "moderate",
+   "description": "Trufflehunter offering a warm loaf",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_24",
+   "file": "49-prince-caspian-colleagues_24.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "doctor-cornelius",
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Cornelius showing Caspian the stars from a tower",
+   "status": "proposed"
+  },
+  {
+   "id": "49-prince-caspian-colleagues_25",
+   "file": "49-prince-caspian-colleagues_25.webp",
+   "sheet": "49-prince-caspian-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A crown on a cushion, ready",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_01",
+   "file": "50-wardrobe-gaps-and-endings_01.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "professor-kirke"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Professor Kirke, bushy beard, gesturing to make a point",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_02",
+   "file": "50-wardrobe-gaps-and-endings_02.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "professor-kirke"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Professor Kirke at a study desk heaped with books",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_03",
+   "file": "50-wardrobe-gaps-and-endings_03.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "mrs-macready"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mrs Macready, keys in hand, barring a door",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_04",
+   "file": "50-wardrobe-gaps-and-endings_04.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "mrs-macready"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mrs Macready checking her watch, keys jangling",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_05",
+   "file": "50-wardrobe-gaps-and-endings_05.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "rumblebuffin",
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Giant Rumblebuffin handing a big parcel down to Lucy",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_06",
+   "file": "50-wardrobe-gaps-and-endings_06.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "rumblebuffin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rumblebuffin mopping his brow with a huge handkerchief",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_07",
+   "file": "50-wardrobe-gaps-and-endings_07.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Lucy peeking out between the coats in the wardrobe",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_08",
+   "file": "50-wardrobe-gaps-and-endings_08.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Lucy knocking on the wardrobe's plain wooden back",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_09",
+   "file": "50-wardrobe-gaps-and-endings_09.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Lucy giving a drop of cordial to a tired colleague",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_10",
+   "file": "50-wardrobe-gaps-and-endings_10.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Edmund, hat in hand, apologising",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_11",
+   "file": "50-wardrobe-gaps-and-endings_11.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Edmund at a frosted desk with a dark screen",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_12",
+   "file": "50-wardrobe-gaps-and-endings_12.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "edmund",
+    "peter"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Edmund being knighted, sword on his shoulder",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_13",
+   "file": "50-wardrobe-gaps-and-endings_13.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "susan"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Susan checking her wristwatch, sensible",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_14",
+   "file": "50-wardrobe-gaps-and-endings_14.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "susan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Susan aiming her bow at a target, focused",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_15",
+   "file": "50-wardrobe-gaps-and-endings_15.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "susan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "autumn"
+   ],
+   "energy": "subdued",
+   "description": "Susan in a raincoat with an umbrella",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_16",
+   "file": "50-wardrobe-gaps-and-endings_16.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "peter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Peter waving from a train carriage window",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_17",
+   "file": "50-wardrobe-gaps-and-endings_17.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "lucy",
+    "peter",
+    "susan",
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The four adult Pevensies hiding around an empty armchair, Peter and Edmund behind it, Lucy and Susan crouched outside the arms",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_18",
+   "file": "50-wardrobe-gaps-and-endings_18.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "lucy",
+    "peter",
+    "susan",
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Pevensies tumbling out of the wardrobe",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_19",
+   "file": "50-wardrobe-gaps-and-endings_19.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "lucy",
+    "susan",
+    "aslan"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Lucy and Susan riding on Aslan's back",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_20",
+   "file": "50-wardrobe-gaps-and-endings_20.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [
+    "spring"
+   ],
+   "energy": "subdued",
+   "description": "Dripping icicles and crocuses in the thaw",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_21",
+   "file": "50-wardrobe-gaps-and-endings_21.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "subdued",
+   "description": "A picnic blanket in a summer meadow",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_22",
+   "file": "50-wardrobe-gaps-and-endings_22.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "mr-beaver"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mr Beaver patching a leak in the dam",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_23",
+   "file": "50-wardrobe-gaps-and-endings_23.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "mrs-beaver"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mrs Beaver insisting on packing her sewing machine",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_24",
+   "file": "50-wardrobe-gaps-and-endings_24.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [
+    "spring"
+   ],
+   "energy": "subdued",
+   "description": "A sledge stuck in melting slush",
+   "status": "proposed"
+  },
+  {
+   "id": "50-wardrobe-gaps-and-endings_25",
+   "file": "50-wardrobe-gaps-and-endings_25.webp",
+   "sheet": "50-wardrobe-gaps-and-endings",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Lucy waving goodbye beside the lamppost",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_01",
+   "file": "51-later-books-objects-and-places_01.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Wood between the Worlds: quiet pools among trees",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_02",
+   "file": "51-later-books-objects-and-places_02.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A golden bell and small hammer on a pillar",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_03",
+   "file": "51-later-books-objects-and-places_03.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Yellow and green rings in two trays",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_04",
+   "file": "51-later-books-objects-and-places_04.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A silver apple on a velvet cushion",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_05",
+   "file": "51-later-books-objects-and-places_05.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [
+    "spring"
+   ],
+   "energy": "subdued",
+   "description": "A young lamppost sprouting from the ground",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_06",
+   "file": "51-later-books-objects-and-places_06.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Vintage manual typewriter with blank paper in carriage",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_07",
+   "file": "51-later-books-objects-and-places_07.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tipped inkpot, feather pen and blank papers stained with spilled ink on a small writing board",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_08",
+   "file": "51-later-books-objects-and-places_08.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miniature domes of Tashbaan",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_09",
+   "file": "51-later-books-objects-and-places_09.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Hermit's still pool",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_10",
+   "file": "51-later-books-objects-and-places_10.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A mountain pass lost in fog",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_11",
+   "file": "51-later-books-objects-and-places_11.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A ship's log and quill on a chart table",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_12",
+   "file": "51-later-books-objects-and-places_12.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "subdued",
+   "description": "A sea of white lilies at the world's end",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_13",
+   "file": "51-later-books-objects-and-places_13.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [
+    "thanksgiving"
+   ],
+   "energy": "moderate",
+   "description": "Ramandu's long table laid for a feast",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_14",
+   "file": "51-later-books-objects-and-places_14.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A magician's book glowing on a lectern",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_15",
+   "file": "51-later-books-objects-and-places_15.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A mountain of paperwork tied with string",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_16",
+   "file": "51-later-books-objects-and-places_16.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Wooden cabinet wireless radio with fabric grille and tuning knobs",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_17",
+   "file": "51-later-books-objects-and-places_17.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A broken silver chair",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_18",
+   "file": "51-later-books-objects-and-places_18.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "autumn"
+   ],
+   "energy": "subdued",
+   "description": "A wigwam on the marsh with a thread of smoke",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_19",
+   "file": "51-later-books-objects-and-places_19.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The stone door of Aslan's How",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_20",
+   "file": "51-later-books-objects-and-places_20.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "autumn"
+   ],
+   "energy": "subdued",
+   "description": "A ruined arch with an apple tree in autumn colour",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_21",
+   "file": "51-later-books-objects-and-places_21.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Snow on the giant steps of Harfang",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_22",
+   "file": "51-later-books-objects-and-places_22.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [
+    "new-year"
+   ],
+   "energy": "celebratory",
+   "description": "Lanterns strung between trees for a feast",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_23",
+   "file": "51-later-books-objects-and-places_23.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mechanical desktop adding machine with lever and curled blank paper strip",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_24",
+   "file": "51-later-books-objects-and-places_24.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A sealed scroll in a leather message tube",
+   "status": "proposed"
+  },
+  {
+   "id": "51-later-books-objects-and-places_25",
+   "file": "51-later-books-objects-and-places_25.webp",
+   "sheet": "51-later-books-objects-and-places",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "New notebooks tied with green ribbon",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_01",
+   "file": "52-teal-sea-serpent-at-work_01.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Greeting with raised tail tip",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_02",
+   "file": "52-teal-sea-serpent-at-work_02.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reading book on low stand",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_03",
+   "file": "52-teal-sea-serpent-at-work_03.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Writing with pen held gently in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_04",
+   "file": "52-teal-sea-serpent-at-work_04.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Delivering envelope in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_05",
+   "file": "52-teal-sea-serpent-at-work_05.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Studying planner on stand",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_06",
+   "file": "52-teal-sea-serpent-at-work_06.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Listening on headset draped behind head",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_07",
+   "file": "52-teal-sea-serpent-at-work_07.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Examining unplugged network cable on desk",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_08",
+   "file": "52-teal-sea-serpent-at-work_08.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tangled loosely in rope, sheepish",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_09",
+   "file": "52-teal-sea-serpent-at-work_09.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Untangling rope with careful tail curl",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_10",
+   "file": "52-teal-sea-serpent-at-work_10.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Waiting beside hourglass",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_11",
+   "file": "52-teal-sea-serpent-at-work_11.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Asleep coiled beside clock",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_12",
+   "file": "52-teal-sea-serpent-at-work_12.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Peering into empty file box",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_13",
+   "file": "52-teal-sea-serpent-at-work_13.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Offering pen balanced on tail tip",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_14",
+   "file": "52-teal-sea-serpent-at-work_14.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Small pleased nod beside completed blank checklist with green seal",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_15",
+   "file": "52-teal-sea-serpent-at-work_15.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Happy raised head with little confetti",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_16",
+   "file": "52-teal-sea-serpent-at-work_16.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Closing laptop with tip of tail",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_17",
+   "file": "52-teal-sea-serpent-at-work_17.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Coiled beside cup of tea",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_18",
+   "file": "52-teal-sea-serpent-at-work_18.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Checking receipts on low desk",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_19",
+   "file": "52-teal-sea-serpent-at-work_19.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Admiring painting on easel",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_20",
+   "file": "52-teal-sea-serpent-at-work_20.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Carrying waterproof satchel in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_21",
+   "file": "52-teal-sea-serpent-at-work_21.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Attentive head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_22",
+   "file": "52-teal-sea-serpent-at-work_22.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puzzled head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_23",
+   "file": "52-teal-sea-serpent-at-work_23.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Quiet satisfied head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_24",
+   "file": "52-teal-sea-serpent-at-work_24.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Head portrait offering sealed envelope in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "52-teal-sea-serpent-at-work_25",
+   "file": "52-teal-sea-serpent-at-work_25.webp",
+   "sheet": "52-teal-sea-serpent-at-work",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Head portrait wearing headset listening",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_01",
+   "file": "53-trufflehunter-and-pattertwig_01.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter waving with mug",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_02",
+   "file": "53-trufflehunter-and-pattertwig_02.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig waving bushy tail",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_03",
+   "file": "53-trufflehunter-and-pattertwig_03.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter writing in blank ledger",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_04",
+   "file": "53-trufflehunter-and-pattertwig_04.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig sorting acorns into jars",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_05",
+   "file": "53-trufflehunter-and-pattertwig_05.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter reading reference book",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_06",
+   "file": "53-trufflehunter-and-pattertwig_06.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig delivering envelope in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_07",
+   "file": "53-trufflehunter-and-pattertwig_07.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter counting bills and receipts",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_08",
+   "file": "53-trufflehunter-and-pattertwig_08.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "mobile"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig speaking into phone",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_09",
+   "file": "53-trufflehunter-and-pattertwig_09.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter waiting patiently for a kettle on a low side table",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_10",
+   "file": "53-trufflehunter-and-pattertwig_10.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Pattertwig asleep on side, tail resting alongside body, beside clock",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_11",
+   "file": "53-trufflehunter-and-pattertwig_11.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter adjusting a vintage wireless radio while holding a headphone earpiece to one ear",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_12",
+   "file": "53-trufflehunter-and-pattertwig_12.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Pattertwig puzzled at empty mail tray",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_13",
+   "file": "53-trufflehunter-and-pattertwig_13.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter offering pen",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_14",
+   "file": "53-trufflehunter-and-pattertwig_14.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig tangled in ribbon",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_15",
+   "file": "53-trufflehunter-and-pattertwig_15.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter tidying spilled papers",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_16",
+   "file": "53-trufflehunter-and-pattertwig_16.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig reopening notebook determinedly",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_17",
+   "file": "53-trufflehunter-and-pattertwig_17.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter approving small nod with clipboard",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_18",
+   "file": "53-trufflehunter-and-pattertwig_18.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig pleased raised paw",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_19",
+   "file": "53-trufflehunter-and-pattertwig_19.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter offering warm loaf",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_20",
+   "file": "53-trufflehunter-and-pattertwig_20.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Pattertwig little victorious leap",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_21",
+   "file": "53-trufflehunter-and-pattertwig_21.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter closing book for evening",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_22",
+   "file": "53-trufflehunter-and-pattertwig_22.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Pattertwig departing with tiny briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_23",
+   "file": "53-trufflehunter-and-pattertwig_23.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter thoughtful head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_24",
+   "file": "53-trufflehunter-and-pattertwig_24.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Pattertwig listening head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "53-trufflehunter-and-pattertwig_25",
+   "file": "53-trufflehunter-and-pattertwig_25.webp",
+   "sheet": "53-trufflehunter-and-pattertwig",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "trufflehunter",
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter and Pattertwig sharing tea after work",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_01",
+   "file": "54-reepicheep-and-mouse-colleagues_01.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep greeting with courteous bow",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_02",
+   "file": "54-reepicheep-and-mouse-colleagues_02.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep delivering envelope in paws",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_03",
+   "file": "54-reepicheep-and-mouse-colleagues_03.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep writing with oversize pen",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_04",
+   "file": "54-reepicheep-and-mouse-colleagues_04.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep and grey mouse operating a vintage slide projector",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_05",
+   "file": "54-reepicheep-and-mouse-colleagues_05.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep holds a tiny ladder while cream mouse retrieves notebook from shelf",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_06",
+   "file": "54-reepicheep-and-mouse-colleagues_06.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Grey mouse colleague sorting letters",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_07",
+   "file": "54-reepicheep-and-mouse-colleagues_07.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Cream mouse colleague examining tiny cable",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_08",
+   "file": "54-reepicheep-and-mouse-colleagues_08.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Brown mouse colleague carrying notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_09",
+   "file": "54-reepicheep-and-mouse-colleagues_09.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Grey and brown mouse colleagues leaning together against closed lift doors, feet on floor",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_10",
+   "file": "54-reepicheep-and-mouse-colleagues_10.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Cream mouse colleague offering pen",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_11",
+   "file": "54-reepicheep-and-mouse-colleagues_11.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Reepicheep searching empty file box",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_12",
+   "file": "54-reepicheep-and-mouse-colleagues_12.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep disentangling ribbon",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_13",
+   "file": "54-reepicheep-and-mouse-colleagues_13.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep standing upright with paw over heart, quiet proud smile",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_14",
+   "file": "54-reepicheep-and-mouse-colleagues_14.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Reepicheep small victorious raised paw",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_15",
+   "file": "54-reepicheep-and-mouse-colleagues_15.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Reepicheep closing a portable manual typewriter case",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_16",
+   "file": "54-reepicheep-and-mouse-colleagues_16.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two mouse colleagues unrolling a large blueprint on floor, each holding one end",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_17",
+   "file": "54-reepicheep-and-mouse-colleagues_17.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Cream and grey mouse colleagues working together to wind cable onto spool",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_18",
+   "file": "54-reepicheep-and-mouse-colleagues_18.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Brown mouse and cream mouse carrying a ruler like a bridge between two small blocks",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_19",
+   "file": "54-reepicheep-and-mouse-colleagues_19.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Reepicheep thoughtful head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_20",
+   "file": "54-reepicheep-and-mouse-colleagues_20.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep smiling head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_21",
+   "file": "54-reepicheep-and-mouse-colleagues_21.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep and grey mouse reviewing map",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_22",
+   "file": "54-reepicheep-and-mouse-colleagues_22.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two mouse colleagues handing off envelope",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_23",
+   "file": "54-reepicheep-and-mouse-colleagues_23.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Three mouse colleagues carrying large briefcase together",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_24",
+   "file": "54-reepicheep-and-mouse-colleagues_24.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep and cream mouse comparing blank checklists",
+   "status": "proposed"
+  },
+  {
+   "id": "54-reepicheep-and-mouse-colleagues_25",
+   "file": "54-reepicheep-and-mouse-colleagues_25.webp",
+   "sheet": "54-reepicheep-and-mouse-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep and two mouse colleagues sharing tea",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_01",
+   "file": "55-ginger-office-schemer_01.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger peeking around an open office door, both forepaws on frame",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_02",
+   "file": "55-ginger-office-schemer_02.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger crouched low examining pawprints with magnifier",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_03",
+   "file": "55-ginger-office-schemer_03.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger listening at ventilation grille, ear turned toward it",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_04",
+   "file": "55-ginger-office-schemer_04.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-gaps"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger perched on top of filing cabinet reaching into open drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_05",
+   "file": "55-ginger-office-schemer_05.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger pinning a red string between two picture cards on corkboard",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_06",
+   "file": "55-ginger-office-schemer_06.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger carrying a rolled blueprint in mouth, four paws on ground",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_07",
+   "file": "55-ginger-office-schemer_07.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger listening through an earpiece of a small wooden wireless radio",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_08",
+   "file": "55-ginger-office-schemer_08.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger turning an empty wastebasket upside down",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_09",
+   "file": "55-ginger-office-schemer_09.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger halted by a closed cat flap, paws planted",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_10",
+   "file": "55-ginger-office-schemer_10.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger lifting the receiver of a disconnected telephone, cord end visible",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_11",
+   "file": "55-ginger-office-schemer_11.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger caught with a loose ball of red string around two paws",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_12",
+   "file": "55-ginger-office-schemer_12.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger nudging a fallen chess piece upright",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_13",
+   "file": "55-ginger-office-schemer_13.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger carefully balancing on a narrow bookshelf",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_14",
+   "file": "55-ginger-office-schemer_14.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger pushing a final puzzle piece into a small jigsaw",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_15",
+   "file": "55-ginger-office-schemer_15.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger ringing a small service bell with one paw",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_16",
+   "file": "55-ginger-office-schemer_16.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Ginger riding a wheeled office stool with delighted raised paw",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_17",
+   "file": "55-ginger-office-schemer_17.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger pulling down a small roller blind, two hindpaws grounded",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_18",
+   "file": "55-ginger-office-schemer_18.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger startled by spring-loaded empty file drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_19",
+   "file": "55-ginger-office-schemer_19.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger skeptical sideways glance head and shoulders",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_20",
+   "file": "55-ginger-office-schemer_20.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger conspiratorial shushing paw beside mouth head and shoulders",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_21",
+   "file": "55-ginger-office-schemer_21.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Corkboard with photo silhouettes connected by red string",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_22",
+   "file": "55-ginger-office-schemer_22.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Open floor vent with two orange pawprints beside it",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_23",
+   "file": "55-ginger-office-schemer_23.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Chessboard with lone orange pawn facing black rook",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_24",
+   "file": "55-ginger-office-schemer_24.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Vintage folding bellows camera on short tripod with lens cap still attached",
+   "status": "proposed"
+  },
+  {
+   "id": "55-ginger-office-schemer_25",
+   "file": "55-ginger-office-schemer_25.webp",
+   "sheet": "55-ginger-office-schemer",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Overturned wastebasket with one crumpled blank note",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_01",
+   "file": "56-rishda-operations-office_01.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda rolling up sleeves ready for operations",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_02",
+   "file": "56-rishda-operations-office_02.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda pulling a compact handcart loaded with parcels",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_03",
+   "file": "56-rishda-operations-office_03.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda plugging a cord into a vintage telephone switchboard",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_04",
+   "file": "56-rishda-operations-office_04.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda assigning colored magnetic tiles on a planning board",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_05",
+   "file": "56-rishda-operations-office_05.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda using headset while pointing to route map on wall",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_06",
+   "file": "56-rishda-operations-office_06.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda comparing two warehouse crates and a measuring tape",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_07",
+   "file": "56-rishda-operations-office_07.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda checking parcel weight on a mechanical parcel scale",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_08",
+   "file": "56-rishda-operations-office_08.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda pushing a lever on small mechanical conveyor",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_09",
+   "file": "56-rishda-operations-office_09.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda kneeling to tighten wheel of office trolley with wrench",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_10",
+   "file": "56-rishda-operations-office_10.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda holding two disconnected network cable ends apart",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_11",
+   "file": "56-rishda-operations-office_11.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda finding an empty fitted slot inside an equipment case",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_12",
+   "file": "56-rishda-operations-office_12.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda stopped before striped portable barrier, hand on hip",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_13",
+   "file": "56-rishda-operations-office_13.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda catching a toppling stack of three storage boxes",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_14",
+   "file": "56-rishda-operations-office_14.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda pulling red tangled cable from compact reel",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_15",
+   "file": "56-rishda-operations-office_15.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda tapping shoe with folded arms beside closed lift doors",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_16",
+   "file": "56-rishda-operations-office_16.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda presenting two differently colored route cards for a choice",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_17",
+   "file": "56-rishda-operations-office_17.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda clipping shut a fully packed equipment case",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_18",
+   "file": "56-rishda-operations-office_18.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda launching a paper airplane from a dispatch platform",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_19",
+   "file": "56-rishda-operations-office_19.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rishda hanging suit jacket on coat stand at end of day",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_20",
+   "file": "56-rishda-operations-office_20.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "rishda-tarkaan"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rishda relieved laugh loosening tie, head and shoulders",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_21",
+   "file": "56-rishda-operations-office_21.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Color coded shipping parcels on a hand trolley",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_22",
+   "file": "56-rishda-operations-office_22.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Vintage radio communications set with handset and disconnected cable",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_23",
+   "file": "56-rishda-operations-office_23.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Route map marked with colored pins and dotted paths",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_24",
+   "file": "56-rishda-operations-office_24.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tool roll open with pliers wrench and cable tester",
+   "status": "proposed"
+  },
+  {
+   "id": "56-rishda-operations-office_25",
+   "file": "56-rishda-operations-office_25.webp",
+   "sheet": "56-rishda-operations-office",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Portable striped barrier and padlock",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_01",
+   "file": "57-ahoshta-advisory-office_01.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta making room at small meeting table, welcoming open hand",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_02",
+   "file": "57-ahoshta-advisory-office_02.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta stamping a single form with a green check symbol",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_03",
+   "file": "57-ahoshta-advisory-office_03.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta comparing two long rolled contracts with spectacles low on nose",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_04",
+   "file": "57-ahoshta-advisory-office_04.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta applying red correction marks to a draft on a sloped writing stand, no words",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_05",
+   "file": "57-ahoshta-advisory-office_05.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta placing colored bookmarks along an enormous rulebook",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_06",
+   "file": "57-ahoshta-advisory-office_06.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta negotiating with a tabletop balance scale and two folders",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_07",
+   "file": "57-ahoshta-advisory-office_07.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta holding three empty signature tabs out toward viewer",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_08",
+   "file": "57-ahoshta-advisory-office_08.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta reaching for a stamp just beyond his fingertips across desk",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_09",
+   "file": "57-ahoshta-advisory-office_09.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-list"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta pulling a very long accordion fold form out of a drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_10",
+   "file": "57-ahoshta-advisory-office_10.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta searching a cabinet drawer with an empty outlined folder slot",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_11",
+   "file": "57-ahoshta-advisory-office_11.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta feeding one crumpled draft into a small shredder",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_12",
+   "file": "57-ahoshta-advisory-office_12.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta startled at red ink spilled across his fingertips",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_13",
+   "file": "57-ahoshta-advisory-office_13.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta waiting on upholstered bench with queue ticket showing only a circle",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_14",
+   "file": "57-ahoshta-advisory-office_14.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta using rotary phone while covering mouth to whisper",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_15",
+   "file": "57-ahoshta-advisory-office_15.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta tying accepted document bundle with blue ribbon",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_16",
+   "file": "57-ahoshta-advisory-office_16.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Ahoshta dramatically raising both hands above finally completed tower of binders",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_17",
+   "file": "57-ahoshta-advisory-office_17.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta putting spectacles into case and folding it shut",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_18",
+   "file": "57-ahoshta-advisory-office_18.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ahoshta holding a large sealed scroll behind his back with smug smile",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_19",
+   "file": "57-ahoshta-advisory-office_19.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta peering over spectacles, head and shoulders",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_20",
+   "file": "57-ahoshta-advisory-office_20.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "ahoshta"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ahoshta pinching bridge of nose, glasses in other hand, head and shoulders",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_21",
+   "file": "57-ahoshta-advisory-office_21.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wooden carousel holding four rubber stamps with simple symbols",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_22",
+   "file": "57-ahoshta-advisory-office_22.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Accordion fold blank contract snaking across floor",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_23",
+   "file": "57-ahoshta-advisory-office_23.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Small shredder with crumpled draft entering slot",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_24",
+   "file": "57-ahoshta-advisory-office_24.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Blue ribbon tied around neatly indexed binder stack",
+   "status": "proposed"
+  },
+  {
+   "id": "57-ahoshta-advisory-office_25",
+   "file": "57-ahoshta-advisory-office_25.webp",
+   "sheet": "57-ahoshta-advisory-office",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Empty spectacles case beside folded reading glasses",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_01",
+   "file": "58-tisroc-executive-office_01.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc grandly opening double office doors with both hands",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_02",
+   "file": "58-tisroc-executive-office_02.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc seated at tiny conference table that barely fits him, feet on floor",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_03",
+   "file": "58-tisroc-executive-office_03.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc inspecting miniature building model on pedestal",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_04",
+   "file": "58-tisroc-executive-office_04.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-next"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc moving large chess rook on strategy table",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_05",
+   "file": "58-tisroc-executive-office_05.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc choosing between two fabric swatches held in his hands",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_06",
+   "file": "58-tisroc-executive-office_06.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc dictating into speaking tube of antique desk dictation machine",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_07",
+   "file": "58-tisroc-executive-office_07.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Tisroc stepping onto a small podium to unveil framed upward arrow",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_08",
+   "file": "58-tisroc-executive-office_08.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc reviewing a miniature globe with route ribbon around it",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_09",
+   "file": "58-tisroc-executive-office_09.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc attempting to fit huge golden key into tiny locked drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_10",
+   "file": "58-tisroc-executive-office_10.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc leaning back in executive chair with shoed feet firmly on ground, fingers steepled",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_11",
+   "file": "58-tisroc-executive-office_11.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc discovering empty pedestal where his crown belongs",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_12",
+   "file": "58-tisroc-executive-office_12.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc holding upside down folded map and scratching head",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_13",
+   "file": "58-tisroc-executive-office_13.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc patiently rebuilding fallen tower of wooden planning blocks",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_14",
+   "file": "58-tisroc-executive-office_14.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc dropping last coin into a glass savings jar",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_15",
+   "file": "58-tisroc-executive-office_15.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc ceremoniously cutting a ribbon stretched between two short posts",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_16",
+   "file": "58-tisroc-executive-office_16.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc picking up coat from coat hook, crown tucked under other arm",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_17",
+   "file": "58-tisroc-executive-office_17.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc addressing tabletop microphone while clutching lapel",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_18",
+   "file": "58-tisroc-executive-office_18.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc pushing a small wheeled cart of gift boxes",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_19",
+   "file": "58-tisroc-executive-office_19.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc incredulous raised eyebrow, head and shoulders",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_20",
+   "file": "58-tisroc-executive-office_20.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc sleepy yawn behind hand, head and shoulders",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_21",
+   "file": "58-tisroc-executive-office_21.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miniature office building architectural model on square base",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_22",
+   "file": "58-tisroc-executive-office_22.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Oversized golden key beside tiny lock",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_23",
+   "file": "58-tisroc-executive-office_23.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two ribbon posts with freshly cut ribbon falling between them",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_24",
+   "file": "58-tisroc-executive-office_24.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-next"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Strategy chessboard with gold rook and burgundy pawn",
+   "status": "proposed"
+  },
+  {
+   "id": "58-tisroc-executive-office_25",
+   "file": "58-tisroc-executive-office_25.webp",
+   "sheet": "58-tisroc-executive-office",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Period ribbed chrome broadcast microphone with unplugged cable",
+   "status": "proposed"
   }
  ]
 }

@@ -55,7 +55,8 @@ Use only these words in the JSON. Anything else is ignored by the build.
   `edmund`, `susan`, `peter`, `aslan`, `white-witch`, `mr-beaver`, `mrs-beaver`, `father-christmas`,
   `dryad`, `maugrim` (every wolf is Maugrim), `fox`, `robin`, `owl`, `dwarf`, `unicorn`, `centaur`,
   `reepicheep`, `puddleglum`, `eustace` (also as a dragon), `caspian`, `trumpkin`, `doctor-cornelius`,
-  `glimfeather`, `bree`, `hwin`, `jill`, `uncle-andrew`. A new character needs a new
+  `glimfeather`, `bree`, `hwin`, `jill`, `uncle-andrew`,
+  and from sheets 44 to 58: `ahoshta`, `aravis`, `bulgy-bear`, `coriakin`, `corin`, `digory`, `drinian`, `farsight`, `father-time`, `fledge`, `frank`, `ginger`, `golg`, `green-lady`, `gumpas`, `hermit`, `jewel`, `king-lune`, `lasaraleen`, `miraz`, `mouse`, `mrs-macready`, `nikabrik`, `pattertwig`, `poggin`, `polly`, `professor-kirke`, `puzzle`, `rabadash`, `ramandu`, `ramandus-daughter`, `rilian`, `rishda-tarkaan`, `rumblebuffin`, `sea-serpent`, `shasta`, `shift`, `tirian`, `tisroc`, `trufflehunter`. Jewel stays separate from `unicorn`; every Earthman is `golg`; Helen is tagged `frank`; Jadis is `white-witch`. A new character needs a new
   lowercase hyphenated name, added here when the sheet is accepted.
 - **view:** `full-body`, `portrait` (head and shoulders or waist up), `hands`, `object`,
   `environment` (a place with no figure), `scene` (two or more characters).
