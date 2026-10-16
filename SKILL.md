@@ -1,6 +1,6 @@
 ---
 name: jbsprites
-description: Small character sprites shown inline in chat for personality, in families (default narnia). A start sprite rides along when work begins; a done, oops or your-turn sprite closes it. Use whenever another skill or the user's preferences say to use jbsprites, or when real work starts in a chat the user is present for. Shown with the visual widget tool, or on a phone as a small file card; images load from cdn.jsdelivr.net.
+description: Small character sprites shown inline in chat for personality, in families (default narnia). A start sprite rides along when work begins; a done, oops or your-turn sprite closes it. Use whenever another skill or the user's preferences say to use jbsprites, or when real work starts in a chat the user is present for. Shown with the visual widget tool and, for phones, also as a small file card; images load from cdn.jsdelivr.net.
 ---
 
 # jbsprites
@@ -52,16 +52,17 @@ It prints `{"url":...,"id":...,"character":...}` (keyed by moment for a list), p
 
 `<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="<url>">`
 
-## On a phone
+## Phones: send every sprite twice
 
-Phone apps do not show widgets, markdown images or SVG; they show only image files sent to the chat, on a solid background. The session cannot tell that the user is on a phone or which colour mode it uses, so:
+Phone apps show no widgets, markdown images or SVG; they show only image files sent to the chat, on a solid background. The desktop app shows widgets inline and keeps files in the sidebar. The session cannot tell which device the user is on at any moment, so every sprite goes out both ways, back to back, and each device shows the one it can:
 
-- **Phone mode** is on when the user says they are on their phone (or "phone mode", "on mobile"), or when the session reports a mobile client. It lasts for the rest of the chat; "desktop" or "back on my computer" turns it off. Never switch on a guess.
-- In phone mode, every sprite goes out as a file instead of a widget, at the same moments and in the same order (start, progress note, reply, end sprite, phrase):
+1. The widget, as above.
+2. Straight after it, the same sprite as a file:
 
 ```
-python3 <this skill's folder>/scripts/flatten.py '<url from the picker>' <outputs folder>/sprites/<moment>-<id>.png
+python3 <this skill's folder>/scripts/flatten.py '<url from the picker>' <outputs folder>/sprites/<id>.png
 ```
 
-  then send the printed path with the file-sending tool, display `render`, no caption. Nothing printed means skip that sprite.
-- The background is `#FAF9F5`, the chat's light-mode colour, so the sprite blends in. A caller or the user's preferences may name another (`--bg "#262624"` for dark mode).
+   then send the printed path with the file-sending tool, display `attach`, no caption. Nothing printed means skip the file, never the widget. Reuse the PNG if that id was already flattened in this chat.
+
+The background is `#FAF9F5`, the chat's light-mode colour. A caller or the user's preferences may name another (`--bg "#262624"` for dark mode). With no widget tool, send only the file; with no file-sending tool, only the widget.
