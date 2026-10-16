@@ -18,7 +18,7 @@ The line is what makes every chat use the skill; without it the skill only loads
 
 ## How it works
 
-Sprites are grouped in families. Each family folder holds 160 px transparent WebP sprites, with the full-size sheets they were cut from in `<family>/originals/`.
+Sprites are grouped in families. Each family folder holds 160 px transparent WebP sprites, cut from full-size sheets kept in a separate private repo, `jbsprites-art`, so each release tag stays small enough for jsDelivr.
 
 Sprites are served by jsDelivr, pinned to a tag:
 

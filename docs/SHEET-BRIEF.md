@@ -1,7 +1,7 @@
 # Sheet brief: making new sprite sheets with ChatGPT
 
 Paste the **Prompt** section into ChatGPT along with one or two existing sheets from
-`narnia/originals/` as style and character references. Ask for one
+`jbsprites-art/narnia/originals/` as style and character references. Ask for one
 sheet per request. Every sheet comes back as two files: the PNG and its JSON index.
 
 Before asking, check **What to make next** below. It lists the moments the picker is short of.
@@ -53,7 +53,9 @@ Use only these words in the JSON. Anything else is ignored by the build.
 
 - **characters** (who is visibly in the picture; empty for objects and places): `tumnus`, `lucy`,
   `edmund`, `susan`, `peter`, `aslan`, `white-witch`, `mr-beaver`, `mrs-beaver`, `father-christmas`,
-  `dryad`, `maugrim` (every wolf is Maugrim), `fox`, `robin`, `owl`, `dwarf`, `unicorn`. A new character needs a new
+  `dryad`, `maugrim` (every wolf is Maugrim), `fox`, `robin`, `owl`, `dwarf`, `unicorn`, `centaur`,
+  `reepicheep`, `puddleglum`, `eustace` (also as a dragon), `caspian`, `trumpkin`, `doctor-cornelius`,
+  `glimfeather`, `bree`, `hwin`, `jill`, `uncle-andrew`. A new character needs a new
   lowercase hyphenated name, added here when the sheet is accepted.
 - **view:** `full-body`, `portrait` (head and shoulders or waist up), `hands`, `object`,
   `environment` (a place with no figure), `scene` (two or more characters).
@@ -86,7 +88,7 @@ From `reports/coverage.md` (rerun `scripts/coverage.py` to refresh). Ranked by n
 
 1. Put the PNG and the JSON in `~/Developer/Incoming/`.
 2. Check it before cutting: transparent background, every cell filled, nothing touching.
-3. Copy both into `narnia/originals/` with the next sheet number, then run
+3. Copy both into `jbsprites-art/narnia/originals/` with the next sheet number, then run
    `python3 scripts/make_sprites.py narnia <NN>`, then `python3 scripts/add_sheet.py <NN>`.
 4. The JSON becomes catalog entries with status `proposed`. Review them in the contact sheet
    (`scripts/review_sheet.py <NN> <NN>`) before they go live.

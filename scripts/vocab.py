@@ -1,6 +1,8 @@
 """The words the catalog, the picker and the sheet brief share. Keep docs/SHEET-BRIEF.md in step."""
 CHARACTERS = ["tumnus", "lucy", "edmund", "susan", "peter", "aslan", "white-witch", "mr-beaver", "mrs-beaver",
-              "father-christmas", "dryad", "maugrim", "fox", "robin", "owl", "dwarf", "unicorn"]
+              "father-christmas", "dryad", "maugrim", "fox", "robin", "owl", "dwarf", "unicorn", "centaur",
+              "reepicheep", "puddleglum", "eustace", "caspian", "trumpkin", "doctor-cornelius", "glimfeather",
+              "bree", "hwin", "jill", "uncle-andrew"]
 VIEWS = ["full-body", "portrait", "hands", "object", "environment", "scene"]
 MOMENTS = ["start", "hello", "morning-brief", "waiting", "waiting-long", "retrying", "done-small", "done",
            "big-win", "sent", "signing-off", "oops", "blocked", "offline", "timed-out", "not-found", "tangled", "your-turn"]

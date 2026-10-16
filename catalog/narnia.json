@@ -13966,6 +13966,7205 @@
    "v8_rows": [
     "Signing off (last task of the day, or Friday afternoon)"
    ]
+  },
+  {
+   "id": "32-reepicheep-at-work_01",
+   "file": "32-reepicheep-at-work_01.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting atop two books with pointer",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_02",
+   "file": "32-reepicheep-at-work_02.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reading tiny notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_03",
+   "file": "32-reepicheep-at-work_03.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "writing memo with oversized pen",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_04",
+   "file": "32-reepicheep-at-work_04.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting envelopes",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_05",
+   "file": "32-reepicheep-at-work_05.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "planning route on map",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_06",
+   "file": "32-reepicheep-at-work_06.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "examining network switch",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_07",
+   "file": "32-reepicheep-at-work_07.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "checking pocket watch",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_08",
+   "file": "32-reepicheep-at-work_08.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering pen politely",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_09",
+   "file": "32-reepicheep-at-work_09.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "scratching ear beside dropped papers",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_10",
+   "file": "32-reepicheep-at-work_10.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "rolling sleeves to retry",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_11",
+   "file": "32-reepicheep-at-work_11.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "quiet approving nod",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_12",
+   "file": "32-reepicheep-at-work_12.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "formal courteous bow",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_13",
+   "file": "32-reepicheep-at-work_13.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small victorious raised paw",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_14",
+   "file": "32-reepicheep-at-work_14.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "farewell with portfolio",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_15",
+   "file": "32-reepicheep-at-work_15.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "walking with briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_16",
+   "file": "32-reepicheep-at-work_16.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "listening portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_17",
+   "file": "32-reepicheep-at-work_17.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking clipboard portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_18",
+   "file": "32-reepicheep-at-work_18.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "questioning open-paw portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_19",
+   "file": "32-reepicheep-at-work_19.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "mildly puzzled portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_20",
+   "file": "32-reepicheep-at-work_20.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small thumbs-up portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_21",
+   "file": "32-reepicheep-at-work_21.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "feathered circlet and notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_22",
+   "file": "32-reepicheep-at-work_22.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "mouse-sized briefcase and pen",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_23",
+   "file": "32-reepicheep-at-work_23.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email",
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "letter opener and sealed mail",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_24",
+   "file": "32-reepicheep-at-work_24.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "miniature presentation stand on books",
+   "status": "proposed"
+  },
+  {
+   "id": "32-reepicheep-at-work_25",
+   "file": "32-reepicheep-at-work_25.webp",
+   "sheet": "32-reepicheep-at-work",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "tiny clipboard green check",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_01",
+   "file": "33-puddleglum-risk-and-patience_01.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "studying risk checklist",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_02",
+   "file": "33-puddleglum-risk-and-patience_02.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "holding umbrella and briefing folder",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_03",
+   "file": "33-puddleglum-risk-and-patience_03.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "comparing conflicting reports",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_04",
+   "file": "33-puddleglum-risk-and-patience_04.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline",
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "inspecting unplugged cable ends",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_05",
+   "file": "33-puddleglum-risk-and-patience_05.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found",
+    "oops"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "examining empty folder",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_06",
+   "file": "33-puddleglum-risk-and-patience_06.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reading research book",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_07",
+   "file": "33-puddleglum-risk-and-patience_07.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "writing contingency plan",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_08",
+   "file": "33-puddleglum-risk-and-patience_08.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "checking watch resignedly",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_09",
+   "file": "33-puddleglum-risk-and-patience_09.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering notebook for decision",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_10",
+   "file": "33-puddleglum-risk-and-patience_10.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "shrugging beside spilled papers",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_11",
+   "file": "33-puddleglum-risk-and-patience_11.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "rolling sleeves determinedly",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_12",
+   "file": "33-puddleglum-risk-and-patience_12.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reluctant small approving nod",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_13",
+   "file": "33-puddleglum-risk-and-patience_13.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking completed list",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_14",
+   "file": "33-puddleglum-risk-and-patience_14.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "waiting leaning on closed umbrella",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_15",
+   "file": "33-puddleglum-risk-and-patience_15.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "departing with coat over arm",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_16",
+   "file": "33-puddleglum-risk-and-patience_16.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "skeptical raised eyebrow portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_17",
+   "file": "33-puddleglum-risk-and-patience_17.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "not-found",
+    "oops"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "showing empty folder portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_18",
+   "file": "33-puddleglum-risk-and-patience_18.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "patient waiting portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_19",
+   "file": "33-puddleglum-risk-and-patience_19.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering open palm portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_20",
+   "file": "33-puddleglum-risk-and-patience_20.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small relieved smile portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_21",
+   "file": "33-puddleglum-risk-and-patience_21.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "weathered umbrella and briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_22",
+   "file": "33-puddleglum-risk-and-patience_22.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "contingency binder",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_23",
+   "file": "33-puddleglum-risk-and-patience_23.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "watch and hourglass",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_24",
+   "file": "33-puddleglum-risk-and-patience_24.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "not-found",
+    "oops"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "empty folder and glasses",
+   "status": "proposed"
+  },
+  {
+   "id": "33-puddleglum-risk-and-patience_25",
+   "file": "33-puddleglum-risk-and-patience_25.webp",
+   "sheet": "33-puddleglum-risk-and-patience",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "clipboard green check",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_01",
+   "file": "34-eustace-dragon-technical-work_01.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "typing on tiny laptop",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_02",
+   "file": "34-eustace-dragon-technical-work_02.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "inspecting cable with claw",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_03",
+   "file": "34-eustace-dragon-technical-work_03.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "repairing server with wrench",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_04",
+   "file": "34-eustace-dragon-technical-work_04.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reading book between foreclaws",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_05",
+   "file": "34-eustace-dragon-technical-work_05.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting folders",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_06",
+   "file": "34-eustace-dragon-technical-work_06.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking planner",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_07",
+   "file": "34-eustace-dragon-technical-work_07.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "watching hourglass",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_08",
+   "file": "34-eustace-dragon-technical-work_08.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering notebook with claw",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_09",
+   "file": "34-eustace-dragon-technical-work_09.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "holding slightly singed memo sheepishly",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_10",
+   "file": "34-eustace-dragon-technical-work_10.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "tangled",
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "untangling ethernet cable",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_11",
+   "file": "34-eustace-dragon-technical-work_11.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "trying again with fresh sheet",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_12",
+   "file": "34-eustace-dragon-technical-work_12.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "quiet approving nod",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_13",
+   "file": "34-eustace-dragon-technical-work_13.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "modest victorious raised foreclaw",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_14",
+   "file": "34-eustace-dragon-technical-work_14.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "closing laptop for evening",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_15",
+   "file": "34-eustace-dragon-technical-work_15.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "holding headset to ear",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_16",
+   "file": "34-eustace-dragon-technical-work_16.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "head portrait with glasses",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_17",
+   "file": "34-eustace-dragon-technical-work_17.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "head and foreclaws reading notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_18",
+   "file": "34-eustace-dragon-technical-work_18.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "sheepish head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_19",
+   "file": "34-eustace-dragon-technical-work_19.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "upper-body offering pen portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_20",
+   "file": "34-eustace-dragon-technical-work_20.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "relieved smiling head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_21",
+   "file": "34-eustace-dragon-technical-work_21.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "tiny laptop and claw-print note",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_22",
+   "file": "34-eustace-dragon-technical-work_22.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "singed memo and pencil",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_23",
+   "file": "34-eustace-dragon-technical-work_23.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "dragon glasses and tie",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_24",
+   "file": "34-eustace-dragon-technical-work_24.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "server box and wrench",
+   "status": "proposed"
+  },
+  {
+   "id": "34-eustace-dragon-technical-work_25",
+   "file": "34-eustace-dragon-technical-work_25.webp",
+   "sheet": "34-eustace-dragon-technical-work",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "scale-pattern portfolio",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_01",
+   "file": "35-caspian-planning-and-launches_01.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "unrolling nautical project map",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_02",
+   "file": "35-caspian-planning-and-launches_02.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling",
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking compass and planner",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_03",
+   "file": "35-caspian-planning-and-launches_03.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting launch chart",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_04",
+   "file": "35-caspian-planning-and-launches_04.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "walking with portfolio",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_05",
+   "file": "35-caspian-planning-and-launches_05.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling",
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "writing timeline",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_06",
+   "file": "35-caspian-planning-and-launches_06.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting correspondence",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_07",
+   "file": "35-caspian-planning-and-launches_07.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "consulting telescope on short tripod",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_08",
+   "file": "35-caspian-planning-and-launches_08.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "checking watch waiting",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_09",
+   "file": "35-caspian-planning-and-launches_09.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering map for decision",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_10",
+   "file": "35-caspian-planning-and-launches_10.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "reviewing conflicting schedules",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_11",
+   "file": "35-caspian-planning-and-launches_11.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "rolling sleeves to restart",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_12",
+   "file": "35-caspian-planning-and-launches_12.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking completed task",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_13",
+   "file": "35-caspian-planning-and-launches_13.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "raising glass for modest success",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_14",
+   "file": "35-caspian-planning-and-launches_14.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "farewell with travel bag",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_15",
+   "file": "35-caspian-planning-and-launches_15.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "headset call with notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_16",
+   "file": "35-caspian-planning-and-launches_16.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "thoughtful head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_17",
+   "file": "35-caspian-planning-and-launches_17.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting agenda portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_18",
+   "file": "35-caspian-planning-and-launches_18.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "studying compass portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_19",
+   "file": "35-caspian-planning-and-launches_19.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "questioning open palm portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_20",
+   "file": "35-caspian-planning-and-launches_20.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "quiet satisfied nod portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_21",
+   "file": "35-caspian-planning-and-launches_21.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling",
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "nautical planner and compass",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_22",
+   "file": "35-caspian-planning-and-launches_22.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Dawn Treader ship model",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_23",
+   "file": "35-caspian-planning-and-launches_23.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "chart and telescope",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_24",
+   "file": "35-caspian-planning-and-launches_24.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "leather travel portfolio",
+   "status": "proposed"
+  },
+  {
+   "id": "35-caspian-planning-and-launches_25",
+   "file": "35-caspian-planning-and-launches_25.webp",
+   "sheet": "35-caspian-planning-and-launches",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "ship-wheel desk clock",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_01",
+   "file": "36-trumpkin-practical-operations_01.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "repairing printer with screwdriver",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_02",
+   "file": "36-trumpkin-practical-operations_02.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking server cabinet",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_03",
+   "file": "36-trumpkin-practical-operations_03.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "carrying toolbox and folder",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_04",
+   "file": "36-trumpkin-practical-operations_04.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reviewing maintenance checklist",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_05",
+   "file": "36-trumpkin-practical-operations_05.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "inspecting blueprint",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_06",
+   "file": "36-trumpkin-practical-operations_06.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting delivery mail",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_07",
+   "file": "36-trumpkin-practical-operations_07.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "adjusting office chair",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_08",
+   "file": "36-trumpkin-practical-operations_08.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "watching clock impatiently",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_09",
+   "file": "36-trumpkin-practical-operations_09.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering wrench for help",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_10",
+   "file": "36-trumpkin-practical-operations_10.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline",
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "examining broken cable frustrated",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_11",
+   "file": "36-trumpkin-practical-operations_11.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "rolling sleeves to retry",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_12",
+   "file": "36-trumpkin-practical-operations_12.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "marking completed check",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_13",
+   "file": "36-trumpkin-practical-operations_13.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small proud thumbs up",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_14",
+   "file": "36-trumpkin-practical-operations_14.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "packing toolbox after work",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_15",
+   "file": "36-trumpkin-practical-operations_15.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting chart on low stool",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_16",
+   "file": "36-trumpkin-practical-operations_16.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "skeptical friendly head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_17",
+   "file": "36-trumpkin-practical-operations_17.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "inspecting component portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_18",
+   "file": "36-trumpkin-practical-operations_18.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "showing clipboard portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_19",
+   "file": "36-trumpkin-practical-operations_19.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "puzzled shrug portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_20",
+   "file": "36-trumpkin-practical-operations_20.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "approving nod portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_21",
+   "file": "36-trumpkin-practical-operations_21.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "toolbox and screwdriver",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_22",
+   "file": "36-trumpkin-practical-operations_22.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "spare network cable",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_23",
+   "file": "36-trumpkin-practical-operations_23.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "printer with page",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_24",
+   "file": "36-trumpkin-practical-operations_24.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "maintenance clipboard",
+   "status": "proposed"
+  },
+  {
+   "id": "36-trumpkin-practical-operations_25",
+   "file": "36-trumpkin-practical-operations_25.webp",
+   "sheet": "36-trumpkin-practical-operations",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small sturdy step stool",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_01",
+   "file": "37-cornelius-research-and-teaching_01.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reading large reference book",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_02",
+   "file": "37-cornelius-research-and-teaching_02.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "cross-referencing documents",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_03",
+   "file": "37-cornelius-research-and-teaching_03.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "writing fountain-pen notes",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_04",
+   "file": "37-cornelius-research-and-teaching_04.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "examining manuscript with magnifier",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_05",
+   "file": "37-cornelius-research-and-teaching_05.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "consulting small telescope",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_06",
+   "file": "37-cornelius-research-and-teaching_06.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design",
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting diagram on easel",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_07",
+   "file": "37-cornelius-research-and-teaching_07.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting archive folders",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_08",
+   "file": "37-cornelius-research-and-teaching_08.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "checking watch waiting",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_09",
+   "file": "37-cornelius-research-and-teaching_09.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering book for clarification",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_10",
+   "file": "37-cornelius-research-and-teaching_10.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found",
+    "oops"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "looking into empty archive box",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_11",
+   "file": "37-cornelius-research-and-teaching_11.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "revising notes with fresh pencil",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_12",
+   "file": "37-cornelius-research-and-teaching_12.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking completed research list",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_13",
+   "file": "37-cornelius-research-and-teaching_13.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "quietly closing book satisfied",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_14",
+   "file": "37-cornelius-research-and-teaching_14.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "packing evening satchel",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_15",
+   "file": "37-cornelius-research-and-teaching_15.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "headset call with notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_16",
+   "file": "37-cornelius-research-and-teaching_16.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "peering over glasses head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_17",
+   "file": "37-cornelius-research-and-teaching_17.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reading book portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_18",
+   "file": "37-cornelius-research-and-teaching_18.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering pen portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_19",
+   "file": "37-cornelius-research-and-teaching_19.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "pondering head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_20",
+   "file": "37-cornelius-research-and-teaching_20.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small satisfied smile portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_21",
+   "file": "37-cornelius-research-and-teaching_21.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "books and spectacles",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_22",
+   "file": "37-cornelius-research-and-teaching_22.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "magnifier and manuscript",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_23",
+   "file": "37-cornelius-research-and-teaching_23.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "notebook and fountain pen",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_24",
+   "file": "37-cornelius-research-and-teaching_24.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "desk telescope",
+   "status": "proposed"
+  },
+  {
+   "id": "37-cornelius-research-and-teaching_25",
+   "file": "37-cornelius-research-and-teaching_25.webp",
+   "sheet": "37-cornelius-research-and-teaching",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "archive box with folders",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_01",
+   "file": "38-tumnus-office-repaired_01.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "carrying mail sack",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_02",
+   "file": "38-tumnus-office-repaired_02.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "carrying books",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_03",
+   "file": "38-tumnus-office-repaired_03.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "pointing at chart",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_04",
+   "file": "38-tumnus-office-repaired_04.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "typing on tablet",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_05",
+   "file": "38-tumnus-office-repaired_05.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sweeping papers",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_06",
+   "file": "38-tumnus-office-repaired_06.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking list",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_07",
+   "file": "38-tumnus-office-repaired_07.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "research",
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "reading map puzzled",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_08",
+   "file": "38-tumnus-office-repaired_08.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "checking watch waiting",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_09",
+   "file": "38-tumnus-office-repaired_09.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering envelope",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_10",
+   "file": "38-tumnus-office-repaired_10.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "shrugging beside spilled mail",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_11",
+   "file": "38-tumnus-office-repaired_11.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting papers again carefully seated",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_12",
+   "file": "38-tumnus-office-repaired_12.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking completed clipboard",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_13",
+   "file": "38-tumnus-office-repaired_13.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small thumbs up",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_14",
+   "file": "38-tumnus-office-repaired_14.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "walking away with briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_15",
+   "file": "38-tumnus-office-repaired_15.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "two fauns disagreeing",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_16",
+   "file": "38-tumnus-office-repaired_16.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "attentive portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_17",
+   "file": "38-tumnus-office-repaired_17.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting folder portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_18",
+   "file": "38-tumnus-office-repaired_18.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "puzzled head scratch portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_19",
+   "file": "38-tumnus-office-repaired_19.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "asking open palm portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_20",
+   "file": "38-tumnus-office-repaired_20.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "quietly pleased portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_21",
+   "file": "38-tumnus-office-repaired_21.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "briefcase and fountain pen",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_22",
+   "file": "38-tumnus-office-repaired_22.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "mail sack",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_23",
+   "file": "38-tumnus-office-repaired_23.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "book stack",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_24",
+   "file": "38-tumnus-office-repaired_24.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "broom and paper pile",
+   "status": "proposed"
+  },
+  {
+   "id": "38-tumnus-office-repaired_25",
+   "file": "38-tumnus-office-repaired_25.webp",
+   "sheet": "38-tumnus-office-repaired",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "clipboard oversized pencil",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_01",
+   "file": "39-bree-and-hwin-colleagues_01.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design",
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree standing beside map easel",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_02",
+   "file": "39-bree-and-hwin-colleagues_02.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree carrying document panniers",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_03",
+   "file": "39-bree-and-hwin-colleagues_03.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree studying map on low stand",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_04",
+   "file": "39-bree-and-hwin-colleagues_04.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree holding delivery tube in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_05",
+   "file": "39-bree-and-hwin-colleagues_05.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Bree looking at watch on stand",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_06",
+   "file": "39-bree-and-hwin-colleagues_06.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Bree lowering head at spilled papers",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_07",
+   "file": "39-bree-and-hwin-colleagues_07.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Bree offering document in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_08",
+   "file": "39-bree-and-hwin-colleagues_08.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree quiet satisfied nod",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_09",
+   "file": "39-bree-and-hwin-colleagues_09.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin reading ledger on stand",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_10",
+   "file": "39-bree-and-hwin-colleagues_10.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin carrying organized folders",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_11",
+   "file": "39-bree-and-hwin-colleagues_11.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin finding correct file",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_12",
+   "file": "39-bree-and-hwin-colleagues_12.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Hwin waiting beside briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_13",
+   "file": "39-bree-and-hwin-colleagues_13.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Hwin offering envelope",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_14",
+   "file": "39-bree-and-hwin-colleagues_14.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "bree",
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin and Bree with travel bags",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_15",
+   "file": "39-bree-and-hwin-colleagues_15.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "bree",
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin and Bree reviewing map",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_16",
+   "file": "39-bree-and-hwin-colleagues_16.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree horse head with tie",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_17",
+   "file": "39-bree-and-hwin-colleagues_17.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Bree sheepish horse head",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_18",
+   "file": "39-bree-and-hwin-colleagues_18.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin horse head with scarf",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_19",
+   "file": "39-bree-and-hwin-colleagues_19.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin attentive horse head",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_20",
+   "file": "39-bree-and-hwin-colleagues_20.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "bree",
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree and Hwin heads together",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_21",
+   "file": "39-bree-and-hwin-colleagues_21.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "horse document panniers",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_22",
+   "file": "39-bree-and-hwin-colleagues_22.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "map with leather straps",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_23",
+   "file": "39-bree-and-hwin-colleagues_23.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "horse necktie and green scarf",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_24",
+   "file": "39-bree-and-hwin-colleagues_24.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "low book stand",
+   "status": "proposed"
+  },
+  {
+   "id": "39-bree-and-hwin-colleagues_25",
+   "file": "39-bree-and-hwin-colleagues_25.webp",
+   "sheet": "39-bree-and-hwin-colleagues",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "travel bag and compass",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_01",
+   "file": "40-jill-fieldwork-and-focus_01.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking field instructions",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_02",
+   "file": "40-jill-fieldwork-and-focus_02.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "marking route on map",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_03",
+   "file": "40-jill-fieldwork-and-focus_03.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "writing field notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_04",
+   "file": "40-jill-fieldwork-and-focus_04.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reading research folder",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_05",
+   "file": "40-jill-fieldwork-and-focus_05.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "taking compact-camera photo",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_06",
+   "file": "40-jill-fieldwork-and-focus_06.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting interview cards",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_07",
+   "file": "40-jill-fieldwork-and-focus_07.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel",
+    "mobile"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "phone call with satchel",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_08",
+   "file": "40-jill-fieldwork-and-focus_08.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "checking watch waiting",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_09",
+   "file": "40-jill-fieldwork-and-focus_09.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering planner for decision",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_10",
+   "file": "40-jill-fieldwork-and-focus_10.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "puzzled comparing maps",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_11",
+   "file": "40-jill-fieldwork-and-focus_11.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "correcting mistake and restarting notes",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_12",
+   "file": "40-jill-fieldwork-and-focus_12.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "checking completed field checklist",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_13",
+   "file": "40-jill-fieldwork-and-focus_13.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "small satisfied thumbs up",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_14",
+   "file": "40-jill-fieldwork-and-focus_14.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "departing with satchel and coat",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_15",
+   "file": "40-jill-fieldwork-and-focus_15.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design",
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting findings beside easel",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_16",
+   "file": "40-jill-fieldwork-and-focus_16.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "focused listening head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_17",
+   "file": "40-jill-fieldwork-and-focus_17.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "reading instructions portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_18",
+   "file": "40-jill-fieldwork-and-focus_18.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering pen portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_19",
+   "file": "40-jill-fieldwork-and-focus_19.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "mildly puzzled head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_20",
+   "file": "40-jill-fieldwork-and-focus_20.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "quiet smile portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_21",
+   "file": "40-jill-fieldwork-and-focus_21.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "canvas field satchel",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_22",
+   "file": "40-jill-fieldwork-and-focus_22.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing",
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "map and pencil",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_23",
+   "file": "40-jill-fieldwork-and-focus_23.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "field notebook with tabs",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_24",
+   "file": "40-jill-fieldwork-and-focus_24.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "compact camera",
+   "status": "proposed"
+  },
+  {
+   "id": "40-jill-fieldwork-and-focus_25",
+   "file": "40-jill-fieldwork-and-focus_25.webp",
+   "sheet": "40-jill-fieldwork-and-focus",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "route clipboard",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_01",
+   "file": "41-uncle-andrew-innovation-office_01.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "presenting yellow and green magic rings in box",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_02",
+   "file": "41-uncle-andrew-innovation-office_02.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical",
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "studying experimental diagram",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_03",
+   "file": "41-uncle-andrew-innovation-office_03.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "typing awkwardly on laptop",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_04",
+   "file": "41-uncle-andrew-innovation-office_04.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "inspecting prototype magnifier",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_05",
+   "file": "41-uncle-andrew-innovation-office_05.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "writing grand proposal",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_06",
+   "file": "41-uncle-andrew-innovation-office_06.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money",
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "sorting investor envelopes",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_07",
+   "file": "41-uncle-andrew-innovation-office_07.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "checking watch nervously",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_08",
+   "file": "41-uncle-andrew-innovation-office_08.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "offering proposal hopefully",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_09",
+   "file": "41-uncle-andrew-innovation-office_09.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "startled beside smoking tiny gadget no flames",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_10",
+   "file": "41-uncle-andrew-innovation-office_10.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled",
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "tangled in cable feet visible",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_11",
+   "file": "41-uncle-andrew-innovation-office_11.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [
+    "technical",
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "restarting experiment with notes",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_12",
+   "file": "41-uncle-andrew-innovation-office_12.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "relieved checking clipboard",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_13",
+   "file": "41-uncle-andrew-innovation-office_13.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "self-satisfied small bow",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_14",
+   "file": "41-uncle-andrew-innovation-office_14.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "leaving with top hat briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_15",
+   "file": "41-uncle-andrew-innovation-office_15.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "presenting unexpected tiny potted tree",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_16",
+   "file": "41-uncle-andrew-innovation-office_16.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "suspicious raised eyebrow head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_17",
+   "file": "41-uncle-andrew-innovation-office_17.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "ring-box portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_18",
+   "file": "41-uncle-andrew-innovation-office_18.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "sheepish apologetic portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_19",
+   "file": "41-uncle-andrew-innovation-office_19.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "asking open palm portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_20",
+   "file": "41-uncle-andrew-innovation-office_20.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "relieved smile head portrait",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_21",
+   "file": "41-uncle-andrew-innovation-office_21.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "yellow and green rings in velvet box",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_22",
+   "file": "41-uncle-andrew-innovation-office_22.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical",
+    "writing",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "experimental notebook pen",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_23",
+   "file": "41-uncle-andrew-innovation-office_23.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "tiny gadget faint smoke",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_24",
+   "file": "41-uncle-andrew-innovation-office_24.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "top hat and briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "41-uncle-andrew-innovation-office_25",
+   "file": "41-uncle-andrew-innovation-office_25.webp",
+   "sheet": "41-uncle-andrew-innovation-office",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "potted sapling and diagram",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_01",
+   "file": "42-later-books-office-objects_01.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Dawn Treader model beside laptop",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_02",
+   "file": "42-later-books-office-objects_02.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "yellow and green magic rings in desk tray",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_03",
+   "file": "42-later-books-office-objects_03.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "silver chair used as office chair",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_04",
+   "file": "42-later-books-office-objects_04.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email",
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep tiny rapier letter opener",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_05",
+   "file": "42-later-books-office-objects_05.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Puddleglum umbrella stand",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_06",
+   "file": "42-later-books-office-objects_06.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Cornelius books and spectacles",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_07",
+   "file": "42-later-books-office-objects_07.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical",
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trumpkin open toolbox",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_08",
+   "file": "42-later-books-office-objects_08.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill camera and field notebook",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_09",
+   "file": "42-later-books-office-objects_09.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree and Hwin document panniers",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_10",
+   "file": "42-later-books-office-objects_10.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "brown leather office shoe",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_11",
+   "file": "42-later-books-office-objects_11.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "dragon claw ergonomic mouse",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_12",
+   "file": "42-later-books-office-objects_12.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling",
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "nautical compass and planner",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_13",
+   "file": "42-later-books-office-objects_13.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "star-shaped desk lamp",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_14",
+   "file": "42-later-books-office-objects_14.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing",
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "archive cabinet with open drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_15",
+   "file": "42-later-books-office-objects_15.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings",
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "wooden lectern and notes",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_16",
+   "file": "42-later-books-office-objects_16.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "headset on coiled dragon tail shaped stand",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_17",
+   "file": "42-later-books-office-objects_17.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "mail sorting trays and envelopes",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_18",
+   "file": "42-later-books-office-objects_18.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "technical",
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "hourglass beside closed laptop",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_19",
+   "file": "42-later-books-office-objects_19.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "paid invoice stamp and ledger",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_20",
+   "file": "42-later-books-office-objects_20.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "calendar with green check",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_21",
+   "file": "42-later-books-office-objects_21.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "paint palette brush and easel",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_22",
+   "file": "42-later-books-office-objects_22.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "server rack with leaf decoration",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_23",
+   "file": "42-later-books-office-objects_23.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "tea mug and biscuit plate",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_24",
+   "file": "42-later-books-office-objects_24.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "travel suitcase and map",
+   "status": "proposed"
+  },
+  {
+   "id": "42-later-books-office-objects_25",
+   "file": "42-later-books-office-objects_25.webp",
+   "sheet": "42-later-books-office-objects",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "closed briefcase and extinguished desk lamp",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_01",
+   "file": "43-later-books-workday-scenes_01.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep at lectern giving presentation",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_02",
+   "file": "43-later-books-workday-scenes_02.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Puddleglum holding umbrella beside leaky office plant",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_03",
+   "file": "43-later-books-workday-scenes_03.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Eustace dragon carefully typing tiny laptop",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_04",
+   "file": "43-later-books-workday-scenes_04.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Caspian planning beside nautical map desk",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_05",
+   "file": "43-later-books-workday-scenes_05.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trumpkin repairing small server rack",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_06",
+   "file": "43-later-books-workday-scenes_06.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Cornelius teaching beside chalkboard",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_07",
+   "file": "43-later-books-workday-scenes_07.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "glimfeather"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glimfeather owl holding envelope in beak with wings folded",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_08",
+   "file": "43-later-books-workday-scenes_08.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree horse reading book on stand",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_09",
+   "file": "43-later-books-workday-scenes_09.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin horse carrying neatly organized panniers",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_10",
+   "file": "43-later-books-workday-scenes_10.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "adult Jill photographing easel illustration",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_11",
+   "file": "43-later-books-workday-scenes_11.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Uncle Andrew startled by tiny smoking office gadget",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_12",
+   "file": "43-later-books-workday-scenes_12.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "reepicheep",
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Reepicheep offering pen to Puddleglum",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_13",
+   "file": "43-later-books-workday-scenes_13.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "caspian",
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Caspian and Cornelius reviewing planner",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_14",
+   "file": "43-later-books-workday-scenes_14.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "eustace",
+    "trumpkin"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "scene",
+   "moments": [
+    "tangled",
+    "oops"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trumpkin and Eustace untangling cable",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_15",
+   "file": "43-later-books-workday-scenes_15.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "hwin",
+    "jill"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill and Hwin preparing for fieldwork",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_16",
+   "file": "43-later-books-workday-scenes_16.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep quietly checking completed clipboard",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_17",
+   "file": "43-later-books-workday-scenes_17.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "waiting",
+    "waiting-long"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puddleglum waiting beside hourglass",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_18",
+   "file": "43-later-books-workday-scenes_18.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "not-found",
+    "oops"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Cornelius searching empty file box",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_19",
+   "file": "43-later-books-workday-scenes_19.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Caspian closing laptop for evening",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_20",
+   "file": "43-later-books-workday-scenes_20.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel",
+    "mobile"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill making phone call with suitcase",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_21",
+   "file": "43-later-books-workday-scenes_21.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical",
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew presenting magic ring prototype",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_22",
+   "file": "43-later-books-workday-scenes_22.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trumpkin calmly sweeping spilled papers",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_23",
+   "file": "43-later-books-workday-scenes_23.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [
+    "dragon"
+   ],
+   "view": "scene",
+   "moments": [
+    "done-small",
+    "done"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Eustace holding small checked task card",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_24",
+   "file": "43-later-books-workday-scenes_24.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "bree",
+    "hwin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree and Hwin at map stand",
+   "status": "proposed"
+  },
+  {
+   "id": "43-later-books-workday-scenes_25",
+   "file": "43-later-books-workday-scenes_25.webp",
+   "sheet": "43-later-books-workday-scenes",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep",
+    "jill"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Reepicheep and Jill modestly toasting tea after work",
+   "status": "proposed"
   }
  ]
 }

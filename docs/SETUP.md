@@ -65,7 +65,7 @@ Each task runs the picker once (about 15 ms, alongside real work) and shows each
 ## 5. Adding your own family
 
 1. Make a sheet with its JSON index, following `docs/SHEET-BRIEF.md` (transparent PNG, a full grid, figures well apart).
-2. Put both in `<family>/originals/` and run `python3 scripts/make_sprites.py <family> <NN>` (needs numpy, scipy, Pillow). Sprites come out as `<family>/<sheet>_<NN>.webp`, 160 px, NN = grid position.
+2. Put both in `~/Developer/jbsprites-art/<family>/originals/` (the private art repo, beside this one) and run `python3 scripts/make_sprites.py <family> <NN>` (needs numpy, scipy, Pillow). Sprites come out as `<family>/<sheet>_<NN>.webp`, 160 px, NN = grid position. To correct one sprite by hand, put `<id>.webp` in `<family>/overrides/` here and its `<id>-source.png` in `jbsprites-art/<family>/overrides/`; the cutter copies it over the cut file, so a re-cut keeps the fix.
 3. `python3 scripts/add_sheet.py <NN> --family <family>` adds them to `catalog/<family>.json`; check them with `scripts/review_sheet.py`.
 4. `python3 scripts/build_index.py --family <family> --tag vN`, then `scripts/test_pick.py`.
 5. Commit, tag `vN`, push, check the links, and repackage. Tags are fixed once published.

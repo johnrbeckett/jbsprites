@@ -9,5 +9,6 @@ This repo is PUBLIC. Read `~/Developer/CLAUDE.md` first; it applies here.
 - Release: cut (`make_sprites.py`), `add_sheet.py`, review, `build_index.py --tag vN`, `test_pick.py` (must pass), commit, tag vN, push, check every index URL returns 200, `package.sh`, GitHub release with asset `jbsprites.skill`.
 - Shared vocabulary lives in `scripts/vocab.py`; keep `docs/SHEET-BRIEF.md` and the picker in step with it.
 - File numbers on indexed sheets are grid positions. Never re-cut a published sheet without an index (06 to 14): its numbering is reading order and could shift.
+- Full-size sheets and override sources live in the private sibling repo `~/Developer/jbsprites-art` (`johnrbeckett/jbsprites-art`), not here, so each tag stays under jsDelivr's 50 MB limit. The cutter and add_sheet.py read from it.
 - The package carries only SKILL.md, `scripts/pick.py` and `index/`. Catalog, review pages, reports and originals stay maintainer-side.
 - Log every commit and push in `docs/HANDOFF.md` in the same reply. Deletions go to `~/Developer/Trash/`.

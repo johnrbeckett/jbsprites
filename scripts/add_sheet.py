@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Add a newly cut sheet to the catalog as status "proposed".
 
-Reads <family>/originals/<sheet>.json (the JSON that comes back with a sheet, see
+Reads ../jbsprites-art/<family>/originals/<sheet>.json (the JSON that comes back with a sheet, see
 docs/SHEET-BRIEF.md), checks every word against scripts/vocab.py, and adds one catalog
 entry per cell that has a webp. Existing ids are left alone. Review with review_sheet.py,
 then set status to "reviewed" (or leave "proposed"; both are served).
@@ -12,11 +12,12 @@ import argparse, glob, json, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import vocab
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ART = os.environ.get("JBSPRITES_ART", os.path.join(os.path.dirname(ROOT), "jbsprites-art"))
 ap = argparse.ArgumentParser(); ap.add_argument("nn"); ap.add_argument("--family", default="narnia")
 a = ap.parse_args()
-src = glob.glob(os.path.join(ROOT, a.family, "originals", f"{a.nn}-*.json"))
+src = glob.glob(os.path.join(ART, a.family, "originals", f"{a.nn}-*.json"))
 if len(src) != 1:
-    sys.exit(f"need exactly one {a.nn}-*.json in {a.family}/originals, found {len(src)}")
+    sys.exit(f"need exactly one {a.nn}-*.json in {ART}/{a.family}/originals, found {len(src)}")
 meta = json.load(open(src[0])); sheet = os.path.basename(src[0])[:-5]
 catp = os.path.join(ROOT, "catalog", f"{a.family}.json"); cat = json.load(open(catp))
 have = {x["id"] for x in cat["assets"]}

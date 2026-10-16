@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Cut sprite sheets in <family>/originals/ into single sprites.
+"""Cut sprite sheets in ../jbsprites-art/<family>/originals/ into single sprites.
+
+The full-size sheets live in the private sibling repo jbsprites-art (set
+JBSPRITES_ART to point elsewhere), so release tags here stay small.
 
 Writes <family>/<sheet>_<NN>.webp: transparent, longest side 160 px,
 lossy WebP (quality 80, alpha quality 80), about 7 KB each.
@@ -26,10 +29,17 @@ Usage: python3 scripts/make_sprites.py <family> [sheet-prefix ...]
        e.g. python3 scripts/make_sprites.py narnia 20 21   (only sheets 20-*, 21-*)
 Needs numpy, scipy, Pillow. Existing sprites are overwritten only for the
 sheets processed, so pass prefixes when adding sheets to a published family.
+
+Overrides: <family>/overrides/<id>.webp replaces a cut sprite whose artwork
+was redrawn by hand (its editable source, <id>-source.png, lives in jbsprites-art/<family>/overrides/).
+After a sheet is cut, any override for it is copied over the cut file, so a
+re-cut never brings the old artwork back. The id, catalog tags and grid
+number stay the same.
 """
 import glob
 import json
 import os
+import shutil
 import sys
 
 import numpy as np
@@ -40,7 +50,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FAMILY = sys.argv[1] if len(sys.argv) > 1 else "narnia"
 ONLY = sys.argv[2:]
 OUT = os.path.join(ROOT, FAMILY)
-SRC = os.path.join(OUT, "originals")
+ART = os.environ.get("JBSPRITES_ART", os.path.join(os.path.dirname(ROOT), "jbsprites-art"))
+SRC = os.path.join(ART, FAMILY, "originals")
+OVR = os.path.join(OUT, "overrides")
 SIZE = 160
 MIN_CORE = int(os.environ.get("MIN_CORE", "2500"))
 
@@ -146,6 +158,9 @@ def main():
             sprite.save(os.path.join(OUT, f"{base}_{k:02d}.webp"), "WEBP",
                         quality=80, alpha_quality=80, method=6)
             count = k
+        for ov in sorted(glob.glob(os.path.join(OVR, f"{base}_*.webp"))):
+            shutil.copyfile(ov, os.path.join(OUT, os.path.basename(ov)))
+            print(f"  override: {os.path.basename(ov)}")
         print(f"{base}: {count} sprites")
 
 
