@@ -1,6 +1,6 @@
 ---
 name: jbsprites
-description: Small character sprites shown inline in chat for personality, in families (default narnia). A start sprite rides along when work begins; a done, oops or your-turn sprite closes it. Use whenever another skill or the user's preferences say to use jbsprites, or when real work starts in a chat the user is present for. Shown with the visual widget tool; images load from cdn.jsdelivr.net.
+description: Small character sprites shown inline in chat for personality, in families (default narnia). A start sprite rides along when work begins; a done, oops or your-turn sprite closes it. Use whenever another skill or the user's preferences say to use jbsprites, or when real work starts in a chat the user is present for. Shown with the visual widget tool, or on a phone as a small file card; images load from cdn.jsdelivr.net.
 ---
 
 # jbsprites
@@ -21,7 +21,7 @@ Every task the user asks for in chat gets two beats, one at each end of the turn
 
 A reply that needs no work gets one sprite, after the reply. A long task may show `done` after each separate piece. A retry after a failure may carry `retrying`. A tracker skill's first reply in a chat uses `hello`; a morning brief uses `morning-brief` (seasons and holidays are handled by the picker).
 
-Scheduled or unattended runs show no sprites, except a morning brief a caller skill asks for: one `morning-brief` sprite as an image at the top of the output and of any post it writes (`<img>` 120px high in HTML, a markdown image otherwise). In an attended chat with no widget tool, skip sprites silently.
+Scheduled or unattended runs show no sprites, except a morning brief a caller skill asks for: one `morning-brief` sprite as an image at the top of the output and of any post it writes (`<img>` 120px high in HTML, a markdown image otherwise). In an attended chat with neither a widget tool nor a way to send files, skip sprites silently.
 
 ## Picking
 
@@ -51,3 +51,17 @@ It prints `{"url":...,"id":...,"character":...}` (keyed by moment for a list), p
 - Widget code, nothing else in it:
 
 `<h2 class="sr-only">Sprite</h2><img alt="" style="height:120px" src="<url>">`
+
+## On a phone
+
+Phone apps do not show widgets, markdown images or SVG; they show only image files sent to the chat, on a solid background. The session cannot tell that the user is on a phone or which colour mode it uses, so:
+
+- **Phone mode** is on when the user says they are on their phone (or "phone mode", "on mobile"), or when the session reports a mobile client. It lasts for the rest of the chat; "desktop" or "back on my computer" turns it off. Never switch on a guess.
+- In phone mode, every sprite goes out as a file instead of a widget, at the same moments and in the same order (start, progress note, reply, end sprite, phrase):
+
+```
+python3 <this skill's folder>/scripts/flatten.py '<url from the picker>' <outputs folder>/sprites/<moment>-<id>.png
+```
+
+  then send the printed path with the file-sending tool, display `render`, no caption. Nothing printed means skip that sprite.
+- The background is `#FAF9F5`, the chat's light-mode colour, so the sprite blends in. A caller or the user's preferences may name another (`--bg "#262624"` for dark mode).

@@ -9,7 +9,7 @@ OUT="${OUT:-$HOME/Developer/Outputs}"
 STAMP="${STAMP:-$(TZ=America/New_York date +%Y-%m-%d)}"
 TMP="$(mktemp -d)"; mkdir -p "$TMP/jbsprites/scripts" "$TMP/jbsprites/index"
 cp "$ROOT/SKILL.md" "$TMP/jbsprites/"
-cp "$ROOT/scripts/pick.py" "$TMP/jbsprites/scripts/"
+cp "$ROOT/scripts/pick.py" "$ROOT/scripts/flatten.py" "$TMP/jbsprites/scripts/"
 cp "$ROOT"/index/*.json "$TMP/jbsprites/index/"
 ( cd "$TMP" && zip -qr "$TMP/jbsprites_$STAMP.skill" jbsprites )
 mkdir -p "$OUT"; cp "$TMP/jbsprites_$STAMP.skill" "$OUT/"
