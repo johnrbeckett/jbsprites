@@ -23,7 +23,7 @@ A reply that needs no work (a quick answer from what is already known) gets one 
 
 **Seasons.** For a Hello or a morning brief, use the current season's row about one time in three instead (northern hemisphere, by month; decide with the draw below, `random.random()<1/3`). Inside a holiday window, use the holiday's row instead of the season's.
 
-Never in scheduled or unattended runs. If the widget tool is not available, skip sprites silently.
+Scheduled or unattended runs show no sprites, with one exception: a morning brief or digest that a caller skill produces unattended may open with a single sprite, picked from the Morning brief row (or the season or holiday row as above) and placed as an image at the top of the output and of any post it writes (an `<img>` 120px high in HTML, a markdown image otherwise). The caller's own rules say whether its brief does this. If the widget tool is not available, skip the widget and use the image only; in an attended chat with no widget tool, skip sprites silently.
 
 ## Picking (contextual shortlist, real random draw)
 
