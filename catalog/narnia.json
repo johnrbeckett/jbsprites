@@ -29648,6 +29648,8025 @@
    "energy": "subdued",
    "description": "Period ribbed chrome broadcast microphone with unplugged cable",
    "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_01",
+   "file": "59-aunt-letty-runs-the-office_01.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty in a tweed suit and pearls, waving from behind a typewriter",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_02",
+   "file": "59-aunt-letty-runs-the-office_02.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty typing briskly at a heavy black typewriter",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_03",
+   "file": "59-aunt-letty-runs-the-office_03.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty sorting the morning post with a brass letter opener",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_04",
+   "file": "59-aunt-letty-runs-the-office_04.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty pouring tea from a big brown teapot",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_05",
+   "file": "59-aunt-letty-runs-the-office_05.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty barring the study door, arms folded",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_06",
+   "file": "59-aunt-letty-runs-the-office_06.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "aunt-letty",
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty and Uncle Andrew tugging opposite ends of a ledger",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_07",
+   "file": "59-aunt-letty-runs-the-office_07.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "uncle-andrew",
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew sneaking a biscuit from the tin behind her back",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_08",
+   "file": "59-aunt-letty-runs-the-office_08.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty filing carbon copies into a wooden cabinet",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_09",
+   "file": "59-aunt-letty-runs-the-office_09.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty on a Bakelite telephone, pencil poised",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_10",
+   "file": "59-aunt-letty-runs-the-office_10.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aunt Letty peering over her spectacles at a smoking contraption",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_11",
+   "file": "59-aunt-letty-runs-the-office_11.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew's contraption sparking from a frayed cable",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_12",
+   "file": "59-aunt-letty-runs-the-office_12.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "aunt-letty",
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aunt Letty bandaging Uncle Andrew's singed finger",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_13",
+   "file": "59-aunt-letty-runs-the-office_13.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "digory",
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Digory delivering a telegram envelope to her desk",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_14",
+   "file": "59-aunt-letty-runs-the-office_14.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "polly"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly at a switchboard, plugging in cords",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_15",
+   "file": "59-aunt-letty-runs-the-office_15.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "polly"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Polly hopelessly tangled in switchboard cords",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_16",
+   "file": "59-aunt-letty-runs-the-office_16.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aunt Letty inspecting a stopped office clock with its pendulum detached",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_17",
+   "file": "59-aunt-letty-runs-the-office_17.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aunt Letty asleep in an armchair, knitting in her lap",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_18",
+   "file": "59-aunt-letty-runs-the-office_18.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "An empty in-tray and a tidy blotter at day's end",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_19",
+   "file": "59-aunt-letty-runs-the-office_19.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aunt Letty pinning on her hat at the coat stand",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_20",
+   "file": "59-aunt-letty-runs-the-office_20.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Aunt Letty knitting one very long scarf for the whole office",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_21",
+   "file": "59-aunt-letty-runs-the-office_21.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [
+    "christmas"
+   ],
+   "energy": "celebratory",
+   "description": "Aunt Letty with a tray of mince pies at the office party",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_22",
+   "file": "59-aunt-letty-runs-the-office_22.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aunt Letty searching a drawer by torchlight",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_23",
+   "file": "59-aunt-letty-runs-the-office_23.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "hands",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Aunt Letty's hand pulling the contraption's plug from the wall",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_24",
+   "file": "59-aunt-letty-runs-the-office_24.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew presenting a chalkboard of shapes and arrows",
+   "status": "proposed"
+  },
+  {
+   "id": "59-aunt-letty-runs-the-office_25",
+   "file": "59-aunt-letty-runs-the-office_25.webp",
+   "sheet": "59-aunt-letty-runs-the-office",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "aunt-letty"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Aunt Letty raising her teacup in a toast",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_01",
+   "file": "60-caspian-court-and-camp_01.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "glenstorm"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glenstorm the centaur at a desk with a brass telescope",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_02",
+   "file": "60-caspian-court-and-camp_02.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "glenstorm"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glenstorm pinning stars onto a big wall chart",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_03",
+   "file": "60-caspian-court-and-camp_03.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "glenstorm"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glenstorm tapping a chart, quietly proven right",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_04",
+   "file": "60-caspian-court-and-camp_04.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "centaur"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-list"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glenstorm's three sons standing to attention with folders",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_05",
+   "file": "60-caspian-court-and-camp_05.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "wimbleweather"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wimbleweather the giant, bashful, holding a tiny teacup",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_06",
+   "file": "60-caspian-court-and-camp_06.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "wimbleweather"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wimbleweather having knocked over a filing cabinet, mortified",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_07",
+   "file": "60-caspian-court-and-camp_07.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "wimbleweather",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Wimbleweather weeping into a huge handkerchief, a mouse patting his boot",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_08",
+   "file": "60-caspian-court-and-camp_08.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "wimbleweather"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wimbleweather typing on a laptop with one enormous finger",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_09",
+   "file": "60-caspian-court-and-camp_09.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "wimbleweather"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wimbleweather wedged in an office doorway",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_10",
+   "file": "60-caspian-court-and-camp_10.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "glozelle",
+    "sopespian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Glozelle and Sopespian whispering behind a pillar",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_11",
+   "file": "60-caspian-court-and-camp_11.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "sopespian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Sopespian peering through a keyhole",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_12",
+   "file": "60-caspian-court-and-camp_12.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "glozelle"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Glozelle polishing his medals, smug",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_13",
+   "file": "60-caspian-court-and-camp_13.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "glozelle",
+    "sopespian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glozelle and Sopespian caught red-handed with a memo",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_14",
+   "file": "60-caspian-court-and-camp_14.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "prunaprismia"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Queen Prunaprismia at the head of the board table, unimpressed",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_15",
+   "file": "60-caspian-court-and-camp_15.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "prunaprismia"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Prunaprismia tapping a closed fan, waiting",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_16",
+   "file": "60-caspian-court-and-camp_16.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "nurse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Caspian's Nurse telling a story by the fire",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_17",
+   "file": "60-caspian-court-and-camp_17.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "nurse",
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Nurse handing Caspian a packed lunch and scarf",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_18",
+   "file": "60-caspian-court-and-camp_18.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "nurse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Nurse dozing over her knitting",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_19",
+   "file": "60-caspian-court-and-camp_19.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "gwendolen"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Gwendolen in a stuffy training room, gazing out of the window",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_20",
+   "file": "60-caspian-court-and-camp_20.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "gwendolen"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "moderate",
+   "description": "Gwendolen climbing cheerfully out of the window",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_21",
+   "file": "60-caspian-court-and-camp_21.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "gwendolen",
+    "dryad"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [
+    "spring"
+   ],
+   "energy": "celebratory",
+   "description": "Gwendolen dancing with dryads in blossom",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_22",
+   "file": "60-caspian-court-and-camp_22.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "glenstorm"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glenstorm galloping with a dispatch case",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_23",
+   "file": "60-caspian-court-and-camp_23.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "wimbleweather",
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wimbleweather holding a ladder steady for Pattertwig",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_24",
+   "file": "60-caspian-court-and-camp_24.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "glenstorm"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Glenstorm under a cloudy night sky, telescope capped and observation equipment packed away",
+   "status": "proposed"
+  },
+  {
+   "id": "60-caspian-court-and-camp_25",
+   "file": "60-caspian-court-and-camp_25.webp",
+   "sheet": "60-caspian-court-and-camp",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "wimbleweather"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wimbleweather beaming with a gold star on his lapel",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_01",
+   "file": "61-horse-and-his-boy-staff_01.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "chervy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Chervy the stag skidding in with a message pouch",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_02",
+   "file": "61-horse-and-his-boy-staff_02.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "chervy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Chervy panting beside a stopwatch",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_03",
+   "file": "61-horse-and-his-boy-staff_03.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "chervy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Chervy bounding over a hedge with a parcel",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_04",
+   "file": "61-horse-and-his-boy-staff_04.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "chervy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Chervy waiting at a garden gate, ears up",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_05",
+   "file": "61-horse-and-his-boy-staff_05.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "chervy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Chervy with his antlers caught in a coat stand",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_06",
+   "file": "61-horse-and-his-boy-staff_06.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "arsheesh"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Arsheesh the fisherman counting coins at a rickety desk",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_07",
+   "file": "61-horse-and-his-boy-staff_07.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "arsheesh"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Arsheesh grumbling over an empty net",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_08",
+   "file": "61-horse-and-his-boy-staff_08.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "arsheesh"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Arsheesh refusing a request with a raised palm",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_09",
+   "file": "61-horse-and-his-boy-staff_09.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "arsheesh"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "subdued",
+   "description": "Arsheesh dozing in his boat",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_10",
+   "file": "61-horse-and-his-boy-staff_10.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "arsheesh"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Arsheesh dropping his ledger in surprise",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_11",
+   "file": "61-horse-and-his-boy-staff_11.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "dar",
+    "darrin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Lord Dar and Lord Darrin bowing in unison",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_12",
+   "file": "61-horse-and-his-boy-staff_12.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "dar",
+    "king-lune"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Dar reading the morning dispatches to King Lune",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_13",
+   "file": "61-horse-and-his-boy-staff_13.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "darrin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Darrin taking minutes with a fountain pen",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_14",
+   "file": "61-horse-and-his-boy-staff_14.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "dar",
+    "darrin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-gaps"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Dar and Darrin checking a committee table with one conspicuously empty place setting",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_15",
+   "file": "61-horse-and-his-boy-staff_15.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "dar",
+    "darrin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Dar and Darrin arguing over which way up a map goes",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_16",
+   "file": "61-horse-and-his-boy-staff_16.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "king-lune",
+    "dar",
+    "darrin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "King Lune, Dar and Darrin raising mugs",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_17",
+   "file": "61-horse-and-his-boy-staff_17.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "darrin"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Darrin checking a pocket watch at the castle gate",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_18",
+   "file": "61-horse-and-his-boy-staff_18.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree admiring his mane in a car's wing mirror",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_19",
+   "file": "61-horse-and-his-boy-staff_19.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree posing on a video call",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_20",
+   "file": "61-horse-and-his-boy-staff_20.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "hwin",
+    "bree"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hwin quietly finishing the work Bree is boasting about",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_21",
+   "file": "61-horse-and-his-boy-staff_21.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "corin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Corin vaulting a stack of in-trays",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_22",
+   "file": "61-horse-and-his-boy-staff_22.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "aravis"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Aravis typing a crisp reply",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_23",
+   "file": "61-horse-and-his-boy-staff_23.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "shasta"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Shasta asleep at his desk under a pile of maps",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_24",
+   "file": "61-horse-and-his-boy-staff_24.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "lasaraleen"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "mobile"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Lasaraleen with a dozen shopping bags and a phone",
+   "status": "proposed"
+  },
+  {
+   "id": "61-horse-and-his-boy-staff_25",
+   "file": "61-horse-and-his-boy-staff_25.webp",
+   "sheet": "61-horse-and-his-boy-staff",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "chervy",
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Chervy and Pattertwig racing to deliver the same letter",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_01",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_01.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "rhince"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rhince the first mate saluting",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_02",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_02.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "rhince"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rhince reading a letter from home, wistful",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_03",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_03.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "rynelf"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rynelf hauling a rope, singing",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_04",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_04.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "rynelf"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rynelf tangled in the rigging",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_05",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_05.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "rynelf"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rynelf coiling the rope neatly afterwards",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_06",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_06.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "pittencream"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Pittencream sulking on the dock as the ship sails without him",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_07",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_07.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "pittencream"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pittencream telling tall tales to two colleagues at a pub table",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_08",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_08.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "pittencream"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pittencream running late with a suitcase",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_09",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_09.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "harold-scrubb",
+    "alberta-scrubb"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Harold and Alberta Scrubb doing exercises at an open window",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_10",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_10.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "alberta-scrubb"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Alberta Scrubb with a clipboard of house rules",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_11",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_11.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "harold-scrubb"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Harold Scrubb setting off on a bicycle with a briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_12",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_12.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "harold-scrubb",
+    "alberta-scrubb"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Scrubbs serving a very plain vegetable lunch",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_13",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_13.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "alberta-scrubb"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Alberta Scrubb shivering by an open window in the snow",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_14",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_14.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "harold-scrubb"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Harold Scrubb lecturing at a lectern to an empty room",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_15",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_15.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "harold-scrubb",
+    "alberta-scrubb"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Scrubbs puzzling over a postcard from Eustace",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_16",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_16.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "eustace",
+    "harold-scrubb",
+    "alberta-scrubb"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Eustace in a jumper showing his parents a tidy chart",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_17",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_17.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "rhince",
+    "drinian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rhince and Drinian at the chart table",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_18",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_18.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "rhince",
+    "rynelf"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Rhince and Rynelf bailing a dinghy with teacups",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_19",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_19.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep",
+    "rynelf",
+    "rhince"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-list"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep inspecting the crew in a line",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_20",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_20.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The sea serpent offering a cup of tea over the rail",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_21",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_21.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "The sea serpent resting by a half-knitted scarf, one knitting needle supported by a gentle tail coil and the other held in its mouth; one continuous body",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_22",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_22.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The sea serpent coiled round a server rack, holding cables",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_23",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_23.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [
+    "summer"
+   ],
+   "energy": "subdued",
+   "description": "The sea serpent asleep in coils on a beach",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_24",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_24.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent",
+    "rynelf"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The sea serpent and Rynelf playing draughts",
+   "status": "proposed"
+  },
+  {
+   "id": "62-dawn-treader-crew-and-the-scrubbs_25",
+   "file": "62-dawn-treader-crew-and-the-scrubbs_25.webp",
+   "sheet": "62-dawn-treader-crew-and-the-scrubbs",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "rhince"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Rhince waving from a rowing boat at sunset",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_01",
+   "file": "63-experiment-house-and-harfang_01.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "the-head"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Head juggling a flurry of loose papers",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_02",
+   "file": "63-experiment-house-and-harfang_02.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "the-head"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Head as a school inspector with a clipboard",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_03",
+   "file": "63-experiment-house-and-harfang_03.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "the-head"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Head trying to chair a very noisy meeting",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_04",
+   "file": "63-experiment-house-and-harfang_04.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "the-head"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-gaps"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Head examining an empty slot in an otherwise ordered filing cabinet",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_05",
+   "file": "63-experiment-house-and-harfang_05.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "the-head"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "The Head beaming beside a blank new nameplate",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_06",
+   "file": "63-experiment-house-and-harfang_06.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "the-head"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Head chasing papers blown off the desk",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_07",
+   "file": "63-experiment-house-and-harfang_07.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "the-head"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Head at a typewriter with a mug of cocoa",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_08",
+   "file": "63-experiment-house-and-harfang_08.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill peeking out from a gym cupboard, playing hide and seek",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_09",
+   "file": "63-experiment-house-and-harfang_09.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "jill",
+    "eustace"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill and Eustace slipping out of a classroom door",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_10",
+   "file": "63-experiment-house-and-harfang_10.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A brass school bell beside an unanswered stack of post",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_11",
+   "file": "63-experiment-house-and-harfang_11.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "harfang-king"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "The King of Harfang, jolly, with an enormous teacup",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_12",
+   "file": "63-experiment-house-and-harfang_12.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "harfang-queen"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Queen of Harfang fussing over guest towels",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_13",
+   "file": "63-experiment-house-and-harfang_13.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "harfang-king",
+    "harfang-queen"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The King and Queen of Harfang at a giant dining table",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_14",
+   "file": "63-experiment-house-and-harfang_14.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "A giant's hot-water bottle on a giant armchair",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_15",
+   "file": "63-experiment-house-and-harfang_15.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "jill",
+    "eustace",
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Jill, Eustace and Puddleglum lost in a giant's hallway",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_16",
+   "file": "63-experiment-house-and-harfang_16.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "jill"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Jill camped under a giant's napkin like a tent",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_17",
+   "file": "63-experiment-house-and-harfang_17.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "harfang-king"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "The King of Harfang laughing until he cries",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_18",
+   "file": "63-experiment-house-and-harfang_18.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "harfang-queen"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Queen of Harfang dozing over knitting needles like poles",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_19",
+   "file": "63-experiment-house-and-harfang_19.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "A giant snowman at the castle gate",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_20",
+   "file": "63-experiment-house-and-harfang_20.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Puddleglum on a ladder reading a giant's wall calendar",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_21",
+   "file": "63-experiment-house-and-harfang_21.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [
+    "christmas"
+   ],
+   "energy": "celebratory",
+   "description": "The giants' great hall lit for Christmas",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_22",
+   "file": "63-experiment-house-and-harfang_22.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "harfang-king"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The King of Harfang sitting on the in-tray by accident",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_23",
+   "file": "63-experiment-house-and-harfang_23.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Puddleglum with an umbrella in the castle doorway in snow",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_24",
+   "file": "63-experiment-house-and-harfang_24.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A tiny dispatch box on a giant's table",
+   "status": "proposed"
+  },
+  {
+   "id": "63-experiment-house-and-harfang_25",
+   "file": "63-experiment-house-and-harfang_25.webp",
+   "sheet": "63-experiment-house-and-harfang",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "harfang-queen"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Queen of Harfang waving a huge handkerchief from a tower",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_01",
+   "file": "64-last-battle-sentinels-and-schemers_01.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "roonwit"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Roonwit the centaur presenting a star chart, grave",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_02",
+   "file": "64-last-battle-sentinels-and-schemers_02.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "roonwit"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Roonwit warning with a raised finger while a busy room ignores him",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_03",
+   "file": "64-last-battle-sentinels-and-schemers_03.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "roonwit"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Roonwit galloping in with a report",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_04",
+   "file": "64-last-battle-sentinels-and-schemers_04.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "roonwit"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Roonwit at a window at dawn",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_05",
+   "file": "64-last-battle-sentinels-and-schemers_05.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "roonwit"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Roonwit nodding, satisfied",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_06",
+   "file": "64-last-battle-sentinels-and-schemers_06.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "emeth"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Emeth arriving with a box of desk things, eager",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_07",
+   "file": "64-last-battle-sentinels-and-schemers_07.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "emeth"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Emeth at a crossroads of corridors, asking the way",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_08",
+   "file": "64-last-battle-sentinels-and-schemers_08.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "emeth"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Emeth reading the staff handbook with total sincerity",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_09",
+   "file": "64-last-battle-sentinels-and-schemers_09.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "emeth",
+    "tirian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Emeth and Tirian shaking hands warmly",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_10",
+   "file": "64-last-battle-sentinels-and-schemers_10.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "emeth"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Emeth bowing politely to a vending machine",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_11",
+   "file": "64-last-battle-sentinels-and-schemers_11.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "griffle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Griffle the dwarf hugging the good stapler, refusing to share",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_12",
+   "file": "64-last-battle-sentinels-and-schemers_12.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "griffle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-next"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Griffle sulking over one unfinished form he must deal with next, arms folded",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_13",
+   "file": "64-last-battle-sentinels-and-schemers_13.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "griffle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Griffle counting rations into tins",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_14",
+   "file": "64-last-battle-sentinels-and-schemers_14.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "wraggle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wraggle the satyr dancing on a desk, papers flying",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_15",
+   "file": "64-last-battle-sentinels-and-schemers_15.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "wraggle"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wraggle playing pipes in the break room",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_16",
+   "file": "64-last-battle-sentinels-and-schemers_16.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "slinkey"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Slinkey the fox sweet-talking the receptionist",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_17",
+   "file": "64-last-battle-sentinels-and-schemers_17.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "slinkey"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Slinkey with a too-good-to-be-true smile, offering a deal",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_18",
+   "file": "64-last-battle-sentinels-and-schemers_18.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "ginger",
+    "slinkey",
+    "jewel"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger and Slinkey plotting over a map, caught by Jewel",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_19",
+   "file": "64-last-battle-sentinels-and-schemers_19.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "wraggle",
+    "slinkey"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Wraggle and Slinkey carrying a crate far too big for them",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_20",
+   "file": "64-last-battle-sentinels-and-schemers_20.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger snooping through a filing cabinet by torchlight",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_21",
+   "file": "64-last-battle-sentinels-and-schemers_21.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger listening at a door with an ear trumpet",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_22",
+   "file": "64-last-battle-sentinels-and-schemers_22.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger frozen in a desk lamp's spotlight",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_23",
+   "file": "64-last-battle-sentinels-and-schemers_23.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger with a magnifying glass on a trail that stops",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_24",
+   "file": "64-last-battle-sentinels-and-schemers_24.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "roonwit",
+    "farsight"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Roonwit standing beside Farsight comparing a report; complete four-legged centaur profile",
+   "status": "proposed"
+  },
+  {
+   "id": "64-last-battle-sentinels-and-schemers_25",
+   "file": "64-last-battle-sentinels-and-schemers_25.webp",
+   "sheet": "64-last-battle-sentinels-and-schemers",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "emeth",
+    "tirian"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Emeth and Tirian sharing tea at sunset",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_01",
+   "file": "65-the-witchs-household_01.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginarrbrick the dwarf in a fur hat, polishing sledge bells",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_02",
+   "file": "65-the-witchs-household_02.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "moderate",
+   "description": "Ginarrbrick driving a reindeer sledge through snow",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_03",
+   "file": "65-the-witchs-household_03.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginarrbrick buried behind a towering appointment book",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_04",
+   "file": "65-the-witchs-household_04.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginarrbrick hurrying with a tray of Turkish Delight",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_05",
+   "file": "65-the-witchs-household_05.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "moderate",
+   "description": "Ginarrbrick and the sledge stuck in a snowdrift",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_06",
+   "file": "65-the-witchs-household_06.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "moderate",
+   "description": "The White Witch turning the office thermostat right down",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_07",
+   "file": "65-the-witchs-household_07.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "tumnus",
+    "mr-beaver"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Tumnus and Mr Beaver in scarves and mittens at frosted desks",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_08",
+   "file": "65-the-witchs-household_08.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus sneaking the thermostat back up",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_09",
+   "file": "65-the-witchs-household_09.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Edmund eyeing a box of Turkish Delight in the break room",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_10",
+   "file": "65-the-witchs-household_10.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "An empty Turkish Delight box with powdered-sugar crumbs",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_11",
+   "file": "65-the-witchs-household_11.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "The office water cooler frozen solid",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_12",
+   "file": "65-the-witchs-household_12.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "maugrim"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Maugrim as a gruff security guard checking passes",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_13",
+   "file": "65-the-witchs-household_13.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "maugrim"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Maugrim asleep in the guard's chair",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_14",
+   "file": "65-the-witchs-household_14.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "maugrim"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Maugrim the natural four-legged wolf with a telephone receiver upside down in his mouth, confused",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_15",
+   "file": "65-the-witchs-household_15.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "white-witch",
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Witch dictating a letter to Ginarrbrick",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_16",
+   "file": "65-the-witchs-household_16.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "The Witch reviewing a very long list with a quill",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_17",
+   "file": "65-the-witchs-household_17.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Icicles hanging off an overflowing in-tray",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_18",
+   "file": "65-the-witchs-household_18.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [
+    "spring"
+   ],
+   "energy": "moderate",
+   "description": "The thaw dripping from the office ceiling into buckets",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_19",
+   "file": "65-the-witchs-household_19.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "father-christmas"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [
+    "christmas"
+   ],
+   "energy": "celebratory",
+   "description": "Father Christmas striding into the Witch's office with presents",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_20",
+   "file": "65-the-witchs-household_20.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginarrbrick wound up in the reindeer's reins",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_21",
+   "file": "65-the-witchs-household_21.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Witch's sledge with a blank parking ticket on it",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_22",
+   "file": "65-the-witchs-household_22.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "ginarrbrick"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "Ginarrbrick yawning at the end of a long winter",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_23",
+   "file": "65-the-witchs-household_23.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "white-witch",
+    "robin"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The Witch glaring at a cheerful robin on her windowsill",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_24",
+   "file": "65-the-witchs-household_24.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "The Witch tapping a calendar that never reaches Christmas",
+   "status": "proposed"
+  },
+  {
+   "id": "65-the-witchs-household_25",
+   "file": "65-the-witchs-household_25.webp",
+   "sheet": "65-the-witchs-household",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "subdued",
+   "description": "A snow globe of the Witch's castle on a desk",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_01",
+   "file": "66-the-1940s-office_01.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "mrs-macready"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mrs Macready at a switchboard, headset on, plugging cords",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_02",
+   "file": "66-the-1940s-office_02.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "professor-kirke",
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Professor Kirke dictating to Lucy at a typewriter",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_03",
+   "file": "66-the-1940s-office_03.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "lucy",
+    "susan",
+    "polly"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The typing pool: Lucy, Susan and Polly at typewriters",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_04",
+   "file": "66-the-1940s-office_04.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus wheeling a tea trolley",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_05",
+   "file": "66-the-1940s-office_05.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "mrs-beaver"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Mrs Beaver presenting a cake on the tea trolley",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_06",
+   "file": "66-the-1940s-office_06.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A message capsule whooshing up a pneumatic tube",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_07",
+   "file": "66-the-1940s-office_07.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trumpkin catching a pneumatic capsule on the nose",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_08",
+   "file": "66-the-1940s-office_08.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "peter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Peter tuning a wireless set for the morning news",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_09",
+   "file": "66-the-1940s-office_09.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Edmund with carbon paper smudged all over his hands",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_10",
+   "file": "66-the-1940s-office_10.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "susan"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Susan filing index cards into a long drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_11",
+   "file": "66-the-1940s-office_11.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter with a rubber stamp and a stack of forms",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_12",
+   "file": "66-the-1940s-office_12.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "doctor-cornelius"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Doctor Cornelius searching a huge card catalogue",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_13",
+   "file": "66-the-1940s-office_13.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puddleglum tapping the barometer in the corridor",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_14",
+   "file": "66-the-1940s-office_14.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep facing down a jammed typewriter, sword raised",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_15",
+   "file": "66-the-1940s-office_15.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A Bakelite telephone ringing on an empty desk",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_16",
+   "file": "66-the-1940s-office_16.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A blank ration book and coupons on a desk",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_17",
+   "file": "66-the-1940s-office_17.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "mr-beaver"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "moderate",
+   "description": "Mr Beaver fixing a rattling radiator with a spanner",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_18",
+   "file": "66-the-1940s-office_18.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "environment",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Blackout curtains drawn, one desk lamp glowing",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_19",
+   "file": "66-the-1940s-office_19.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus with umbrella and parcels at a red pillar box",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_20",
+   "file": "66-the-1940s-office_20.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "timed-out"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Eustace running for a double-decker bus as it pulls away",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_21",
+   "file": "66-the-1940s-office_21.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [
+    "autumn"
+   ],
+   "energy": "subdued",
+   "description": "Lucy in a mackintosh at a bus stop in the rain",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_22",
+   "file": "66-the-1940s-office_22.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Caspian studying a corkboard map strung with thread",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_23",
+   "file": "66-the-1940s-office_23.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "peter",
+    "susan",
+    "edmund",
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "The Pevensies round the wireless, cheering",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_24",
+   "file": "66-the-1940s-office_24.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "glimfeather"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting-long"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Glimfeather as night watchman with a lantern",
+   "status": "proposed"
+  },
+  {
+   "id": "66-the-1940s-office_25",
+   "file": "66-the-1940s-office_25.webp",
+   "sheet": "66-the-1940s-office",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "signing-off"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Coats and hats on a coat stand at dusk",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_01",
+   "file": "67-specialists-at-work_01.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep and four mice carrying a laptop like a sedan chair",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_02",
+   "file": "67-specialists-at-work_02.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A chain of mice passing envelopes along a desk",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_03",
+   "file": "67-specialists-at-work_03.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mice all hauling on one stuck drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_04",
+   "file": "67-specialists-at-work_04.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Mice cheering on top of a finished stack of reports",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_05",
+   "file": "67-specialists-at-work_05.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "tangled"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter patiently untangling a ball of red tape",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_06",
+   "file": "67-specialists-at-work_06.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-now"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter approving forms one at a time, unhurried",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_07",
+   "file": "67-specialists-at-work_07.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig zipping between desks on a wheeled chair",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_08",
+   "file": "67-specialists-at-work_08.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "mobile"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig juggling three phones at once",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_09",
+   "file": "67-specialists-at-work_09.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger in dark glasses reading someone else's post",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_10",
+   "file": "67-specialists-at-work_10.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Ginger hiding inside a filing cabinet drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_11",
+   "file": "67-specialists-at-work_11.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puddleglum presenting a gloomy rain chart to a meeting",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_12",
+   "file": "67-specialists-at-work_12.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puddleglum holding an umbrella over a server rack",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_13",
+   "file": "67-specialists-at-work_13.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Puddleglum, mildly astonished that it worked",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_14",
+   "file": "67-specialists-at-work_14.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep fencing a jammed printer",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_15",
+   "file": "67-specialists-at-work_15.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep bowing to the printer once it works",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_16",
+   "file": "67-specialists-at-work_16.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "design"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree preening in a laptop camera before a call",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_17",
+   "file": "67-specialists-at-work_17.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "mr-beaver"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mr Beaver patching a server rack with logs and mud",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_18",
+   "file": "67-specialists-at-work_18.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "mrs-beaver"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mrs Beaver packing everything, sewing machine included, into a laptop bag",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_19",
+   "file": "67-specialists-at-work_19.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Eustace writing a grumpy diary entry about the meeting",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_20",
+   "file": "67-specialists-at-work_20.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "eustace"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [
+    "winter"
+   ],
+   "energy": "moderate",
+   "description": "Eustace as a small dragon warming a chilly server room",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_21",
+   "file": "67-specialists-at-work_21.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "The sea serpent untangling the whole office's cables at once",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_22",
+   "file": "67-specialists-at-work_22.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Sea serpent supporting a projector screen by gripping its top bar, one continuous coiled body",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_23",
+   "file": "67-specialists-at-work_23.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "father-christmas"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [
+    "christmas"
+   ],
+   "energy": "celebratory",
+   "description": "Father Christmas as IT, handing out new laptops",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_24",
+   "file": "67-specialists-at-work_24.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "glimfeather"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Glimfeather on the night shift among glowing monitors",
+   "status": "proposed"
+  },
+  {
+   "id": "67-specialists-at-work_25",
+   "file": "67-specialists-at-work_25.webp",
+   "sheet": "67-specialists-at-work",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "tumnus",
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "big-win"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "celebratory",
+   "description": "Tumnus and the mice sharing cake after a launch",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_01",
+   "file": "68-office-workarounds_01.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "mrs-macready"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mrs Macready using a switchboard, confidently disconnecting one troublesome cord",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_02",
+   "file": "68-office-workarounds_02.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "mr-beaver"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mr Beaver carefully removing a jammed sheet from a laser printer using wooden clothes pegs",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_03",
+   "file": "68-office-workarounds_03.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "lucy"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Lucy holding out a telephone receiver with an amused patient expression",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_04",
+   "file": "68-office-workarounds_04.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig delivering one USB drive in a tiny leather dispatch pouch",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_05",
+   "file": "68-office-workarounds_05.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "professor-kirke"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Professor Kirke thoughtfully inspecting a tablet through his spectacles",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_06",
+   "file": "68-office-workarounds_06.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus balancing a tray of teacups while nudging open an office door with one natural hoof",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_07",
+   "file": "68-office-workarounds_07.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "puddleglum"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Puddleglum looking disappointed at a raincoat while sunshine comes through a small window",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_08",
+   "file": "68-office-workarounds_08.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "caspian"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Caspian untangling his necktie from a coat hanger while leaving with a travel case",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_09",
+   "file": "68-office-workarounds_09.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "trumpkin"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "retrying"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trumpkin using a mechanic's inspection mirror to find a loose plug behind a printer",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_10",
+   "file": "68-office-workarounds_10.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "susan"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-next"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Susan quietly pointing to a blank appointment slot in a planner",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_11",
+   "file": "68-office-workarounds_11.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "edmund"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Edmund photographing an enormous pile of receipts, slightly overwhelmed",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_12",
+   "file": "68-office-workarounds_12.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Trufflehunter patiently pressing one laptop key with one careful claw",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_13",
+   "file": "68-office-workarounds_13.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "bree"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Bree natural gray HORSE head-and-neck portrait peering suspiciously at a tiny webcam on a stand",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_14",
+   "file": "68-office-workarounds_14.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "glimfeather"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Glimfeather natural owl landing beside a leather courier bag, envelope in beak",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_15",
+   "file": "68-office-workarounds_15.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "peter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Peter practicing a speech into a ribbon microphone while his tie hangs crooked",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_16",
+   "file": "68-office-workarounds_16.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A rotary telephone with receiver off the cradle and cord neatly coiled",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_17",
+   "file": "68-office-workarounds_17.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A typewriter with one long continuous sheet of blank paper curling into a tidy roll",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_18",
+   "file": "68-office-workarounds_18.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "A small server cabinet with one cable neatly looped around a wooden peg on its side",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_19",
+   "file": "68-office-workarounds_19.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "sent"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "An open dispatch capsule holding a single sealed envelope",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_20",
+   "file": "68-office-workarounds_20.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A tea tray with one neatly placed cup and one biscuit",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_21",
+   "file": "68-office-workarounds_21.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "morning-brief"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A wooden wireless set with antenna raised, no readable dial text",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_22",
+   "file": "68-office-workarounds_22.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "An overturned ink bottle dripping into a wastepaper basket beside a blank blotter",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_23",
+   "file": "68-office-workarounds_23.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "not-found"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A leather tool roll opened to reveal a missing central tool slot",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_24",
+   "file": "68-office-workarounds_24.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "offline"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "An unplugged desk fan with a small ribbon tied to its stopped grille",
+   "status": "proposed"
+  },
+  {
+   "id": "68-office-workarounds_25",
+   "file": "68-office-workarounds_25.webp",
+   "sheet": "68-office-workarounds",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [],
+   "motifs": [],
+   "view": "object",
+   "moments": [
+    "done"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "A completed stack of blank forms secured by one oversized brass clip",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_01",
+   "file": "69-mouse-office-comedy_01.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep in navy waistcoat pulling a huge typewriter carriage with both paws",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_02",
+   "file": "69-mouse-office-comedy_02.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two office mice carrying one enormous rubber stamp between them",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_03",
+   "file": "69-mouse-office-comedy_03.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse standing on three closed books to reach a brass door handle",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_04",
+   "file": "69-mouse-office-comedy_04.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse pushing a single giant pencil like a wheelbarrow",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_05",
+   "file": "69-mouse-office-comedy_05.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two office mice seated with a huge teacup between them",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_06",
+   "file": "69-mouse-office-comedy_06.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep tangled in one loop of typewriter ribbon, both paws visible",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_07",
+   "file": "69-mouse-office-comedy_07.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse inspecting a cheese wedge with a magnifying glass",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_08",
+   "file": "69-mouse-office-comedy_08.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse carrying a folded umbrella twice his height",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_09",
+   "file": "69-mouse-office-comedy_09.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two mice rolling an oversize spool of red string",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_10",
+   "file": "69-mouse-office-comedy_10.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse solemnly presenting a tiny crumb on a silver tray",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_11",
+   "file": "69-mouse-office-comedy_11.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep using a small stepladder to answer a Bakelite telephone",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_12",
+   "file": "69-mouse-office-comedy_12.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Mouse asleep upright against a large eraser",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_13",
+   "file": "69-mouse-office-comedy_13.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two mice tugging opposite ends of the same carbon-copy sheet",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_14",
+   "file": "69-mouse-office-comedy_14.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse balancing an enormous biscuit upright on the floor",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_15",
+   "file": "69-mouse-office-comedy_15.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep saluting beside a small paper airplane",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_16",
+   "file": "69-mouse-office-comedy_16.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two mice using a ruler as a bench, seated with separate legs",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_17",
+   "file": "69-mouse-office-comedy_17.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse craning at a towering accordion file",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_18",
+   "file": "69-mouse-office-comedy_18.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse hauling a briefcase on a tiny wooden trolley",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_19",
+   "file": "69-mouse-office-comedy_19.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep proudly wearing a paperclip as a tie clip",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_20",
+   "file": "69-mouse-office-comedy_20.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse polishing an ornate oversized postage stamp",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_21",
+   "file": "69-mouse-office-comedy_21.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two mice carrying a large spoon-shaped bowl of hot tea",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_22",
+   "file": "69-mouse-office-comedy_22.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse peeking from a wooden desktop pigeonhole; deliberate partial view",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_23",
+   "file": "69-mouse-office-comedy_23.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "reepicheep"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Reepicheep sword sheathed, politely offering a tiny resignation-sized scrap",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_24",
+   "file": "69-mouse-office-comedy_24.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mouse gently ushering a beetle out with a dustpan",
+   "status": "proposed"
+  },
+  {
+   "id": "69-mouse-office-comedy_25",
+   "file": "69-mouse-office-comedy_25.webp",
+   "sheet": "69-mouse-office-comedy",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "mouse"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Two mice high-fiving after lifting a single sealed envelope",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_01",
+   "file": "70-woodland-office-mishaps_01.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Trufflehunter badger in mustard vest discovers a biscuit balanced on his head",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_02",
+   "file": "70-woodland-office-mishaps_02.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Pattertwig red squirrel in green vest stuffs a nut into a filing drawer already full of nuts",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_03",
+   "file": "70-woodland-office-mishaps_03.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus beside a coat stand, gesturing at a clothing mishap",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_04",
+   "file": "70-woodland-office-mishaps_04.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Teal sea serpent with long neck and coiled body peers apologetically at a tiny teacup",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_05",
+   "file": "70-woodland-office-mishaps_05.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Badger holding a very long adding-machine receipt, amused",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_06",
+   "file": "70-woodland-office-mishaps_06.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Red squirrel beside a desk fan with tail blown into a huge fluffy puff",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_07",
+   "file": "70-woodland-office-mishaps_07.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus seated, ruefully inspecting fingers",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_08",
+   "file": "70-woodland-office-mishaps_08.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Teal sea serpent coiled around a swivel chair too small for him, head visible",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_09",
+   "file": "70-woodland-office-mishaps_09.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Badger opens lunchbox to find only one pea",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_10",
+   "file": "70-woodland-office-mishaps_10.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "money"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Red squirrel solemnly weighs one acorn on a brass postal scale",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_11",
+   "file": "70-woodland-office-mishaps_11.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus carrying an umbrella indoors dripping into a wastepaper basket",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_12",
+   "file": "70-woodland-office-mishaps_12.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Teal sea serpent wearing a tiny bow tie and holding a blank memo gently in mouth",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_13",
+   "file": "70-woodland-office-mishaps_13.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Badger calmly untangles knitting-like telephone cord, both paws visible",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_14",
+   "file": "70-woodland-office-mishaps_14.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Squirrel carrying a teacup with both paws while tail balances a biscuit",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_15",
+   "file": "70-woodland-office-mishaps_15.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus looking at an inside-out umbrella on the floor",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_16",
+   "file": "70-woodland-office-mishaps_16.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Sea serpent nose-to-nose with his reflection in a polished kettle",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_17",
+   "file": "70-woodland-office-mishaps_17.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Badger dusting flour off his mustard waistcoat after baking",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_18",
+   "file": "70-woodland-office-mishaps_18.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Squirrel opening a briefcase filled with leaves instead of documents",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_19",
+   "file": "70-woodland-office-mishaps_19.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus trying to fit a huge rolled chart into a little leather briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_20",
+   "file": "70-woodland-office-mishaps_20.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Sea serpent carefully threading his long neck through a low office doorway",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_21",
+   "file": "70-woodland-office-mishaps_21.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "trufflehunter"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Badger wearing spectacles over spectacles, puzzled",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_22",
+   "file": "70-woodland-office-mishaps_22.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Squirrel triumphant beside three perfectly size-sorted acorns",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_23",
+   "file": "70-woodland-office-mishaps_23.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "tumnus"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tumnus holding an empty mug and a tiny lantern, looking puzzled",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_24",
+   "file": "70-woodland-office-mishaps_24.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "sea-serpent"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Sea serpent sleeping with chin on a small cushion, tail coil clearly connected",
+   "status": "proposed"
+  },
+  {
+   "id": "70-woodland-office-mishaps_25",
+   "file": "70-woodland-office-mishaps_25.webp",
+   "sheet": "70-woodland-office-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "trufflehunter",
+    "pattertwig"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Badger and squirrel sharing one absurdly small umbrella, both complete bodies",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_01",
+   "file": "71-office-egos-and-mishaps_01.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "White Witch in white trouser suit glaring at a frozen teapot on desk",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_02",
+   "file": "71-office-egos-and-mishaps_02.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "miraz"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miraz bearded man in charcoal suit struggling to open a jammed filing drawer",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_03",
+   "file": "71-office-egos-and-mishaps_03.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger orange tabby in plum vest caught with head inside biscuit tin, body and tail clear",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_04",
+   "file": "71-office-egos-and-mishaps_04.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew elderly wild-haired man in dark suit startled by a popping toaster",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_05",
+   "file": "71-office-egos-and-mishaps_05.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc portly black-bearded king in burgundy suit and crown sitting beside an absurdly small desk",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_06",
+   "file": "71-office-egos-and-mishaps_06.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "White Witch carefully scraping frost from a typewriter with a ruler",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_07",
+   "file": "71-office-egos-and-mishaps_07.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "miraz"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miraz stamp pad stains his palm red, annoyed",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_08",
+   "file": "71-office-egos-and-mishaps_08.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger peeking guiltily over a knocked-over wastepaper basket",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_09",
+   "file": "71-office-egos-and-mishaps_09.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew wearing two different ordinary shoes, looking down",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_10",
+   "file": "71-office-egos-and-mishaps_10.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc examining an enormous empty silver serving platter",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_11",
+   "file": "71-office-egos-and-mishaps_11.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "White Witch holding a completely wilted office plant, bewildered",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_12",
+   "file": "71-office-egos-and-mishaps_12.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "miraz"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miraz trying to read a newspaper unfolded far too wide",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_13",
+   "file": "71-office-egos-and-mishaps_13.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger watching a rolling pencil with intense feline concentration, four paws natural",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_14",
+   "file": "71-office-egos-and-mishaps_14.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew's spectacles slipping onto the tip of his nose while holding a memo",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_15",
+   "file": "71-office-egos-and-mishaps_15.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Tisroc politely waiting behind a small velvet queue barrier",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_16",
+   "file": "71-office-egos-and-mishaps_16.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "White Witch white suit caught in gentle blast from a desk fan, papers held firmly",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_17",
+   "file": "71-office-egos-and-mishaps_17.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "miraz"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miraz caught wearing slippers under formal pinstripe trousers",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_18",
+   "file": "71-office-egos-and-mishaps_18.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger sitting in an open cardboard archive box too small for him",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_19",
+   "file": "71-office-egos-and-mishaps_19.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew carrying a tower of mismatched teacups, both hands visible",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_20",
+   "file": "71-office-egos-and-mishaps_20.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc attempting to fasten a too-small briefcase, seated normally",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_21",
+   "file": "71-office-egos-and-mishaps_21.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "white-witch"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "White Witch grudgingly accepting a tiny pink thank-you bouquet",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_22",
+   "file": "71-office-egos-and-mishaps_22.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "miraz"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Miraz looks suspiciously at a squeaky office chair",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_23",
+   "file": "71-office-egos-and-mishaps_23.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "ginger"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Ginger startled while grooming his curled tail",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_24",
+   "file": "71-office-egos-and-mishaps_24.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "uncle-andrew"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Uncle Andrew peering through a brass telescope",
+   "status": "proposed"
+  },
+  {
+   "id": "71-office-egos-and-mishaps_25",
+   "file": "71-office-egos-and-mishaps_25.webp",
+   "sheet": "71-office-egos-and-mishaps",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "tisroc"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Tisroc holding a tiny sandwich between normal thumb and finger",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_01",
+   "file": "72-new-colleagues-comedy_01.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 1,
+    "col": 1
+   },
+   "characters": [
+    "clodsley-shovel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Clodsley Shovel mole charcoal fur pink nose small eyes brown tweed vest carrying a small shovel and leather briefcase",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_02",
+   "file": "72-new-colleagues-comedy_02.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 1,
+    "col": 2
+   },
+   "characters": [
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hogglestock hedgehog brown spines cream face green cardigan has a memo caught harmlessly on his back",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_03",
+   "file": "72-new-colleagues-comedy_03.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 1,
+    "col": 3
+   },
+   "characters": [
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Camillo hare long ears tawny fur rust waistcoat stops abruptly beside a delivery trolley",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_04",
+   "file": "72-new-colleagues-comedy_04.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 1,
+    "col": 4
+   },
+   "characters": [
+    "clodsley-shovel"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mole emerging from an open floor hatch holding a misplaced pencil, hatch on tiny isolated floor patch",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_05",
+   "file": "72-new-colleagues-comedy_05.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 1,
+    "col": 5
+   },
+   "characters": [
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hedgehog carefully sits on a round stool with spines free behind",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_06",
+   "file": "72-new-colleagues-comedy_06.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 2,
+    "col": 1
+   },
+   "characters": [
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hare ears poke through two holes in a bowler hat, amused",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_07",
+   "file": "72-new-colleagues-comedy_07.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 2,
+    "col": 2
+   },
+   "characters": [
+    "clodsley-shovel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mole examining a map upside down, both paws visible",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_08",
+   "file": "72-new-colleagues-comedy_08.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 2,
+    "col": 3
+   },
+   "characters": [
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hedgehog apologetically shows a deflated cushion",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_09",
+   "file": "72-new-colleagues-comedy_09.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 2,
+    "col": 4
+   },
+   "characters": [
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "portrait",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hare wearing headphones around the base of his long ears, puzzled",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_10",
+   "file": "72-new-colleagues-comedy_10.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 2,
+    "col": 5
+   },
+   "characters": [
+    "clodsley-shovel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mole carrying a dirt-filled flowerpot with a small filing label, no letters",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_11",
+   "file": "72-new-colleagues-comedy_11.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 3,
+    "col": 1
+   },
+   "characters": [
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hedgehog inspecting a wool scarf snagged on a single spine",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_12",
+   "file": "72-new-colleagues-comedy_12.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 3,
+    "col": 2
+   },
+   "characters": [
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hare holding a delivery envelope and looking at his own muddy footprints on small mat",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_13",
+   "file": "72-new-colleagues-comedy_13.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 3,
+    "col": 3
+   },
+   "characters": [
+    "clodsley-shovel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mole proudly uncovers a tin of biscuits from a little earth mound",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_14",
+   "file": "72-new-colleagues-comedy_14.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 3,
+    "col": 4
+   },
+   "characters": [
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hedgehog offering a pincushion with a knowing smile",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_15",
+   "file": "72-new-colleagues-comedy_15.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 3,
+    "col": 5
+   },
+   "characters": [
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hare sitting on a normal chair with long ears flattened beneath a low shelf",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_16",
+   "file": "72-new-colleagues-comedy_16.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 4,
+    "col": 1
+   },
+   "characters": [
+    "clodsley-shovel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mole with tiny spectacles holds a huge magnifying glass",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_17",
+   "file": "72-new-colleagues-comedy_17.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 4,
+    "col": 2
+   },
+   "characters": [
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hedgehog has autumn leaves caught on spines while wearing business cardigan",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_18",
+   "file": "72-new-colleagues-comedy_18.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 4,
+    "col": 3
+   },
+   "characters": [
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hare typing at a compact typewriter, both forepaws visible and both hind feet grounded",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_19",
+   "file": "72-new-colleagues-comedy_19.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 4,
+    "col": 4
+   },
+   "characters": [
+    "clodsley-shovel"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mole sipping tea from a very clean cup with muddy paws",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_20",
+   "file": "72-new-colleagues-comedy_20.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 4,
+    "col": 5
+   },
+   "characters": [
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hogglestock holding a long-handled clothes brush",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_21",
+   "file": "72-new-colleagues-comedy_21.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 5,
+    "col": 1
+   },
+   "characters": [
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "waiting"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "subdued",
+   "description": "Hare patiently waiting beside a stationary delivery trolley, crossed forepaws",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_22",
+   "file": "72-new-colleagues-comedy_22.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 5,
+    "col": 2
+   },
+   "characters": [
+    "clodsley-shovel",
+    "hogglestock"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Mole and hedgehog politely pass an envelope between them",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_23",
+   "file": "72-new-colleagues-comedy_23.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 5,
+    "col": 3
+   },
+   "characters": [
+    "clodsley-shovel",
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "done-small"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hare offering mole a tiny parcel, both bodies complete",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_24",
+   "file": "72-new-colleagues-comedy_24.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 5,
+    "col": 4
+   },
+   "characters": [
+    "hogglestock",
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "oops"
+   ],
+   "activities": [],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "Hedgehog and hare inspect a popped paper bag together",
+   "status": "proposed"
+  },
+  {
+   "id": "72-new-colleagues-comedy_25",
+   "file": "72-new-colleagues-comedy_25.webp",
+   "sheet": "72-new-colleagues-comedy",
+   "cell": {
+    "row": 5,
+    "col": 5
+   },
+   "characters": [
+    "clodsley-shovel",
+    "hogglestock",
+    "camillo"
+   ],
+   "motifs": [],
+   "view": "scene",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "meetings"
+   ],
+   "seasons": [],
+   "energy": "moderate",
+   "description": "All three new colleagues seated on separate stools around a small tea table, anatomically clear",
+   "status": "proposed"
   }
  ]
 }

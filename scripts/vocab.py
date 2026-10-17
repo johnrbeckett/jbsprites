@@ -8,7 +8,12 @@ CHARACTERS = ["tumnus", "lucy", "edmund", "susan", "peter", "aslan", "white-witc
               "king-lune", "lasaraleen", "miraz", "mouse", "mrs-macready", "nikabrik", "pattertwig",
               "poggin", "polly", "professor-kirke", "puzzle", "rabadash", "ramandu", "ramandus-daughter",
               "rilian", "rishda-tarkaan", "rumblebuffin", "sea-serpent", "shasta", "shift", "tirian",
-              "tisroc", "trufflehunter"]
+              "tisroc", "trufflehunter",
+              "alberta-scrubb", "arsheesh", "aunt-letty", "camillo", "chervy", "clodsley-shovel", "dar",
+              "darrin", "emeth", "ginarrbrick", "glenstorm", "glozelle", "griffle", "gwendolen",
+              "harfang-king", "harfang-queen", "harold-scrubb", "hogglestock", "nurse", "pittencream",
+              "prunaprismia", "rhince", "roonwit", "rynelf", "slinkey", "sopespian", "the-head",
+              "wimbleweather", "wraggle"]
 VIEWS = ["full-body", "portrait", "hands", "object", "environment", "scene"]
 MOMENTS = ["start", "hello", "morning-brief", "waiting", "waiting-long", "retrying", "done-small", "done",
            "big-win", "sent", "signing-off", "oops", "blocked", "offline", "timed-out", "not-found", "tangled", "your-turn"]
