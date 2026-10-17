@@ -13,13 +13,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus standing, hands in pockets, front view",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -31,13 +33,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus standing, hands in pockets, three-quarter view",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -49,13 +53,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus standing in profile",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -67,13 +73,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus standing in profile, facing the other way",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -85,13 +93,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus seen from behind",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -103,13 +113,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "blocked"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus with arms folded",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -121,7 +133,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -147,7 +159,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -173,7 +185,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "morning-brief"
    ],
@@ -195,7 +207,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -219,13 +231,18 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start",
+    "your-turn"
+   ],
+   "activities": [
+    "research"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus holding a book, gesturing to explain",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -237,7 +254,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "waiting",
     "waiting-long"
@@ -261,13 +278,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus in a maroon jumper, hands in pockets",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -279,13 +298,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus striding along",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -297,13 +320,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus walking briskly",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -315,7 +342,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -339,7 +366,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "hello"
    ],
@@ -361,7 +388,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -387,7 +414,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -411,13 +438,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "mobile"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus in a blazer checking his phone",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -429,7 +460,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start",
     "your-turn"
@@ -455,7 +486,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops",
     "start"
@@ -481,13 +512,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "done-small"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus giving a thumbs up",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -499,7 +532,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -523,7 +556,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "waiting"
    ],
@@ -545,13 +578,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "mobile"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus leaning casually, reading his phone",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -563,7 +600,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -589,7 +626,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "morning-brief"
    ],
@@ -611,13 +648,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus in a green jacket, hands in pockets",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -629,13 +668,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "signing-off"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus seen from behind, hands clasped",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -647,7 +688,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops",
     "start"
@@ -673,7 +714,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "morning-brief",
     "start"
@@ -699,13 +740,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus with hands on hips, ready to go",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -717,7 +762,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -741,7 +786,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "waiting"
    ],
@@ -763,7 +808,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "waiting",
     "waiting-long"
@@ -787,7 +832,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -813,7 +858,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -837,7 +882,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -861,7 +906,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -887,7 +932,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "hello"
    ],
@@ -909,13 +954,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus in a waistcoat, arms folded",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -927,7 +974,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -951,7 +998,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -975,13 +1022,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus crouching to pick up a dropped pencil",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -993,7 +1042,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1017,7 +1066,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "morning-brief"
    ],
@@ -1039,7 +1088,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1065,13 +1114,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus in a cream jumper, hands on hips",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -1083,13 +1136,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "your-turn"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus in glasses with arms spread, asking",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -1101,13 +1156,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "hello"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus gesturing a welcome",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -1119,7 +1176,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1145,7 +1202,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1169,13 +1226,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "done"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus relaxing with hands behind his head",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -1187,13 +1246,18 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-review",
+    "technical"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus in braces working on a tablet",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -1205,7 +1269,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "start"
    ],
@@ -1229,7 +1293,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "start"
    ],
@@ -1253,7 +1317,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "hello"
    ],
@@ -1275,7 +1339,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "start"
    ],
@@ -1299,7 +1363,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "start"
    ],
@@ -1323,7 +1387,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1345,7 +1409,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1367,7 +1431,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1389,7 +1453,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1411,7 +1475,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1433,7 +1497,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1455,7 +1519,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1477,7 +1541,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1499,7 +1563,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "big-win"
    ],
@@ -1521,7 +1585,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "big-win"
    ],
@@ -1543,7 +1607,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "big-win"
    ],
@@ -1565,7 +1629,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1587,7 +1651,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1609,7 +1673,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "big-win"
    ],
@@ -1631,7 +1695,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "big-win"
    ],
@@ -1653,7 +1717,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1675,7 +1739,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1697,7 +1761,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1719,7 +1783,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1741,7 +1805,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done",
     "signing-off"
@@ -1765,13 +1829,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "general"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus rolling up his sleeves",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -1783,7 +1851,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1805,7 +1873,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done",
     "signing-off"
@@ -1829,7 +1897,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done"
    ],
@@ -1851,7 +1919,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1875,7 +1943,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1899,7 +1967,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1923,7 +1991,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1947,7 +2015,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1971,7 +2039,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -1995,7 +2063,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2019,7 +2087,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2043,7 +2111,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2067,7 +2135,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2091,7 +2159,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2115,7 +2183,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2139,7 +2207,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2163,7 +2231,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2187,7 +2255,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2211,7 +2279,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2235,7 +2303,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -2259,7 +2327,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "your-turn"
    ],
@@ -2281,7 +2349,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "your-turn"
    ],
@@ -2303,7 +2371,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -2324,12 +2392,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A wooden desk",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2340,12 +2412,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "An empty office chair",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2356,12 +2430,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "waiting-long"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A green wing armchair",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2372,12 +2448,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A bookcase with a plant and globe",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2388,12 +2468,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-list"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A wooden filing cabinet",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2404,12 +2488,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "waiting"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A small side table",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2420,12 +2506,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "technical"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "An open laptop",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2436,12 +2526,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A stack of books",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2452,12 +2546,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "writing"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "An open notebook and fountain pen",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2468,12 +2566,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A brass desk lamp",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2484,12 +2586,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "done-small"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A cup of coffee",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2500,12 +2604,15 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "waiting",
+    "timed-out"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A mantel clock",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2516,12 +2623,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "email"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "A letter tray with post",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2532,12 +2643,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "sent"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Sealed envelopes",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2548,12 +2661,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-list"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "A box of coloured file folders",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2564,12 +2681,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "scheduling"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "A corkboard with pinned notes",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2580,12 +2701,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "A rolled map",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2596,12 +2721,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Papers under a magnifying glass",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2612,12 +2741,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "waiting-long"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A potted plant",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2628,12 +2759,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "signing-off"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A coat stand with a jacket",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2644,12 +2777,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-next"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "A chalkboard checklist",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2660,12 +2797,16 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
-   "activities": [],
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "handoff"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Stacked cardboard boxes",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2676,12 +2817,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "signing-off"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "An umbrella in a brass stand",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2692,12 +2835,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "retrying"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "A wastebasket of crumpled paper",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -2709,7 +2854,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -2731,7 +2876,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -2753,7 +2898,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -2775,7 +2920,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "tangled"
    ],
@@ -2797,7 +2942,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -2819,7 +2964,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "not-found"
    ],
@@ -2841,7 +2986,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "not-found"
    ],
@@ -2863,7 +3008,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "blocked"
    ],
@@ -2885,7 +3030,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "offline"
    ],
@@ -2907,7 +3052,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "blocked"
    ],
@@ -2929,7 +3074,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "tangled"
    ],
@@ -2951,7 +3096,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "timed-out"
    ],
@@ -2973,7 +3118,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "not-found"
    ],
@@ -2995,7 +3140,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "tangled"
    ],
@@ -3017,7 +3162,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "your-turn"
    ],
@@ -3039,7 +3184,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "retrying"
    ],
@@ -3061,7 +3206,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "retrying"
    ],
@@ -3083,7 +3228,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "your-turn"
    ],
@@ -3105,7 +3250,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "your-turn"
    ],
@@ -3127,7 +3272,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "retrying"
    ],
@@ -3149,7 +3294,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3173,7 +3318,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "done-small"
    ],
@@ -3195,7 +3340,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3219,7 +3364,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3243,7 +3388,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3267,7 +3412,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3291,7 +3436,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "waiting-long"
    ],
@@ -3309,17 +3454,19 @@
    "file": "13-icons-hands-busts_08.webp",
    "sheet": "13-icons-hands-busts",
    "cell": null,
-   "characters": [
-    "tumnus"
-   ],
+   "characters": [],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "object",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "tracker-add"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "A manila folder",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -3331,7 +3478,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "blocked"
    ],
@@ -3353,7 +3500,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3377,7 +3524,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3401,7 +3548,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "object",
    "moments": [
     "start"
    ],
@@ -3425,7 +3572,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "hands",
    "moments": [
     "start"
    ],
@@ -3449,7 +3596,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "hands",
    "moments": [
     "start"
    ],
@@ -3473,7 +3620,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "hands",
    "moments": [
     "start"
    ],
@@ -3497,7 +3644,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "hands",
    "moments": [
     "start"
    ],
@@ -3521,7 +3668,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "hands",
    "moments": [
     "your-turn"
    ],
@@ -3543,7 +3690,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "hands",
    "moments": [
     "start"
    ],
@@ -3567,7 +3714,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "your-turn"
    ],
@@ -3589,7 +3736,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "done-small"
    ],
@@ -3611,7 +3758,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "start"
    ],
@@ -3635,7 +3782,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "hello"
    ],
@@ -3657,7 +3804,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "your-turn"
    ],
@@ -3679,7 +3826,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "done-small",
     "signing-off"
@@ -3703,7 +3850,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -3725,7 +3872,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -3747,7 +3894,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small",
     "signing-off"
@@ -3771,7 +3918,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -3793,7 +3940,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -3815,7 +3962,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -3839,7 +3986,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -3863,7 +4010,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -3887,7 +4034,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -3911,7 +4058,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -3935,7 +4082,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -3959,7 +4106,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -3983,7 +4130,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4007,7 +4154,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4031,7 +4178,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4055,7 +4202,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4079,7 +4226,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4103,7 +4250,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4127,7 +4274,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4151,7 +4298,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4175,7 +4322,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -4197,7 +4344,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -4219,7 +4366,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "tangled"
    ],
@@ -4241,7 +4388,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -4263,7 +4410,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -4285,7 +4432,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4309,13 +4456,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "full-body",
+   "moments": [
+    "oops"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus snapping a pencil in frustration",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -4327,7 +4476,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -4349,7 +4498,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -4371,7 +4520,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "tangled"
    ],
@@ -4393,7 +4542,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "hello"
    ],
@@ -4415,7 +4564,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "hello"
    ],
@@ -4437,7 +4586,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "waiting-long"
    ],
@@ -4459,13 +4608,15 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
+   "view": "portrait",
+   "moments": [
+    "your-turn"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus leaning in, pointing down at something",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -4477,7 +4628,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "start"
    ],
@@ -4501,7 +4652,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "start"
    ],
@@ -4525,7 +4676,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "your-turn"
    ],
@@ -4547,7 +4698,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "hello"
    ],
@@ -4569,7 +4720,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "your-turn"
    ],
@@ -4591,7 +4742,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "portrait",
    "moments": [
     "hello"
    ],
@@ -4613,7 +4764,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "morning-brief"
    ],
@@ -4635,7 +4786,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4659,7 +4810,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4683,7 +4834,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4707,7 +4858,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "waiting-long"
    ],
@@ -4729,13 +4880,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "research"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus reading through index cards",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -4747,7 +4902,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "waiting-long"
    ],
@@ -4769,7 +4924,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4793,7 +4948,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4817,7 +4972,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4841,7 +4996,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4865,7 +5020,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4889,7 +5044,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -4911,7 +5066,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4935,7 +5090,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -4959,7 +5114,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -4981,7 +5136,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5005,7 +5160,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5029,13 +5184,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "travel"
+   ],
    "seasons": [],
    "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "description": "Tumnus studying a map",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -5047,7 +5206,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -5069,7 +5228,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5091,7 +5250,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5113,7 +5272,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5135,7 +5294,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5157,7 +5316,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5179,7 +5338,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5201,7 +5360,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5223,7 +5382,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5245,7 +5404,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5267,7 +5426,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5289,7 +5448,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5311,7 +5470,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5333,7 +5492,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5355,7 +5514,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5377,7 +5536,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5399,7 +5558,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5421,7 +5580,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5443,7 +5602,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5465,7 +5624,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5487,7 +5646,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [],
    "activities": [],
    "seasons": [
@@ -5509,7 +5668,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -5531,7 +5690,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -5553,13 +5712,17 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
-   "moments": [],
-   "activities": [],
+   "view": "full-body",
+   "moments": [
+    "start"
+   ],
+   "activities": [
+    "focus"
+   ],
    "seasons": [],
-   "energy": "moderate",
-   "description": null,
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus adjusting a desk lamp, a moth fluttering by",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -5571,7 +5734,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -5593,7 +5756,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -5615,7 +5778,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -5637,7 +5800,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "signing-off"
    ],
@@ -5659,7 +5822,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5683,7 +5846,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small"
    ],
@@ -5705,7 +5868,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "oops"
    ],
@@ -5727,7 +5890,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5751,7 +5914,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5775,7 +5938,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5799,7 +5962,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5823,7 +5986,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5847,7 +6010,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5871,7 +6034,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5895,7 +6058,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5919,7 +6082,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5943,7 +6106,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5967,7 +6130,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -5991,7 +6154,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6015,7 +6178,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6039,7 +6202,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6063,7 +6226,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6087,7 +6250,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6111,7 +6274,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6135,7 +6298,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6159,7 +6322,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6183,7 +6346,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6207,7 +6370,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6231,7 +6394,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6255,7 +6418,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6279,7 +6442,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6303,7 +6466,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6327,7 +6490,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6351,7 +6514,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6375,7 +6538,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small",
     "start"
@@ -6401,7 +6564,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "start"
    ],
@@ -6425,7 +6588,7 @@
     "tumnus"
    ],
    "motifs": [],
-   "view": null,
+   "view": "full-body",
    "moments": [
     "done-small",
     "start"
@@ -8401,12 +8564,14 @@
    ],
    "motifs": [],
    "view": "full-body",
-   "moments": [],
+   "moments": [
+    "done-small"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": "clipboard-check",
-   "status": "unmapped",
+   "description": "Tumnus ticking a clipboard",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -8472,12 +8637,15 @@
    ],
    "motifs": [],
    "view": "full-body",
-   "moments": [],
+   "moments": [
+    "hello",
+    "signing-off"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": "hat-tip",
-   "status": "unmapped",
+   "description": "Tumnus tipping his hat",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -8641,12 +8809,14 @@
    "characters": [],
    "motifs": [],
    "view": "object",
-   "moments": [],
+   "moments": [
+    "done"
+   ],
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": "checklist",
-   "status": "unmapped",
+   "description": "A clipboard checklist with a tick",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -8829,12 +8999,14 @@
    ],
    "motifs": [],
    "view": "portrait",
-   "moments": [],
+   "moments": [
+    "done"
+   ],
    "activities": [],
    "seasons": [],
-   "energy": "moderate",
-   "description": "quiet-done-portrait",
-   "status": "unmapped",
+   "energy": "subdued",
+   "description": "Tumnus, eyes closed, relieved",
+   "status": "proposed",
    "v8_rows": []
   },
   {
@@ -23181,7 +23353,7 @@
    "activities": [],
    "seasons": [],
    "energy": "moderate",
-   "description": "Ramandu\u2019s daughter carrying a lamp, welcoming",
+   "description": "Ramandu’s daughter carrying a lamp, welcoming",
    "status": "proposed"
   },
   {
